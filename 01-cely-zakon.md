@@ -51,6 +51,42 @@ ZRO je tedy **agregátním** a **horizontálním** zákonem — stojí nad jedno
 
 Závěr § 1 zavádí klíčovou legislativní zkratku: **„Rada"** = Národní rozpočtová rada (NRR). Tato zkratka se používá v celém zákoně a — pozor — v dalších předpisech, které na ZRO odkazují, je třeba ji odlišovat od jiných „rad" (např. **Rady ČT**, **Rady ČRo**, **Rady ČTÚ**, **Rady vlády**, **Rady EU**, **Rady NKÚ** atp.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost A. s. r. o. (jediným společníkem je hlavní město Praha — ÚSC dle § 3 písm. h)) je při daňové kontrole sankcionována za to, že nesestavila střednědobý výhled rozpočtu, ačkoli ji ZRO jako veřejnou instituci podle § 3 zatěžuje povinnostmi dle §§ 4–8. Společnost se brání tvrzením, že ZRO „pouze transponuje směrnici" a sám žádné vykonatelné povinnosti nezakládá. Důkazy: zápis společnosti v registru ekonomických subjektů ČSÚ jako jednotka S.13, zakladatelská listina, výkaz o financování (převaha příjmů od ÚSC).
+
+**2. Právní otázka.** Zakládá § 1 ZRO samostatné, soudně/správně vynutitelné povinnosti, nebo je toliko transpoziční, navazovací a předmětovou doložkou bez vlastní normativní síly?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 ZRO — trojí doložka (transpoziční ke směrnici 2011/85/EU, navazovací na nař. 1466/1997, 1467/1997, 479/2009, 549/2013, a vymezení předmětu úpravy).
+- *Související ustanovení téhož zákona:* § 3 (definice veřejné instituce — adresát povinností), §§ 4–8 (konkrétní povinnosti), § 21 (působnost Rady) — teprve ona nesou vlastní normy.
+- *Související předpisy:* směrnice 2011/85/EU (čl. 4, 9, 14); čl. 288 SFEU (směrnice váže co do výsledku, nikoli přímo jednotlivce před transpozicí — zákaz horizontálního přímého účinku).
+- *Judikatura:* k povaze úvodních/předmětových ustanovení — ustálený výklad, že § „předmět úpravy" sám o sobě adresátům povinnosti neukládá, slouží k interpretaci zbytku zákona (srov. obecnou doktrínu ÚS k systematickému výkladu); k přímému účinku směrnic nosný závěr SDEU ve věci Marshall (směrnice nemůže sama o sobě ukládat povinnosti jednotlivci).
+
+**4. Subsumpce.** Povinnost sestavit výhled neplyne z § 1, nýbrž z § 5 odst. 1 ve spojení s § 3. § 1 plní funkci interpretační kotvy: označuje, že povinnosti §§ 4–8 je třeba vykládat eurokonformně. Sankční norma však v § 1 chybí — chybí znak „povinnost" i znak „následek porušení".
+
+**5. Řešení.** Sankcionovat společnost „za porušení § 1" nelze; nositelem povinnosti je § 5. Správně formulovaný závěr: společnost A. je veřejnou institucí (§ 3) a porušila § 5 odst. 1; § 1 je pouze argumentem pro eurokonformní výklad rozsahu této povinnosti. Procesně je třeba opřít jakékoli opatření o konkrétní ustanovení části druhé, nikoli o § 1.
+
+**6. Varianty.** (a) Kdyby společnost nebyla zapsána v RES jako S.13, nebyla by vůbec veřejnou institucí a § 1 ani §§ 4–8 by se neuplatnily. (b) Kdyby šlo o povinnost výslovně navázanou na přímo použitelné nařízení EU (např. EDP notifikace), aplikovalo by se přímo nařízení, a § 1 by sloužil jen jako navazovací doložka.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „transpoziční doložka je bezobsažná".* Lze namítnout, že transpoziční doložka má i normativní funkci — určuje mez eurokonformního výkladu a brání výkladu contra directivam. Neutralizace: doložka neukládá povinnost adresátu, ale váže orgán aplikující právo; to však není totéž co vynutitelná povinnost veřejné instituce.
+- *Protiargument o přímém účinku směrnice.* Po marném uplynutí transpoziční lhůty (31. 12. 2013 až do 21. 2. 2017) se jednotlivec mohl dovolat ustanovení směrnice vůči státu (vertikální vzestupný účinek), nikoli však stát vůči jednotlivci. Riziko záměny směru účinku.
+- *Slabé místo:* označení „Rada" v § 1 je pouhou legislativní zkratkou; nelze z něj dovozovat pravomoci NRR — ty plynou až z §§ 21 a násl.
+
+#### H. Praktický závěr
+
+§ 1 čtěte jako navigační a interpretační ustanovení, nikoli jako zdroj sankcí. Každé opatření i argument opřete o konkrétní hmotněprávní § části druhé či čtvrté; § 1 použijte k eurokonformnímu výkladu jejich rozsahu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikuj konkrétní hmotněprávní § ukládající povinnost (ne § 1).
+- [ ] Ověř, zda je adresát veřejnou institucí dle § 3 (dvouvrstvý test).
+- [ ] Použij § 1 jen jako kotvu eurokonformního výkladu.
+- [ ] Rozliš směr přímého účinku směrnice (stát ↔ jednotlivec).
+
+**Typicky rozhodné důkazy / podklady:** zápis v RES ČSÚ (S.13), zakladatelské dokumenty, transpoziční tabulka ke směrnici 2011/85/EU, text dotčeného § části druhé.
+
 ---
 
 ### § 2 — Úvodní ustanovení (principy rozpočtové odpovědnosti)
@@ -98,6 +134,42 @@ Třetí odstavec **propojuje** ustanovení § 2 s konkrétními pravidly v §§ 
 - **§ 17** — dluhové pravidlo pro ÚSC (60 % průměru příjmů za 4 roky).
 
 Odst. 3 lze chápat jako **konstitutivní opodstatnění** těchto pravidel — pokud by někdo zpochybňoval jejich proporcionalitu, lze argumentovat, že stát naplňuje **vlastní zákonný princip** zakotvený v § 2 odst. 3, jakož i **mezinárodněprávní závazek** plynoucí z Fiscal Compactu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec B. (ÚSC, § 3 písm. h)) schválí rozpočet s vysokým schodkem krytým novým úvěrem na výstavbu aquaparku, ačkoli její dluh se blíží 60 % průměru příjmů (§ 17). Skupina opozičních zastupitelů a posléze i ministerstvo namítají rozpor s principem zdravých a udržitelných financí. Obec oponuje, že § 2 je „pouhá deklarace bez sankce". Důkazy: rozpočtové dokumenty, propočet poměru dluh/příjmy, zápis z jednání zastupitelstva.
+
+**2. Právní otázka.** Lze z obecných principů § 2 (zdravé a udržitelné finance, 3E, udržitelný vývoj dluhu) dovodit samostatně vynutitelnou povinnost, nebo působí § 2 jen jako interpretační rámec ostatních ustanovení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1–3 ZRO — principy zdravých a udržitelných financí, transparentnosti/účelnosti/hospodárnosti/efektivnosti (3E + T), udržitelného vývoje dluhu.
+- *Související ustanovení téhož zákona:* § 14 a § 16 (dluhová pravidla — konkretizace odst. 3), § 17 (pravidlo pro ÚSC), §§ 5–7 (transparentnost — konkretizace odst. 2).
+- *Související předpisy:* § 4 odst. 2 zákona č. 320/2001 Sb. (3E ve finanční kontrole); § 14 zákona č. 218/2000 Sb. (RPS); § 4 odst. 5 zákona č. 250/2000 Sb. (zásada vyrovnaného rozpočtu ÚSC); čl. 101 odst. 4 Ústavy (dozor státu nad samosprávou jen při ochraně zákona).
+- *Judikatura:* k mezigenerační solidaritě a udržitelnosti veřejných financí jako legitimnímu cíli — nosný závěr ÚS, že stát smí v zájmu udržitelnosti veřejných financí zasahovat do sociálních a majetkových pozic, dbá-li proporcionality (Pl. ÚS k důchodové a sociální oblasti); k mezím dozoru nad samosprávou Pl. ÚS k čl. 100–101 Ústavy.
+
+**4. Subsumpce.** § 2 sám neukládá „nezadlužit se"; tento požadavek nese až § 17. § 2 odst. 3 však slouží jako *konstitutivní opodstatnění* proporcionálního výkladu § 17 — obec nemůže své jednání ospravedlnit poukazem na samosprávu, narušuje-li dlouhodobou udržitelnost, k níž ji zavazuje vlastní zákonný princip.
+
+**5. Řešení.** Opatření proti obci se opře o § 17 (nikoli § 2). § 2 figuruje jako interpretační vodítko a jako odpověď na námitku nepřiměřenosti zásahu do samosprávy: zákonodárce hodnotu udržitelnosti výslovně zakotvil. Pravděpodobný výsledek: je-li překročen práh § 17, nastupují tam stanovené následky; § 2 posiluje jejich ústavní obhajitelnost.
+
+**6. Varianty.** (a) Kdyby dluh obce zůstal pod prahem § 17, nelze z § 2 samostatně dovodit zákaz schodku — obec hospodaří v rámci samosprávy. (b) Kdyby šlo o stát (odst. 1 míří na stát a ÚSC), princip by se promítl do výkladu §§ 9–12 a hodnocení Rady dle § 21.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „soft law nezavazuje".* Namítne se, že § 2 je bez sankce, tedy nevynutitelný. Neutralizace: jde o normu interpretační a programovou, jejíž porušení se projeví zprostředkovaně skrze §§ 14–17 a hodnocení Rady; samostatná sankce není jeho funkcí.
+- *Protiargument o zásahu do práva na samosprávu (čl. 100 Ústavy).* Riziko, že přísný výklad § 2 vůči ÚSC bude napaden jako neproporcionální. Neutralizace: § 2 stanoví toliko cíl, nikoli konkrétní rozpočtové rozhodnutí; konkrétní omezení plynou z § 17, jehož ústavnost je v doktríně potvrzena.
+- *Slabé místo:* pojmy „zdravé" a „udržitelné" finance nejsou kvantifikovány; argumentace musí čerpat kritéria ze zpráv Rady (§ 21) a z práva EU (MTO).
+
+#### H. Praktický závěr
+
+§ 2 je interpretační páteří ZRO: použijte jej k výkladu a k ústavní obhajobě konkrétních pravidel (§§ 5–7, 14–17), nikoli jako samostatný sankční titul. Vůči ÚSC argumentujte tím, že udržitelnost je výslovný zákonný cíl, nikoli vnější diktát státu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odliš programový princip (§ 2) od vynutitelného pravidla (§§ 14–17).
+- [ ] Při zásahu vůči ÚSC test proporcionality (legitimní cíl dle § 2 odst. 3).
+- [ ] Kritéria „udržitelnosti" čerpej ze zpráv Rady a z MTO.
+- [ ] U státu promítni § 2 do výkladu §§ 9–12.
+
+**Typicky rozhodné důkazy / podklady:** rozpočet a střednědobý výhled, propočet poměru dluh/příjmy, zprávy NRR o udržitelnosti, konvergenční program.
 
 ---
 
@@ -219,6 +291,45 @@ Definice § 3 určuje **okruh adresátů povinností** dle § 4–8 (rozpočet, 
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost C., a. s., je ze 100 % vlastněna státem (zakladatelem je ministerstvo dle písm. a)), financována převážně z plateb za veřejnou službu hrazených ze státního rozpočtu a stát v ní obsazuje většinu představenstva i dozorčí rady. ČSÚ ji nicméně dosud nezapsal do RES jako jednotku sektoru vládních institucí (S.13), neboť ji klasifikuje jako tržního výrobce mimo S.13. MF přesto požaduje plnění povinností §§ 5–7. Společnost odmítá s tím, že není „veřejnou institucí". Důkazy: zakladatelská listina, struktura financování, personální obsazení orgánů, sektorová klasifikace ČSÚ v RES, manuál MGDD.
+
+**2. Právní otázka.** Je pro zařazení mezi veřejné instituce nutné kumulativní splnění obou podmínek (kategorie písm. a)–m) *a zároveň* zápis v RES jako S.13), nebo postačí naplnění formálně-institucionálního testu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 ZRO — dvouvrstvý test (13 kategorií písm. a)–m) + závěrečná podmínka zápisu v RES jako jednotka S.13 dle ESA 2010).
+- *Související ustanovení téhož zákona:* § 6 odst. 2 (seznam veřejných institucí MF k 31. 10.), §§ 4–8 (povinnosti adresátů), § 10 (vstup do celkových výdajů sektoru).
+- *Související předpisy:* nař. (EU) č. 549/2013 (ESA 2010 — definice S.13 a market/non-market testu 50 %); zákon č. 89/1995 Sb., o státní statistické službě (RES); zákon č. 219/2000 Sb. (OSS, SPO); manuál Eurostatu MGDD.
+- *Judikatura:* autonomie pojmů jednotlivých zákonů — nosný závěr, že tentýž výraz („veřejná instituce") má v různých předpisech různý obsah dle účelu; k pojmu veřejné instituce v jiném kontextu srov. judikaturu k § 2 odst. 1 zákona č. 106/1999 Sb. (NSS — test ovládání a financování), kterou však nelze mechanicky přenést.
+
+**4. Subsumpce.** Společnost C. naplňuje formálně-institucionální test (písm. f) — PO zřízená institucí dle písm. a), převážně financovaná veřejnými prostředky, kapitálově i personálně ovládaná). Druhý — statisticko-ekonomický — test však *není* splněn: chybí zápis v RES jako S.13 (ČSÚ ji řadí mimo sektor podle market testu 50 %). Podmínky jsou kumulativní.
+
+**5. Řešení.** Dokud ČSÚ společnost nezařadí do S.13, *není* veřejnou institucí dle ZRO a povinnosti §§ 5–7 ji netíží; MF ji nemůže do nich nutit. Klíčem je sektorová klasifikace ČSÚ, nikoli vlastnictví. Procesně: MF má usilovat o správné zařazení cestou komunikace s ČSÚ (případně podnětu k revizi klasifikace dle MGDD), nikoli o přímé vymáhání povinností. Pravděpodobný výsledek: spor se rozhodne na úrovni statistické metodologie.
+
+**6. Varianty.** (a) Zařadí-li ČSÚ společnost do S.13 (např. ztratí-li tržní povahu, protože tržby kryjí < 50 % nákladů), stává se k 31. 10. veřejnou institucí a povinnosti nastupují. (b) Kdyby zakladatelem byl ÚSC, aplikovalo by se písm. k) (mírně odlišný test — ovládání > poloviny orgánu), nikoli písm. f).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje materiální ovládání, ne formální zápis".* Namítne se, že fakticky jde o stoprocentní státní firmu a výklad popírající její podřízení ZRO je formalistický. Neutralizace: zákonodárce vědomě zvolil objektivní statistické kritérium S.13 (ESA 2010), aby se vyhnul kazuistickému posuzování; toto kritérium je závazné.
+- *Protiargument záměny s pojmem dle InfZ.* Riziko převzetí testu „veřejné instituce" z judikatury k zákonu č. 106/1999 Sb. Neutralizace: § 3 ZRO je autonomní; testy se liší (ZRO vyžaduje navíc zápis S.13).
+- *Slabé místo:* sektorová klasifikace ČSÚ je revidovatelná a může se měnit v čase; zařazení v jednom roce nezaručuje zařazení v dalším (seznam dle § 6 odst. 2 je každoroční). Chybí soudní přezkum seznamu — má deklaratorní povahu.
+
+#### H. Praktický závěr
+
+Postavení „veřejné instituce" určete dvoukrokově: nejdřív kategorie písm. a)–m), pak zápis v RES jako S.13 podle ESA 2010 (oboje kumulativně). Rozhodujícím a často přehlíženým prvkem je sektorová klasifikace ČSÚ — bez ní subjekt do ZRO nespadá bez ohledu na 100% vlastnictví. Vždy vycházejte z aktuálního seznamu MF k 31. 10. (§ 6 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařaď subjekt do některé z kategorií písm. a)–m).
+- [ ] Ověř zápis v RES ČSÚ jako jednotka S.13 (ESA 2010).
+- [ ] Zkontroluj aktuální seznam MF k 31. 10. (§ 6 odst. 2).
+- [ ] U PO rozliš písm. f) (stát) vs. písm. k) (ÚSC) — odlišný test ovládání.
+- [ ] Nezaměňuj pojem s „veřejnou institucí" dle InfZ.
+
+**Typicky rozhodné důkazy / podklady:** výpis z RES se sektorovým kódem (S.13), zakladatelské dokumenty, struktura financování (podíl veřejných příjmů), složení statutárního a dozorčího orgánu, seznam MF dle § 6 odst. 2.
+
+---
+
 ## ČÁST DRUHÁ — PRAVIDLA ROZPOČTOVÉ ODPOVĚDNOSTI (§§ 4–18)
 
 ### Rozpočet a střednědobý výhled veřejné instituce
@@ -251,6 +362,42 @@ Zdravotní pojišťovny mají vlastní rozpočtový režim — sestavují **zdra
 #### Střednědobý výhled — minimálně 2 roky (odst. 3 + § 5 odst. 1)
 
 Definice je propojena s § 5 odst. 1 — střednědobý výhled se sestavuje na **nejméně 2 další následující rozpočtové roky** (mimo rok rozpočtový). Celé plánovací období veřejné instituce je tedy **minimálně 3 roky** (rozpočtový rok + 2 výhledové roky). Toto naplňuje požadavek **čl. 9 odst. 1 směrnice 2011/85/EU**, který ukládá členským státům zavést střednědobý rozpočtový rámec s plánovacím horizontem **alespoň 3 roky**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Veřejná výzkumná instituce D. (§ 3 písm. d)), vedoucí podvojné účetnictví, sestaví „rozpočet" pouze jako plán příjmů a výdajů (cash), bez plánu výnosů a nákladů a bez střednědobého výhledu. Při kontrole MF namítá, že rozpočet neodpovídá § 4 a chybí výhled dle odst. 3. VVI oponuje, že si formu rozpočtu volí sama. Důkazy: účetní závěrka (akruální báze), schválený rozpočtový dokument, vnitřní předpis o sestavování rozpočtu.
+
+**2. Právní otázka.** Může veřejná instituce vedoucí podvojné účetnictví splnit povinnost dle § 4 odst. 1 rozpočtem v peněžní (cash) formě, nebo musí zvolit formu odpovídající své účetní bázi (plán výnosů a nákladů)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 (alternativa cash vs. akruál), odst. 3 (definice střednědobého výhledu na každý plánovaný rok).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (výhled na nejméně 2 další roky), § 10 (konsolidace celkových výdajů dle ESA 2010 — sjednocení obou bází).
+- *Související předpisy:* zákon č. 563/1991 Sb., o účetnictví (vymezení účetní jednotky a báze); zákon č. 341/2005 Sb. (hospodaření VVI); čl. 9 odst. 1 směrnice 2011/85/EU (střednědobý rámec ≥ 3 roky).
+- *Judikatura:* k povaze definičních ustanovení — výklad, že definiční norma sama nezakládá sankci, ale určuje obsah povinnosti uložené jinde (zde § 5).
+
+**4. Subsumpce.** § 4 odst. 1 nabízí *alternativu* („nebo") — cash i akruál jsou přípustné formy. Zákon neukládá vázat formu rozpočtu na účetní bázi; VVI tedy formálně může volit. Skutečné porušení leží jinde: chybí *střednědobý výhled* (§ 4 odst. 3 + § 5 odst. 1), jehož absence je vadou bez ohledu na zvolenou formu.
+
+**5. Řešení.** Výtku ohledně formy (cash vs. akruál) nelze udržet — § 4 obě připouští. Udržitelná je výtka chybějícího výhledu na nejméně 2 další roky. Pravděpodobný výsledek: VVI musí doplnit střednědobý výhled; volba cash formy zůstane respektována. Procesně se opatření opře o § 5 odst. 1, nikoli o § 4 (definiční norma).
+
+**6. Varianty.** (a) Půjde-li o zdravotní pojišťovnu, je forma předurčena — „rozpočtem" je zdravotně pojistný plán (odst. 2), volba neexistuje. (b) Sestaví-li instituce výhled jen na 1 rok, poruší § 5 odst. 1 (minimum 2 roky) a tím i čl. 9 směrnice (horizont 3 roky).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „forma musí kopírovat účetní bázi".* Namítne se, že cash rozpočet u akruální jednotky je nekonzistentní. Neutralizace: ZRO formu nesjednocuje záměrně — konsolidace probíhá až dle ESA 2010 v § 10; na úrovni jednotlivé instituce zákon volnost ponechává.
+- *Protiargument o sankci za vadnou formu.* Riziko, že kontrola bude sankcionovat „špatnou formu" rozpočtu. Neutralizace: § 4 je definiční, sankci nenese; pochybení je nutno navázat na konkrétní povinnostní normu (§ 5).
+- *Slabé místo:* u subjektů s hospodářským rokem ≠ kalendářní rok vzniká otázka převodu na kalendářní rok pro účely ZRO/ESA — § 4 to neřeší výslovně.
+
+#### H. Praktický závěr
+
+§ 4 jen *definuje* rozpočet a výhled a nabízí dvě rovnocenné formy (cash/akruál; u pojišťoven zdravotně pojistný plán). Vynutitelná povinnost je v § 5. Kontrolujte zejména existenci střednědobého výhledu na ≥ 2 další roky, nikoli „správnost" zvolené formy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči přípustnou formu rozpočtu (cash / akruál; pojišťovna = ZPP).
+- [ ] Ověř existenci střednědobého výhledu na ≥ 2 další roky (§ 5 odst. 1).
+- [ ] Opatření opři o § 5, ne o § 4.
+- [ ] U hospodářského roku ≠ kalendářní řeš převod pro ESA.
+
+**Typicky rozhodné důkazy / podklady:** schválený rozpočet a výhled, účetní závěrka (báze účetnictví), vnitřní předpis o rozpočtu, u pojišťovny zdravotně pojistný plán.
 
 ---
 
@@ -305,6 +452,45 @@ Tento požadavek umožňuje občanovi a politické opozici **porovnat** plán s 
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Město E. (ÚSC) zveřejní návrh rozpočtu na své úřední desce a webu pouze 8 dnů před zasedáním zastupitelstva a schválený rozpočet pak po 45 dnech. Občan podá podnět; namítá porušení § 5 odst. 2. Město tvrdí, že dodrželo „10 dnů, jak chce ZRO". Důkazy: datum vyvěšení a sejmutí návrhu (potvrzení úřední desky), pozvánka na zasedání, datum schválení a datum zveřejnění schváleného rozpočtu.
+
+**2. Právní otázka.** Která lhůta pro zveřejnění návrhu rozpočtu ÚSC platí — 10 dnů dle § 5 odst. 2 písm. a) ZRO, nebo přísnější 15 dnů dle § 11 odst. 3 zákona č. 250/2000 Sb. (RP-ÚR) — a jaké jsou důsledky pozdního zveřejnění schváleného rozpočtu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 2 písm. a) (návrh ≥ 10 dnů předem), písm. b) (schválený ≤ 30 dnů poté), s výhradou „nestanoví-li jiný právní předpis jinak"; odst. 3 (srovnávací informace).
+- *Související ustanovení téhož zákona:* § 6 (zveřejňování MF), § 7 odst. 4 (CSÚIS jako alternativní plnění), § 2 odst. 2 (princip transparentnosti).
+- *Související předpisy:* § 11 odst. 3 a § 16 odst. 4 zákona č. 250/2000 Sb. (návrh rozpočtu/závěrečného účtu ÚSC ≥ 15 dnů předem); § 39 odst. 4 zákona č. 218/2000 Sb. (státní rozpočet); čl. 4 a 14 směrnice 2011/85/EU (transparentnost).
+- *Judikatura:* k důsledkům porušení publikačních lhůt u rozpočtu ÚSC — nosný závěr NSS, že vada zveřejnění návrhu rozpočtu může vést k nezákonnosti opatření obecné povahy / usnesení, je-li podstatná a měla vliv na účast veřejnosti.
+
+**4. Subsumpce.** Klauzule „nestanoví-li jiný právní předpis jinak" odkazuje na lex specialis pro ÚSC — § 11 odst. 3 RP-ÚR (15 dnů). Ten je přísnější, proto se použije *namísto* 10 dnů. Vyvěšení 8 dnů předem porušuje 15denní lhůtu. Zveřejnění schváleného rozpočtu po 45 dnech porušuje 30denní lhůtu § 5 odst. 2 písm. b).
+
+**5. Řešení.** Město pochybilo dvojnásob: nedodrželo 15denní (nikoli 10denní) lhůtu pro návrh a 30denní lhůtu pro schválený rozpočet. Pravděpodobný výsledek: dozor MV/krajského úřadu nad samostatnou působností může vyzvat ke zjednání nápravy; při podstatném zkrácení účasti veřejnosti hrozí zpochybnění platnosti usnesení o rozpočtu. Procesně: náprava = nové řádné zveřejnění, případně opětovné projednání.
+
+**6. Varianty.** (a) Jsou-li srovnávací data (odst. 3) dostupná v systému MONITOR/CSÚIS, odpadá povinnost zveřejňovat je s návrhem (výjimka odst. 3 in fine). (b) U státního rozpočtu by se uplatnil § 39 odst. 4 RPS, nikoli 15denní lhůta RP-ÚR.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ZRO stanoví jen 10 dnů".* Město spoléhá na text ZRO. Neutralizace: výhrada „nestanoví-li jiný předpis jinak" činí z RP-ÚR lex specialis; přísnější 15denní lhůta převažuje.
+- *Protiargument o pouhé pořádkové povaze lhůty.* Namítne se, že jde o lhůtu bez sankce. Neutralizace: porušení publikačních povinností u rozpočtu může být podstatnou procesní vadou s vlivem na zákonnost usnesení (judikatura NSS k OOP a k rozpočtům ÚSC).
+- *Slabé místo:* „obvyklý způsob v místě" je neurčitý; spor o to, zda postačí jen fyzická deska, nebo musí být i elektronická úřední deska — riziko výkladové nejistoty.
+
+#### H. Praktický závěr
+
+U ÚSC řiďte zveřejnění návrhu rozpočtu přísnější 15denní lhůtou RP-ÚR (nikoli 10 dny ZRO), schválený rozpočet zveřejněte do 30 dnů a vždy připojte srovnávací data za předchozí rok, ledaže jsou v MONITORU/CSÚIS. Zveřejňujte elektronicky i fyzicky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči přísnější publikační lhůtu (ÚSC: 15 dnů RP-ÚR vs. 10 dnů ZRO).
+- [ ] Dodrž 30denní lhůtu pro zveřejnění schváleného rozpočtu.
+- [ ] Připoj srovnávací data za předchozí rok (odst. 3), nejsou-li v MONITOR/CSÚIS.
+- [ ] Zveřejni elektronicky i „obvyklým způsobem v místě".
+- [ ] Archivuj doklady o datech vyvěšení a sejmutí.
+
+**Typicky rozhodné důkazy / podklady:** potvrzení úřední desky (vyvěšení/sejmutí), pozvánka a zápis ze zastupitelstva, screenshot webu s datem, výstup z MONITOR/CSÚIS.
+
+---
+
 ### Zveřejňování informací
 
 ### § 6 — Zveřejňování informací ministerstvem
@@ -329,6 +515,42 @@ Klíčová prováděcí norma — definuje, **kdo konkrétně** v daném roce je
 2. **31. 10.** — MF zveřejní **seznam veřejných institucí**.
 
 Seznam je **závazným** vymezením okruhu adresátů pro daný rok — instituce v něm uvedené musí plnit povinnosti ZRO, instituce neuvedené nikoli. **Sporné případy** se řeší v rámci komunikace MF–ČSÚ; uplatnění § 244 a násl. soudního řádu správního (žaloba proti rozhodnutí správního orgánu) je pochybné — seznam má spíše charakter **deklaratorní informace** než správního rozhodnutí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Příspěvková organizace F. (zřízená krajem) zjistí, že není uvedena na seznamu veřejných institucí, který MF zveřejnilo k 31. 10. Spoléhá na to, a v dalším roce neplní povinnosti §§ 5–7. ČSÚ ji přitom k 30. 9. evidoval jako S.13 a do seznamu se nedostala zjevně administrativní chybou. MF následně tvrdí, že povinnosti měla plnit. Důkazy: zveřejněný seznam MF, podklad ČSÚ k 30. 9., zápis v RES.
+
+**2. Právní otázka.** Jakou právní povahu má seznam veřejných institucí dle § 6 odst. 2 — je konstitutivním (závazným) vymezením okruhu adresátů pro daný rok, nebo jen deklaratorní informací, takže povinnosti plynou přímo z § 3 bez ohledu na zápis v seznamu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (zveřejňování MF na webu), odst. 2 (seznam k 31. 10. na základě údajů ČSÚ k 30. 9.).
+- *Související ustanovení téhož zákona:* § 3 (definice veřejné instituce — materiální zdroj povinnosti), §§ 5–7 (povinnosti), § 7 odst. 4 (CSÚIS).
+- *Související předpisy:* zákon č. 89/1995 Sb. (RES, statistická služba); § 244 a násl. s. ř. s. (přezkum rozhodnutí — sporná aplikovatelnost); zákon č. 106/1999 Sb. (právo na informace, subsidiárně).
+- *Judikatura:* odlišení rozhodnutí od informativního úkonu — nosný závěr NSS, že úkon, který nezakládá, nemění ani nezrušuje práva a povinnosti, není rozhodnutím přezkoumatelným dle s. ř. s.; povinnost plyne ze zákona, nikoli z evidenčního aktu.
+
+**4. Subsumpce.** Povinnosti §§ 5–7 stíhají subjekt, *je-li* veřejnou institucí dle § 3 (dvouvrstvý test) — tedy ze zákona, nikoli z faktu zápisu v seznamu. Seznam má deklaratorní (informativní) povahu; jeho účelem je zveřejnit, kdo splňuje § 3, nikoli teprve konstituovat status. Administrativní opomenutí v seznamu proto status veřejné instituce neruší.
+
+**5. Řešení.** PO F. byla veřejnou institucí dle § 3 (byla S.13 v RES), a proto měla povinnosti §§ 5–7 plnit bez ohledu na chybějící zápis v seznamu. Spoléhání na seznam ji nezbavuje odpovědnosti, byť absence v seznamu je relevantní pro posouzení dobré víry a případné sankce. Procesně: seznam nelze samostatně žalovat (deklaratorní akt); spor o status se vede prostřednictvím sektorové klasifikace ČSÚ.
+
+**6. Varianty.** (a) Kdyby PO *nebyla* v RES jako S.13, pak by — i kdyby ji MF do seznamu omylem zařadilo — veřejnou institucí nebyla; rozhodující je § 3, ne seznam. (b) Kdyby šlo o újmu z nesprávného úředního postupu při tvorbě seznamu, přichází v úvahu úvaha o odpovědnosti státu dle zákona č. 82/1998 Sb. (omezeně, pro deklaratorní akt obtížně).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „seznam je závazný".* Subjekt se brání legitimním očekáváním z absence v seznamu. Neutralizace: status je dán zákonem (§ 3); seznam je deklaratorní; legitimní očekávání může zmírnit sankci, ne však zrušit povinnost.
+- *Protiargument o soudní ochraně.* Namítne se nemožnost bránit se proti seznamu. Neutralizace: ochrana se realizuje sporem o sektorovou klasifikaci u ČSÚ, nikoli žalobou proti seznamu.
+- *Slabé místo:* časový nesoulad — seznam vychází z dat ČSÚ k 30. 9., ale klasifikace se v průběhu roku mění; subjekt zařazený později než 30. 9. se na seznam pro daný rok nedostane.
+
+#### H. Praktický závěr
+
+Seznam MF k 31. 10. berte jako deklaratorní vodítko, ne jako konstitutivní akt: rozhodující je status dle § 3. Subjekt splňující dvouvrstvý test plní povinnosti i tehdy, není-li (omylem) na seznamu. Proti seznamu se přímo žalobou bránit nelze; spory řešte na úrovni klasifikace ČSÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posuď status primárně dle § 3, ne dle seznamu.
+- [ ] Porovnej seznam MF (31. 10.) s podkladem ČSÚ (30. 9.).
+- [ ] Absenci v seznamu uplatni nanejvýš k dobré víře/sankci, ne k popření statusu.
+- [ ] Spory o status veď přes sektorovou klasifikaci ČSÚ.
+
+**Typicky rozhodné důkazy / podklady:** zveřejněný seznam MF, podklad ČSÚ k 30. 9., výpis z RES (S.13), korespondence MF–ČSÚ.
 
 ---
 
@@ -399,6 +621,43 @@ Statisticky důležitá norma — **metodika ESA 2010** se v některých detaile
 
 § 7 odst. 6 ukládá MF zveřejnit společně s daty také **způsob jejich stanovení** — tedy zdroje, výpočtové vzorce, metodické předpoklady. Transponuje **čl. 4 odst. 6 směrnice 2011/85/EU** (transparentnost makroekonomických prognóz a metod).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stát poskytl prostřednictvím MF státní záruku za úvěr společnosti se státní účastí ve výši odpovídající 0,3 % HDP a současně eviduje majetkovou účast v energetické a. s. v hodnotě nad 0,01 % HDP. MF tyto položky nezahrne do roční zprávy o podmíněných závazcích a majetkových účastech dle § 7 odst. 1. NRR a Rozpočtový výbor PS namítají neúplnost. Důkazy: rozhodnutí o poskytnutí záruky, evidence v RPS, ocenění účasti, výkazy z CSÚIS.
+
+**2. Právní otázka.** Stíhá MF povinnost zveřejnit konkrétní podmíněný závazek (státní záruku) a majetkovou účast přesahující prahy § 7 odst. 1 písm. a) a c), a jaký je důsledek jejího nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 písm. a)–d) (podmíněné závazky, po-lhůtě úvěry, majetkové účasti > 0,01 % HDP, daňové úlevy), odst. 4 (CSÚIS), odst. 5–6 (most ESA a metodická transparentnost).
+- *Související ustanovení téhož zákona:* § 6 (zveřejňování MF), § 9 odst. 4 (souhrnná informace o mimorozpočtových účtech), § 21 odst. 2 písm. c) (sledování hospodaření Radou).
+- *Související předpisy:* zákon č. 563/1991 Sb. (podmíněné závazky v účetnictví); vyhláška č. 383/2009 Sb. (CSÚIS); nař. (EU) č. 549/2013 (ESA 2010 — veřejné společnosti); čl. 14 odst. 3 směrnice 2011/85/EU (zveřejňování fiskálních rizik).
+- *Judikatura:* k transparenci fiskálních rizik chybí přímá tuzemská judikatura; argumentačně lze užít nosný závěr o přednosti eurokonformního výkladu povinností transponujících směrnici.
+
+**4. Subsumpce.** Záruka ve výši 0,3 % HDP je „podmíněným závazkem s předpokládaným významným dopadem" (písm. a)) — podléhá zveřejnění včetně ocenění. Majetková účast nad 0,01 % HDP spadá pod písm. c). Obě položky přesahují prahy → MF má povinnost je zveřejnit. Nesplnění je porušením informační povinnosti transponující čl. 14 směrnice.
+
+**5. Řešení.** MF musí obě položky doplnit do roční zprávy (písm. a) a c)), a to s oceněním a popisem metody (odst. 6) a mostem k ESA (odst. 5). Vynucení je primárně politicko-kontrolní: negativní hodnocení NRR (§ 21), kritika Rozpočtového výboru PS, případně řízení EK o porušení transpozice směrnice. Procesně: náprava = revize a opětovné zveřejnění zprávy.
+
+**6. Varianty.** (a) Účast pod 0,01 % HDP zveřejňovat nemusí (nesplněn práh písm. c)). (b) Po-lhůtě úvěr 90+ dnů (písm. b)) by se zveřejnil bez ohledu na výši — práh je časový, ne hodnotový. (c) Daňová úleva (písm. d)) se vykazuje jako tax expenditure, i když nejde o „výdaj" v rozpočtovém smyslu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nejde o významný dopad".* MF může tvrdit, že záruka není „významná". Neutralizace: u písm. c) je práh objektivní (0,01 % HDP); u písm. a) je 0,3 % HDP zjevně významné; posouzení významnosti nesmí být svévolné.
+- *Protiargument o absenci sankce.* Namítne se nevynutitelnost. Neutralizace: sankce je nepřímá (NRR, PS, EK), ale reálná — transpozice směrnice zakládá i odpovědnost ČR vůči EU.
+- *Slabé místo:* některé položky (PPP, spory) se obtížně oceňují; metodická nejistota může být záminkou pro nezveřejnění — proto odst. 6 vyžaduje popis metody.
+
+#### H. Praktický závěr
+
+§ 7 je „zpráva o skrytém fiskálním riziku": MF musí periodicky a metodicky transparentně zveřejnit podmíněné závazky (vč. záruk a dluhů veřejných společností), po-lhůtě úvěry, větší majetkové účasti a daňové úlevy, s mostem k ESA. Kontrolní orgány hlídají úplnost; data čerpejte z CSÚIS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Projdi všechny čtyři kategorie odst. 1 (a–d) a ověř prahy.
+- [ ] U podmíněných závazků doplň ocenění (písm. a)).
+- [ ] U po-lhůtě úvěrů použij časový práh 90 dnů (písm. b)).
+- [ ] Připoj popis metody (odst. 6) a most k ESA (odst. 5).
+- [ ] Ověř dodržení frekvence vykazování (odst. 2 a 3).
+
+**Typicky rozhodné důkazy / podklady:** evidence záruk v RPS, ocenění majetkových účastí, výkazy z CSÚIS, metodika tax expenditures, stanoviska NRR.
+
 ---
 
 ### § 8 — Prognózy
@@ -448,6 +707,45 @@ Pokud je prognóza **podstatně zkreslena** po dobu **alespoň 4 po sobě násle
 #### Transparentnost prognóz (odst. 5)
 
 MF musí zveřejnit nejen samotné prognózy, ale i **metodiku** a **předpoklady**. To umožňuje **replikaci** prognóz odbornou veřejností a tím **kontrolu jejich kvality**.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** MF po čtyři po sobě jdoucí roky systematicky nadhodnocuje růst HDP o cca 1,5 p. b. oproti prognóze ČNB i Komise, čímž optimisticky nadsazuje daňové výnosy a podsazuje deficit. Výbor pro rozpočtové prognózy opakovaně označuje prognózu za málo pravděpodobnou. MF přesto nepřijímá žádná opatření a podstatné rozdíly oproti Komisi neodůvodňuje. Opozice tvrdí porušení § 8. Důkazy: prognózy MF, ČNB, Komise (Spring/Autumn Forecast), stanoviska Výboru, ex-post hodnocení přesnosti.
+
+**2. Právní otázka.** Zakládá § 8 vynutitelnou povinnost MF přijmout opatření při podstatném zkreslení prognózy po dobu nejméně 4 let (odst. 4) a odůvodnit podstatné rozdíly vůči Komisi (odst. 1), a jak se tato povinnost prosadí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (benchmarking s Komisí, odůvodnění rozdílů), odst. 2 (analýza citlivosti), odst. 3 (ex-post hodnocení + stanovisko Výboru), odst. 4 (opatření při 4letém zkreslení), odst. 5 (transparentnost metodiky).
+- *Související ustanovení téhož zákona:* § 19 (Výbor pro rozpočtové prognózy — posuzování prognóz), § 9 (strategie vychází z prognózy), § 10 (cyklické očištění příjmů z prognózy).
+- *Související předpisy:* čl. 4 odst. 1, 4, 5, 6 směrnice 2011/85/EU; nař. (ES) č. 1466/1997 (preventivní složka).
+- *Judikatura:* k vynutitelnosti „povinnosti přijmout opatření" bez určení jejich obsahu — analogicky výklad, že kde zákon ukládá cíl bez prostředku, je splnění předmětem politického uvážení a kontroly, nikoli soudního přezkumu obsahu.
+
+**4. Subsumpce.** Odst. 1 ukládá *odůvodnit* podstatné rozdíly vůči Komisi — to MF neučinilo (porušení). Odst. 4 stanoví, že při podstatném zkreslení po ≥ 4 letech MF *přijme nezbytná opatření a zveřejní je* — podmínka 4 let je naplněna, MF nekonalo (porušení). Obsah opatření však zákon neurčuje (změna metodiky, personálu, externí expertiza).
+
+**5. Řešení.** MF porušilo odst. 1 (neodůvodnění rozdílů) i odst. 4 (nepřijetí opatření po 4letém zkreslení). Vynucení je institucionální: stanovisko Výboru (§ 19), tlak NRR a PS, reputační a politické důsledky; obsah opatření zůstává na uvážení MF (změna metodiky apod.). Soud nenahradí volbu opatření, může však konstatovat nesplnění povinnosti zveřejnit a odůvodnit. Procesně: nejúčinnější je veřejné stanovisko Výboru a projednání v Rozpočtovém výboru PS.
+
+**6. Varianty.** (a) Trvá-li zkreslení jen 2–3 roky, odst. 4 se neaktivuje (chybí znak „nejméně 4 roky"); zbývá jen povinnost odůvodnění dle odst. 1. (b) Odůvodní-li MF rozdíly věcně (např. odlišný předpoklad cen energií), povinnost odst. 1 je splněna, byť prognóza zůstane optimistická.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „opatření jsou na uvážení vlády".* MF tvrdí diskreci. Neutralizace: diskrece se týká *obsahu* opatření, nikoli *toho, zda* opatření přijmout a zveřejnit — to je při splnění podmínky odst. 4 obligatorní.
+- *Protiargument o nepřezkoumatelnosti prognóz.* Namítne se, že kvalitu prognózy nelze soudně hodnotit. Neutralizace: nepřezkoumává se „správnost" prognózy, ale splnění procedurálních povinností (odůvodnění, hodnocení, zveřejnění, opatření).
+- *Slabé místo:* pojem „podstatné zkreslení" a „podstatné rozdíly" je neurčitý; bez kvantitativního prahu hrozí spor o naplnění podmínky — opřete se o stanoviska Výboru jako odborný benchmark.
+
+#### H. Praktický závěr
+
+§ 8 vytváří „accountability through evaluation": MF musí prognózy benchmarkovat vůči Komisi a odůvodnit rozdíly, provádět analýzu citlivosti, ex-post hodnotit přesnost se stanoviskem Výboru a při ≥ 4letém zkreslení přijmout a zveřejnit opatření. Vynutitelné jsou procedurální kroky, ne obsah opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porovnej prognózu MF s Komisí a dalšími; odůvodni podstatné rozdíly (odst. 1).
+- [ ] Ověř analýzu citlivosti na HDP a úrokové sazby (odst. 2).
+- [ ] Zkontroluj ex-post hodnocení + stanovisko Výboru (odst. 3).
+- [ ] Při ≥ 4letém zkreslení doložení přijatých a zveřejněných opatření (odst. 4).
+- [ ] Ověř zveřejnění metodiky a předpokladů (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** prognózy MF, ČNB, OECD, IMF a Komise; stanoviska Výboru; ex-post vyhodnocení přesnosti; dokumentace metodiky a opatření.
 
 ---
 
@@ -524,6 +822,45 @@ Strategie musí být **schválena vládou do 30. 4.** každého roku — synchro
 #### Souhrnná informace o mimorozpočtových účtech a fondech (odst. 4)
 
 Pojistka proti **fiskálnímu zúčtování mimo rozpočet** (off-budget) — MF musí v rozpočtové strategii (a v dalších dokumentech) uvést **vliv mimorozpočtových účtů a fondů** na saldo a dluh. Cíl: zabránit „skrývání" výdajů mimo státní rozpočet skrze státní fondy, fondy MV, FNM apod.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda schválí návrh rozpočtové strategie (a v ní konvergenční program) až 20. května, tedy po lhůtě 30. dubna; strategie navíc neobsahuje „no-policy-change" prognózy hlavních položek (písm. d)) ani hodnocení dopadů politik na udržitelnost (písm. f)). NRR a Komise namítají vady. Důkazy: usnesení vlády s datem schválení, text strategie, srovnání s náležitostmi odst. 2 písm. a)–h).
+
+**2. Právní otázka.** Jaké jsou důsledky (a) zmeškání lhůty 30. 4. pro schválení strategie vládou a (b) absence povinných náležitostí strategie dle § 9 odst. 2 — zejména rozlišení „no-policy-change" (písm. d)) a „policy" scénáře (písm. e))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (tříletý horizont, konvergenční program), odst. 2 písm. a)–h) (osm náležitostí), odst. 3 (lhůta 30. 4.), odst. 4 (mimorozpočtové účty a fondy).
+- *Související ustanovení téhož zákona:* § 10 a § 10a (celkové výdaje — písm. a)), § 12 (výdajové rámce — písm. b)), § 8 (prognózy), § 2 odst. 1 a 3 (udržitelnost — písm. f)).
+- *Související předpisy:* čl. 4 a 7 nař. (ES) č. 1466/1997 (konvergenční program, MTO, lhůta předložení Komisi do 30. 4.); čl. 2a nař. 1466/1997 (MTO); čl. 9 směrnice 2011/85/EU (střednědobý rámec).
+- *Judikatura:* k povaze lhůt uložených exekutivě bez sankce — výklad, že jde o lhůty pořádkové, jejichž zmeškání nezpůsobuje neplatnost aktu, ale zakládá politickou a unijní odpovědnost.
+
+**4. Subsumpce.** Lhůta 30. 4. (odst. 3) je pořádková a synchronizovaná s odesláním konvergenčního programu Komisi; její zmeškání nezpůsobuje neplatnost strategie, ale je porušením a oslabuje pozici ČR vůči EU. Absence náležitostí písm. d) a f) je *obsahovou* vadou strategie — strategie nesplňuje zákonný standard a hodnocení NRR bude negativní.
+
+**5. Řešení.** Vláda měla strategii schválit do 30. 4. a doplnit no-policy-change prognózy i hodnocení udržitelnosti. Pravděpodobný výsledek: NRR vydá kritické stanovisko, Komise může vznést výtky k reportingu; náprava = doplnění náležitostí a urychlené předložení. Procesně není soudní vynucení obsahu; klíčová je kontrola NRR a EK.
+
+**6. Varianty.** (a) Splní-li strategie všechny náležitosti, ale zmešká lhůtu jen o dny, jde o marginální pořádkové pochybení bez praktického dopadu. (b) Chybí-li naopak vazba na § 10/§ 12 (písm. a), b)), jde o zásadní vadu — strategie nemá fiskální kotvu a nelze z ní odvodit výdajový rámec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lhůta je jen pořádková".* Vláda bagatelizuje zmeškání. Neutralizace: ač pořádková, lhůta plní unijní funkci (odeslání konvergenčního programu); její nedodržení má reálné důsledky v Evropském semestru.
+- *Protiargument o úplnosti strategie.* Namítne se, že některé náležitosti jsou „implicitně obsaženy". Neutralizace: písm. d) a e) vyžadují *explicitní* rozlišení scénářů, aby byl kvantifikovatelný dopad politik; implicitnost nestačí.
+- *Slabé místo:* MTO není v ZRO kvantifikováno (odkaz na nař. 1466/1997 a vládní určení); argumentace o (ne)dosažení MTO musí čerpat z aktuálního konvergenčního programu.
+
+#### H. Praktický závěr
+
+Strategie je hlavním plánovacím dokumentem: musí integrovat konvergenční program, pokrýt ≥ 3 roky, obsahovat všech osm náležitostí (zejm. rozlišení no-policy-change vs. policy scénáře a vazbu na § 10/§ 12) a být schválena vládou do 30. 4. Lhůta je pořádková, obsahové vady však oslabují celý fiskální rámec a hodnocení NRR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř schválení vládou do 30. 4. (synchronizace s konvergenčním programem).
+- [ ] Zkontroluj přítomnost všech osmi náležitostí odst. 2 (a–h).
+- [ ] Rozliš no-policy-change (písm. d)) a policy scénář (písm. e)).
+- [ ] Ověř vazbu na § 10/§ 10a (písm. a)) a § 12 (písm. b)).
+- [ ] Doplň souhrnnou informaci o mimorozpočtových účtech a fondech (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády (datum), text strategie a konvergenčního programu, stanoviska NRR, dokumentace MTO.
 
 ---
 
@@ -604,6 +941,43 @@ Klauzule c) je **specifická** — vyžaduje **stanovisko NRR**, které MF zveř
 
 MF spolu s NRR vypracovává a zveřejňuje **metodiku** stanovení one-offs a cyklického očištění. Tato metodika je zveřejněna na webu NRR (rozpoctovarada.cz) a tvoří **závazný standard**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pro rozpočtový rok N MF stanoví celkové výdaje sektoru veřejných institucí. Současně klasifikuje mimořádné dividendy státních firem a jednorázový výnos z prodeje frekvenčního spektra jako „běžné" příjmy (nikoli one-offs), čímž zvýší příjmovou základnu a tím i strop výdajů. NRR ve stanovisku tvrdí, že jde o jednorázové a přechodné operace, které je nutno vyloučit (odst. 2). MF se stanoviskem nesouhlasí, ale odůvodnění nesouhlasu nezveřejní. Důkazy: výpočet celkových výdajů, klasifikace příjmů, stanovisko NRR, metodika one-offs dle odst. 6.
+
+**2. Právní otázka.** Postupuje MF v souladu s § 10, zahrne-li jednorázové příjmy do základny pro výpočet celkových výdajů, a jaké jsou důsledky nezveřejnění odůvodnění nesouhlasu se stanoviskem NRR (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (vzorec: ≤ X % HDP + cyklicky upravené konsolidované příjmy − one-offs), odst. 2 (one-offs + procedura „comply or explain" vůči NRR), odst. 3 (snížení o 1/3 přesahu nápravné složky nad 2 % HDP), odst. 4–5 (escape clauses), odst. 6 (metodika).
+- *Související ustanovení téhož zákona:* § 10a (koeficient X pro 2024–2027), § 11 (nápravná složka), § 12 (odvození výdajového rámce), § 21 odst. 2 písm. a) (hodnocení Radou).
+- *Související předpisy:* čl. 5 nař. (ES) č. 1466/1997 (expenditure benchmark); nař. (EU) č. 549/2013 (ESA 2010 — konsolidace, klasifikace operací); metodologie OECD/Eurostat (output gap, cyklické očištění).
+- *Judikatura:* k procedurám typu „comply or explain" chybí přímá tuzemská judikatura; argumentačně platí, že porušení povinnosti zveřejnit odůvodnění je samostatným pochybením bez ohledu na věcnou správnost nesouhlasu.
+
+**4. Subsumpce.** Mimořádné dividendy a výnos z prodeje spektra jsou typickými one-offs (krátkodobý, neopakující se dopad) — odst. 2 ukládá jejich vyloučení ze základny. Jejich zahrnutím MF nadhodnotí strop výdajů, čímž *fakticky* obchází strukturální logiku vzorce. Nezveřejnění odůvodnění nesouhlasu se stanoviskem NRR porušuje výslovnou povinnost odst. 2 in fine.
+
+**5. Řešení.** MF mělo one-offs vyloučit a — nesouhlasilo-li se stanoviskem NRR — zveřejnit odůvodnění nesouhlasu (princip „comply or explain"). Pravděpodobný výsledek: vada metodiky výpočtu (nadsazený strop) se projeví v příštím roce přes nápravnou složku (§ 11), neboť skutečné výdaje budou poměřovány se *zpětně* správně vypočtenou hodnotou. Nezveřejnění odůvodnění je porušitelné kontrolně (NRR, PS). Procesně: náprava = přepočet a zveřejnění odůvodnění.
+
+**6. Varianty.** (a) Klesne-li v roce N HDP mezikvartálně/meziročně o ≥ 3 % (odst. 4 písm. c)), může MF strop navýšit, ovšem jen se zveřejněným stanoviskem NRR (odst. 5). (b) Vyhlásí-li vláda mimořádná opatření k obranyschopnosti (odst. 4 písm. a)), navýšení je možné bez prahu a bez stanoviska NRR. (c) Přesáhne-li nápravná složka 2 % HDP, strop se *sníží* o 1/3 přesahu (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „klasifikace operací je odborná diskrece MF".* MF tvrdí, že hranice one-offs je metodická. Neutralizace: metodiku MF *spoluvytváří s NRR* a zveřejňuje (odst. 6); odchýlení od ní bez zveřejněného odůvodnění je netransparentní a v rozporu s odst. 2.
+- *Protiargument o nezávaznosti stanoviska NRR.* Namítne se, že stanovisko NRR nezavazuje. Neutralizace: nezávaznost stanoviska nezbavuje MF povinnosti je zveřejnit a při nesouhlasu odůvodnit; porušení této povinnosti je samostatné.
+- *Slabé místo:* cyklické očištění (output gap) je modelově citlivé; spor o velikost mezery může zastřít manipulaci se základnou — proto je klíčová zveřejněná metodika (odst. 6) a stanovisko NRR.
+
+#### H. Praktický závěr
+
+§ 10 je jádrem ZRO — výdajové pravidlo. Hlídejte tři věci: (i) správné vyloučení one-offs a cyklické očištění příjmů dle zveřejněné metodiky (odst. 6); (ii) dodržení procedury „comply or explain" vůči NRR (odst. 2 a 5); (iii) automatické snížení o 1/3 přesahu nápravné složky nad 2 % HDP (odst. 3). Manipulace se základnou se „vrátí" přes nápravnou složku v dalším roce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř koeficient X (§ 10a pro 2024–2027, jinak 1 %).
+- [ ] Zkontroluj vyloučení one-offs a cyklické očištění příjmů (odst. 1, 2).
+- [ ] Doložení zveřejnění stanoviska NRR a případného odůvodnění nesouhlasu (odst. 2, 5).
+- [ ] Aplikuj snížení o 1/3 přesahu nápravné složky > 2 % HDP (odst. 3).
+- [ ] U escape clausí (odst. 4) rozliš automatické (a, b) od podmíněné stanoviskem NRR (c).
+
+**Typicky rozhodné důkazy / podklady:** výpočet celkových výdajů, klasifikace příjmů (one-offs), publikovaná metodika MF+NRR (odst. 6), stanoviska NRR, data ČSÚ o HDP a příjmech.
+
 ---
 
 ### § 10a — Speciální koeficienty pro roky 2024–2027 (konsolidační trajektorie)
@@ -641,6 +1015,42 @@ Po pandemii COVID-19 (2020–2021) a energetické krizi (2022) ČR akumulovala s
 #### Vazba na evropská pravidla
 
 ČR jako nečlenský stát eurozóny není povinna splňovat **strukturální saldo nejvýše −0,5 % HDP** (článek 3 Fiscal Compactu — to platí pro eurozónu), ale podléhá **preventivní složce Paktu stability** dle nař. 1466/1997, podle kterého má MTO **–1,0 % HDP**. Trajektorie § 10a tedy směřuje k naplnění tohoto cíle do konce 20. let 21. století.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** MF při sestavování stropu celkových výdajů na rok 2026 použije v § 10 odst. 1 koeficient 2,75 % (hodnotu určenou pro rok 2024), místo 1,75 % stanoveného pro rok 2026 v § 10a písm. c). Tím navýší přípustný strukturální deficit o 1 p. b. HDP. NRR namítá nesprávnou aplikaci § 10a. Důkazy: výpočet stropu pro rok 2026, znění § 10a, rozpočtová strategie.
+
+**2. Právní otázka.** Je koeficient § 10a kogentní hodnotou nahrazující default 1 % dle § 10 odst. 1 pro příslušný konkrétní rok, takže jeho nesprávné určení činí výpočet stropu nezákonným?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10a písm. a)–d) (2,75 / 2,25 / 1,75 / 1,25 % pro roky 2024–2027).
+- *Související ustanovení téhož zákona:* § 10 odst. 1 (default 1 %, výhrada „nestanoví-li § 10a jinak"), § 11 (nápravná složka — zpětný přepočet i podle § 10a v letech 2025–2028), § 9 odst. 2 písm. a) (strategie).
+- *Související předpisy:* zákon č. 349/2023 Sb. (konsolidační balíček — vložení § 10a); nař. (ES) č. 1466/1997 (MTO −1,0 % HDP jako cíl trajektorie).
+- *Judikatura:* k aplikaci přechodných/časově určených koeficientů — výklad, že je-li hodnota přiřazena konkrétnímu roku, nelze ji zaměňovat za hodnotu jiného roku; jde o kogentní pravidlo.
+
+**4. Subsumpce.** § 10a přiřazuje *každému roku jednu konkrétní procentní hodnotu*. Pro rok 2026 je to 1,75 % (písm. c)). § 10 odst. 1 výslovně ustupuje § 10a („nestanoví-li § 10a jinak"). Použití hodnoty 2,75 % pro rok 2026 je proto nesprávnou aplikací kogentní normy.
+
+**5. Řešení.** MF muselo pro rok 2026 použít 1,75 %. Nadhodnocení stropu se navíc projeví v nápravné složce (§ 11), jejíž zpětný přepočet se v letech 2025–2028 provádí *podle § 10a* — tedy s korektním koeficientem; chyba se „vrátí". Procesně: přepočet stropu a oprava strategie; kontrola NRR.
+
+**6. Varianty.** (a) Pro rok 2028 a dále se použije default 1 % (§ 10), neboť trajektorie § 10a končí rokem 2027. (b) Kdyby zákonodárce trajektorii novelou prodloužil, řídilo by se další období novým zněním § 10a.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „trajektorie je orientační".* Namítne se, že koeficienty jsou cílové, nikoli závazné. Neutralizace: § 10a stanoví „nejvýše" konkrétní procento pro konkrétní rok — jde o závazný horní limit, ne orientační hodnotu.
+- *Protiargument o jednorázové konsolidaci.* Argument, že rychlejší konsolidace (nižší koeficient) je přípustná. To je správně — § 10a stanoví *strop* („nejvýše"), nikoli minimum; nižší deficit je v souladu, vyšší nikoli.
+- *Slabé místo:* návaznost § 10a na § 11 (zpětný přepočet v letech 2025–2028) je technicky náročná; chyba v koeficientu se promítá do více let.
+
+#### H. Praktický závěr
+
+§ 10a je dočasná kogentní úprava koeficientu X ve vzorci § 10 pro roky 2024–2027 (2,75 → 2,25 → 1,75 → 1,25 %); od roku 2028 platí default 1 %. Pro každý rok použijte přesně přiřazenou hodnotu jako *horní* limit; nižší deficit je přípustný, vyšší ne. Chybný koeficient se promítne i do nápravné složky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přiřaď roku správný koeficient dle § 10a (2024–2027), jinak 1 % (§ 10).
+- [ ] Ověř, že jde o horní limit („nejvýše"), ne o cíl.
+- [ ] Zkontroluj návaznost na zpětný přepočet nápravné složky (§ 11, 2025–2028).
+- [ ] Po roce 2027 přejdi na default 1 %.
+
+**Typicky rozhodné důkazy / podklady:** výpočet stropu pro daný rok, znění § 10a, rozpočtová strategie, propočet nápravné složky.
 
 ---
 
@@ -688,6 +1098,43 @@ MF může nápravnou složku **snížit** o výdaje vzniklé z **jiných vnějš
 
 > **Příklad:** Migrační krize, neočekávané plnění mezinárodních závazků (např. válečná pomoc Ukrajině), masivní investice do energetické infrastruktury kvůli energetické krizi — všechno toto by mohlo být snížením nápravné složky, pokud NRR vydá souhlasné stanovisko.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce N+1 MF zjistí, že skutečné celkové výdaje sektoru za rok N (dle dat ČSÚ k 1. 4.) překročily o 1,2 % HDP hodnotu, kterou § 10 stanovil pro rok N. Část tohoto překročení (0,8 % HDP) tvořily výdaje na pomoc po ničivých povodních a na plnění mezinárodního závazku, jež však *nepřesáhly* 3 % HDP (escape clause § 10 odst. 4 písm. b) se tedy neaktivovala). MF chce tyto výdaje vyloučit z nápravné složky dle § 11 odst. 4 a požádá NRR o souhlasné stanovisko; NRR souhlas neudělí. Důkazy: data ČSÚ, výpočet zpětného Wᵖ, žádost o stanovisko NRR a její odpověď.
+
+**2. Právní otázka.** Může MF snížit nápravnou složku o výdaje z „jiných vnějších skutečností" (§ 11 odst. 4) bez souhlasného stanoviska NRR, a jak se kumuluje nápravná složka při překročení stropu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 (účel), odst. 2 (vzorec NSₙ = NSₙ₋₁ + (Wⁿ⁻¹ᵃ − Wⁿ⁻¹ᵖ); data ČSÚ k 1. 4. a 1. 10.), odst. 3 (snížení o částku dle § 10 odst. 3), odst. 4 (diskreční snížení jen se souhlasným stanoviskem NRR).
+- *Související ustanovení téhož zákona:* § 10 odst. 3 (snížení stropu o 1/3 přesahu > 2 % HDP), § 10 odst. 4 (escape clauses), § 21 odst. 2 písm. e) (stanovisko NRR k nápravné složce).
+- *Související předpisy:* nař. (EU) č. 549/2013 (ESA 2010 — skutečné výdaje); nař. (ES) č. 479/2009 (EDP notifikace); inspirace německou „Schuldenbremse" (čl. 109a, 115 GG).
+- *Judikatura:* k podmínce „souhlasného stanoviska" jiného orgánu jako conditio sine qua non — analogicky výklad, že chybí-li obligatorní souhlas, je úkon vadný/neúčinný (srov. doktrínu k souhlasu jako náležitosti úkonu).
+
+**4. Subsumpce.** Vzorec odst. 2: protože Wᵃ > Wᵖ o 1,2 % HDP, nápravná složka roku N+1 vzroste o 1,2 % HDP (plus zůstatek z minula). MF chce část (0,8 % HDP) vyloučit dle odst. 4. Podmínkou odst. 4 je *souhlasné* stanovisko NRR — to nebylo uděleno. Bez něj snížení provést *nelze*. Escape clause § 10 odst. 4 písm. b) se neuplatní (práh 3 % HDP nedosažen).
+
+**5. Řešení.** Bez souhlasného stanoviska NRR MF nesmí nápravnou složku o povodňové a mezinárodní výdaje snížit; celé překročení (1,2 % HDP) se kumuluje. To je nejsilnější kontrolní pravomoc NRR v ZRO (odst. 4 dává NRR *de facto* veto). Pravděpodobný výsledek: nápravná složka naroste, a překročí-li 2 % HDP, sníží se budoucí strop o 1/3 přesahu (§ 10 odst. 3). Procesně: MF buď akceptuje, nebo znovu odůvodní žádost; obejít souhlas NRR nelze.
+
+**6. Varianty.** (a) Dosáhly-li by povodňové + mezinárodní výdaje > 3 % HDP, aktivovala by se escape clause § 10 odst. 4 písm. b) a navýšil by se přímo strop; nápravná složka by je nezatížila. (b) Udělí-li NRR souhlas, MF složku o tyto výdaje sníží. (c) Reviduje-li ČSÚ data, MF musí přepočítat i nápravnou složku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výdaje byly nezbytné, proto je lze vyloučit".* MF argumentuje nezbytností. Neutralizace: nezbytnost sama nestačí — odst. 4 váže vyloučení na *souhlasné stanovisko NRR*; bez něj je vyloučení nepřípustné.
+- *Protiargument o automatičnosti escape clause.* Namítne se analogie s § 10 odst. 4. Neutralizace: § 10 odst. 4 písm. b) má kvantitativní práh 3 % HDP; nedosažení prahu vylučuje automatické navýšení a přesouvá věc do režimu diskrečního snížení dle § 11 odst. 4 (se souhlasem NRR).
+- *Slabé místo:* závislost na revidovatelných datech ČSÚ (2× ročně) vnáší nejistotu do výše složky; spor o revize.
+
+#### H. Praktický závěr
+
+Nápravná složka je „paměťový účet" odchylek: kumuluje rozdíl skutečných a (zpětně) plánovaných výdajů. Snížit ji o výdaje z jiných vnějších skutečností lze *pouze* se souhlasným stanoviskem NRR — to je tvrdá podmínka, nikoli formalita. Hlídejte data ČSÚ (1. 4./1. 10.), kumulaci a návaznost na snížení stropu dle § 10 odst. 3.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spočti NSₙ dle odst. 2 (Wᵃ − Wᵖ + NSₙ₋₁) z dat ČSÚ.
+- [ ] Pro diskreční snížení (odst. 4) zajisti *souhlasné* stanovisko NRR — bez něj nelze.
+- [ ] Odečti částku uplatněnou dle § 10 odst. 3 (odst. 3).
+- [ ] Sleduj práh 2 % HDP (návaznost na snížení stropu).
+- [ ] Při revizi dat ČSÚ přepočti složku.
+
+**Typicky rozhodné důkazy / podklady:** data ČSÚ k 1. 4. a 1. 10. (ESA 2010), výpočet zpětného Wᵖ, žádost o stanovisko NRR a stanovisko, evidence escape clausí.
+
 ---
 
 ### § 12 — Výdajový rámec státního rozpočtu a státních fondů
@@ -730,6 +1177,44 @@ NRR má dvě role:
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** MF předloží návrh zákona o státním rozpočtu, jehož celkové výdaje *překračují* výdajový rámec státního rozpočtu a státních fondů, který samo stanovilo z celkových výdajů sektoru dle § 10. NRR vydá ke stanovení rámce nesouhlasné stanovisko; MF odůvodnění nesouhlasu nezveřejní a rámec při odvození „obejde" tím, že do výpočtu nesprávně zahrne přebytek hospodaření ÚSC. Důkazy: výdajový rámec, návrh ZSR, propočet odvození dle odst. 2, stanovisko NRR.
+
+**2. Právní otázka.** Je výdajový rámec dle § 12 odst. 2 a 3 závazný pro celkové výdaje státního rozpočtu v návrhu ZSR, a jaké jsou důsledky jeho překročení, resp. nezveřejnění odůvodnění nesouhlasu se stanoviskem NRR (odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 (metodika s NRR), odst. 2 (odvození rámce: celkové výdaje sektoru − výsledek hospodaření institucí mimo SR a SF), odst. 3 (závaznost pro ZSR), odst. 4 (zveřejnění), odst. 5 (stanovisko NRR + „comply or explain").
+- *Související ustanovení téhož zákona:* § 10 a § 10a (celkové výdaje sektoru — vstup), § 9 odst. 2 písm. b) (rámce ve strategii), § 21 odst. 2 písm. a) (hodnocení Radou).
+- *Související předpisy:* § 8a zákona č. 218/2000 Sb. (rozpočtové cíle a výdajový rámec ve státním rozpočtu — most ZRO↔RPS); čl. 5 nař. (ES) č. 1466/1997.
+- *Judikatura:* k závaznosti agregátních fiskálních limitů vůči zákonu o rozpočtu — výklad, že limit zavazuje *navrhovatele* (vládu/MF), nikoli Parlament jako zákonodárce; sankce za překročení jsou primárně politické.
+
+**4. Subsumpce.** Odst. 3 ukládá MF *vycházet* z výdajového rámce při stanovení celkových výdajů ZSR — návrh překračující rámec je proto v rozporu s § 12 (a § 8a RPS). Nesprávné zahrnutí přebytku ÚSC do odvození (odst. 2) zkresluje rámec. Nezveřejnění odůvodnění nesouhlasu se stanoviskem NRR porušuje odst. 5.
+
+**5. Řešení.** MF mělo (i) odvodit rámec metodicky správně (vyloučit výsledek hospodaření institucí *mimo* SR a SF — tedy i ÚSC), (ii) z rámce vycházet při návrhu ZSR a (iii) zveřejnit odůvodnění nesouhlasu s NRR. Sankce za překročení rámce jsou politické (negativní stanovisko NRR, opozice, debata o ústavnosti rozpočtu), neboť Parlament jako zákonodárce limitem ZRO vázán striktně není. Procesně: korekce odvození a návrhu, zveřejnění odůvodnění.
+
+**6. Varianty.** (a) Vykáže-li subsektor mimo SR/SF deficit (ne přebytek), rámec pro SR+SF se *zvýší* (odečítá se záporná hodnota). (b) Předloží-li vláda návrh ZSR v souladu s rámcem, ale Parlament jej pozměňovacími návrhy překročí, jde o odpovědnost zákonodárce, nikoli porušení § 12 ze strany MF.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rámec je jen orientační".* MF bagatelizuje závaznost. Neutralizace: odst. 3 ve spojení s § 8a RPS činí rámec závazným vodítkem pro návrh ZSR; jeho ignorování je porušením, byť bez tvrdé sankce.
+- *Protiargument o suverenitě Parlamentu.* Namítne se, že zákon o rozpočtu může rámec překročit. Neutralizace: to je pravda na úrovni *zákonodárce*; povinnost dle § 12 však tíží *navrhovatele* (MF/vládu) — ten musí z rámce vyjít.
+- *Slabé místo:* metodika odvození (odst. 1) je technicky složitá; chyba v prognóze hospodaření jiných subsektorů zkresluje rámec — proto je metodika tvořena s NRR a zveřejňována.
+
+#### H. Praktický závěr
+
+§ 12 je most mezi makrostropem (§ 10) a státním rozpočtem (RPS): rámec se odvodí odečtením hospodaření institucí mimo SR a SF a je závazný pro návrh ZSR (vazba přes § 8a RPS). Hlídejte správnost odvození, dodržení rámce v návrhu ZSR a zveřejnění stanoviska NRR (případně odůvodnění nesouhlasu). Vůči Parlamentu je vynutitelnost politická.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř odvození rámce dle odst. 2 (vyloučení hospodaření institucí mimo SR/SF).
+- [ ] Zkontroluj soulad celkových výdajů návrhu ZSR s rámcem (odst. 3, § 8a RPS).
+- [ ] Doložení zveřejnění rámce (odst. 4) a stanoviska NRR / odůvodnění nesouhlasu (odst. 5).
+- [ ] Ověř zveřejněnou metodiku odvození (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** výpočet výdajového rámce, návrh ZSR, prognóza hospodaření subsektorů, stanovisko NRR, publikovaná metodika.
+
+---
+
 ### Výše dluhu sektoru veřejných institucí
 
 ### § 13 — Stanovení výše dluhu
@@ -757,6 +1242,42 @@ NRR má dvě role:
 #### Časová struktura
 
 Výše dluhu se počítá **vždy zpětně** — k 31. 12. předchozího roku. Aktualizuje se v 1. pololetí běžného roku po EDP notifikaci ČSÚ. NRR pak výši dluhu **vyhlašuje** ve Sbírce zákonů a mezinárodních smluv (§ 21 odst. 2 písm. b)).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Brutto maastrichtský dluh ČR za předchozí rok dle EDP notifikace ČSÚ činí 56 % HDP. Rezerva peněžních prostředků pro financování státního dluhu vedená MF odpovídá 2,5 % HDP. NRR má vyhlásit „výši dluhu" dle § 13. Vzniká spor, zda se pro účely § 14 (práh 55 %) použije brutto (56 %) nebo netto hodnota (53,5 %). Důkazy: EDP notifikace ČSÚ, výkaz rezervy financování státního dluhu, nominální HDP za předchozí rok.
+
+**2. Právní otázka.** Co tvoří „výši dluhu" dle § 13 — brutto maastrichtský dluh, nebo dluh po odečtení rezervy peněžních prostředků pro financování státního dluhu (netto) — a jaký dopad to má na aktivaci prahů § 14 a § 16?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 (definice „výše dluhu" = (dluh sektoru − rezerva) / nominální HDP; data z EDP notifikace ČSÚ v 1. pololetí).
+- *Související ustanovení téhož zákona:* § 14 (práh 55 % — netto), § 16 (práh 60 % — netto), § 21 odst. 2 písm. b) (vyhlášení výše dluhu Radou ve Sbírce).
+- *Související předpisy:* nař. (ES) č. 479/2009 (Protokol o postupu při nadměrném schodku — EDP notifikace); čl. 126 SFEU a Protokol č. 12 (referenční hodnota 60 % HDP — brutto Maastricht); nař. (EU) č. 549/2013 (ESA 2010 — definice vládního dluhu).
+- *Judikatura:* k odchylkám národní metodiky od unijní referenční hodnoty — výklad, že vnitrostátní pravidlo může stanovit *přísnější* nebo odlišně konstruovaný ukazatel, aniž tím porušuje unijní právo (jde nad rámec minima).
+
+**4. Subsumpce.** § 13 výslovně počítá s dluhem „po odečtení rezervy peněžních prostředků při financování státního dluhu" — tedy *netto*. Pro účely § 14 a § 16 je proto rozhodná hodnota 53,5 % (56 % − 2,5 %), nikoli brutto 56 %. To je vědomá odchylka od maastrichtské *brutto* metodiky (EU monitoruje brutto, ČR pro spouštění tuzemských brzd netto).
+
+**5. Řešení.** NRR vyhlásí výši dluhu jako *netto* (53,5 % HDP). Práh § 14 (55 %) tedy *není* dosažen — tuzemská opatření se neaktivují, ačkoli brutto dluh (56 %) je nad 55 %. Současně platí, že vůči EU se ČR poměřuje brutto hodnotou (56 % < 60 % → EDP se nespouští). Procesně: rozhodující je správný výpočet rezervy a její odečtení; spor o velikost rezervy je sporem metodickým.
+
+**6. Varianty.** (a) Klesne-li rezerva na 0,5 % HDP, netto dluh stoupne na 55,5 % a *překročí* práh § 14 → 2 měsíce po vyhlášení se aktivují opatření § 14. (b) Vystoupá-li brutto dluh nad 60 % a netto též, aktivuje se § 16 *a* hrozí EDP dle čl. 126 SFEU. (c) Reviduje-li ČSÚ data EDP notifikace, mění se i vyhlášená výše dluhu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje maastrichtský brutto dluh".* Namítne se, že 55 % i 60 % kopírují EU referenci, tedy brutto. Neutralizace: § 13 výslovně odečítá rezervu — tuzemské prahy pracují s netto; jde o legitimní odchylku (přísnost/konstrukci si stát volí).
+- *Protiargument o obcházení Maastrichtu odečtem rezervy.* Riziko kritiky, že netto ukazatel „kosmeticky" snižuje dluh. Neutralizace: vůči EU zůstává rozhodující brutto (EDP dle čl. 126 SFEU); netto slouží jen pro spouštění *vnitrostátních* opatření.
+- *Slabé místo:* velikost a vymezení „rezervy peněžních prostředků pro financování státního dluhu" může být sporné; rozdíl 2–3 % HDP rozhoduje o (ne)aktivaci § 14.
+
+#### H. Praktický závěr
+
+„Výše dluhu" dle ZRO je *netto* ukazatel (maastrichtský dluh minus rezerva financování státního dluhu) / HDP, z dat EDP notifikace ČSÚ. Pro tuzemské brzdy (§ 14, § 16) počítejte netto; vůči EU (EDP) platí brutto. Rozhodným a sporným prvkem je výše odečítané rezervy. Hodnotu vyhlašuje NRR ve Sbírce (§ 21).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyjdi z EDP notifikace ČSÚ (1. pololetí) — brutto dluh a HDP.
+- [ ] Odečti rezervu peněžních prostředků pro financování státního dluhu (netto).
+- [ ] Pro § 14/§ 16 použij netto; pro EDP vůči EU brutto.
+- [ ] Ověř vyhlášení výše dluhu Radou ve Sbírce (§ 21 odst. 2 písm. b)).
+
+**Typicky rozhodné důkazy / podklady:** EDP notifikace ČSÚ, výkaz rezervy financování státního dluhu, nominální HDP, vyhlášení NRR ve Sbírce.
 
 ---
 
@@ -817,6 +1338,43 @@ Nejtvrdší opatření — zákaz **nových smluvních závazků > 1 rok** pro v
 - závazky **nezbytné k plnění** soudního rozhodnutí nebo rozhodnutí orgánu státní moci.
 
 V praxi to znamená, že **státní podniky, akciovky se státní účastí, VVI, VVŠ** mohou uzavírat nové dlouhodobé smlouvy pouze v rámci uvedených výjimek. Cíl: zastavit „skryté zadlužování" mimo státní rozpočet.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NRR vyhlásí ve Sbírce dne 15. 7. výši dluhu 55,3 % HDP (netto). Vláda však již dříve předložila Poslanecké sněmovně návrh zákona o státním rozpočtu se schodkem, jenž nevede k „dlouhodobě udržitelnému stavu". Kraj G. (ÚSC) má v plánu schválit na příští rok schodkový rozpočet financovaný novým úvěrem. Veřejná vysoká škola chce uzavřít dlouhodobou (5letou) smlouvu o energetických službách. Důkazy: vyhlášení výše dluhu, datum předložení návrhu ZSR, návrh rozpočtu kraje, návrh smlouvy VVŠ.
+
+**2. Právní otázka.** Jaká konkrétní opatření a od kdy se aktivují při dosažení 55 % HDP vůči (a) vládě/ZSR, (b) ÚSC a (c) ostatním veřejným institucím, a musí vláda již předložený návrh ZSR vzít zpět?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 — aktivace „od prvního dne druhého kalendářního měsíce následujícího po vyhlášení"; písm. a) (vláda → ZSR a SF; zpětvzetí návrhu), písm. b) (vyrovnané rozpočty pojišťoven), písm. c) (vyrovnaný/přebytkový rozpočet ÚSC), písm. d) (zákaz nových smluvních závazků > 1 rok pro ostatní VI).
+- *Související ustanovení téhož zákona:* § 13 (výše dluhu — netto), § 15 (únikové klauzule), § 16 (60 %), § 21 odst. 2 písm. b) (vyhlášení), § 2 odst. 3 (princip udržitelnosti).
+- *Související předpisy:* § 4 odst. 5 zákona č. 250/2000 Sb. (vyrovnaný rozpočet ÚSC, podmínky schodku); zákony č. 551/1991 Sb. a 280/1992 Sb. (rozpočty pojišťoven); čl. 101 odst. 4 Ústavy (dozor nad samosprávou).
+- *Judikatura:* k ústavnosti omezení rozpočtové autonomie ÚSC v zájmu udržitelnosti — nosný závěr, že kvantitativní fiskální rámec respektuje právo na samosprávu, sleduje-li legitimní cíl a je proporcionální (doktrína k § 17, přenositelná na § 14 písm. c)).
+
+**4. Subsumpce.** Výše dluhu 55,3 % ≥ 55 % → opatření se aktivují od 1. 9. (první den druhého měsíce po vyhlášení 15. 7.). (a) Vláda *musí* předložit ZSR vedoucí k udržitelnosti; byl-li již předložen návrh bez této podmínky, *vezme jej zpět* a předloží nový (písm. a) in fine). (c) Kraj G. smí schválit schodkový rozpočet jen za podmínek § 4 odst. 5 RP-ÚR, ne volnou volbou. (d) VVŠ jako „ostatní veřejná instituce" nesmí po dobu trvání stavu zřizovat nové smluvní závazky > 1 rok zvyšující dluh, ledaže jde o projekt spolufinancovaný z EU nebo plnění rozhodnutí soudu/orgánu.
+
+**5. Řešení.** Od 1. 9.: vláda vezme zpět dosavadní návrh ZSR a předloží udržitelný; kraj G. schválí vyrovnaný/přebytkový rozpočet (schodek jen při splnění RP-ÚR); VVŠ 5letou smlouvu uzavřít nesmí, nejde-li o výjimku (EU projekt / soudní rozhodnutí). Pravděpodobný výsledek: opatření jsou *automatická* a normativně silnější než u § 16; nesplnění vyvolá kritiku NRR a politické důsledky, u ÚSC dozor dle Ústavy.
+
+**6. Varianty.** (a) Aktivuje-li se některá úniková klauzule § 15 (recese, krizové stavy, pohromy > 3 % HDP), opatření § 14 se *neuplatní*. (b) Jde-li u VVŠ o smlouvu k projektu z fondů EU, výjimka písm. d) ji dovoluje. (c) Klesne-li výše dluhu zpět pod 55 %, zákaz dle písm. d) pomine.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zásah do samosprávy ÚSC".* Kraj namítne čl. 100 Ústavy. Neutralizace: § 14 písm. c) jen omezuje schodek na zákonné podmínky RP-ÚR, sleduje legitimní cíl udržitelnosti a je proporcionální; neodnímá samosprávu.
+- *Protiargument o nemožnosti zpětvzetí návrhu ZSR.* Vláda tvrdí procesní překážku. Neutralizace: písm. a) výslovně ukládá vzít návrh zpět a předložit nový — jde o zákonný příkaz, nikoli o volbu.
+- *Slabé místo:* pojem „dlouhodobě udržitelný stav" není kvantifikován; obsah „udržitelného" ZSR je předmětem sporu — opřete jej o kritéria NRR (klesající strukturální deficit, konvergence k MTO).
+
+#### H. Praktický závěr
+
+§ 14 je preventivní brzda při 55 % HDP (netto): cca 2 měsíce po vyhlášení NRR se *automaticky* aktivují diferencovaná opatření — udržitelný ZSR (vč. zpětvzetí předchozího návrhu), vyrovnané rozpočty pojišťoven a ÚSC (schodek jen za zákonných podmínek) a zákaz nových dlouhodobých smluvních závazků ostatních VI (s výjimkou EU projektů a soudních rozhodnutí). Vždy ověřte, zda neběží úniková klauzule § 15.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči datum aktivace (1. den 2. měsíce po vyhlášení výše dluhu).
+- [ ] Vláda: udržitelný ZSR; případné zpětvzetí dosavadního návrhu (písm. a)).
+- [ ] ÚSC: vyrovnaný/přebytkový rozpočet; schodek jen dle § 4 odst. 5 RP-ÚR (písm. c)).
+- [ ] Ostatní VI: zákaz nových smluvních závazků > 1 rok; ověř výjimky EU/soud (písm. d)).
+- [ ] Zkontroluj, zda neběží úniková klauzule § 15.
+
+**Typicky rozhodné důkazy / podklady:** vyhlášení výše dluhu ve Sbírce, návrh a výhled ZSR a SF, návrhy rozpočtů ÚSC a pojišťoven, smluvní dokumentace VI, doklady o případné výjimce (EU projekt, rozhodnutí soudu).
 
 ---
 
@@ -885,6 +1443,43 @@ Doba: 24 měsíců od prvního dne měsíce následujícího po zveřejnění MF
 
 Logika: **stabilita finančního systému** je nadřazena cíli zastavení nových závazků. Kdyby Garanční systém nemohl vyplácet pojištěné vklady, padl by celý bankovní sektor.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výše dluhu byla vyhlášena na 55,4 % HDP a opatření § 14 se aktivovala. Následně ČSÚ ve čtvrtletních národních účtech zveřejní mezičtvrtletní pokles reálného HDP za poslední čtvrtletí o 2,3 % (sezónně očištěno). Vláda chce předložit schodkový ZSR s odvoláním na únikovou klauzuli § 15 odst. 1 písm. a). Současně Garanční systém finančního trhu potřebuje uzavřít nový závazek k výplatě pojištěných vkladů padlé banky. Důkazy: čtvrtletní národní účty ČSÚ (mezičtvrtletní/meziroční pokles), datum zveřejnění, dokumentace závazku Garančního systému.
+
+**2. Právní otázka.** Aktivuje se úniková klauzule § 15 odst. 1 písm. a) při mezičtvrtletním poklesu HDP o 2,3 %, na jak dlouho se opatření § 14 neuplatní, a vztahuje se zákaz nových smluvních závazků (§ 14 písm. d)) na závazky Garančního systému?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 1 písm. a) (recese: mezičtvrtletní pokles ≥ 2 % nebo meziroční ≥ 3 %; doba 24 měsíců), písm. b) (krizové stavy), písm. c) (mimořádná opatření k obranyschopnosti), písm. d) (pohromy + mezinárodní závazky > 3 % HDP; 24 měsíců), odst. 2 (výjimka pro finanční stabilitu).
+- *Související ustanovení téhož zákona:* § 14 (opatření, jejichž uplatnění se vylučuje), § 13 (výše dluhu), § 10 odst. 4 (paralelní escape clauses u výdajů).
+- *Související předpisy:* ústavní zákon č. 110/1998 Sb. (nouzový stav, stav ohrožení), čl. 43 Ústavy (válečný stav); zákon č. 374/2015 Sb. (Garanční systém, ozdravné postupy — BRRD); zákony č. 21/1992 Sb. a 87/1995 Sb. (banky, družstevní záložny); „general escape clause" Paktu stability.
+- *Judikatura:* k aktivaci únikových klauzulí na základě objektivních ukazatelů — výklad, že naplnění kvantitativního prahu působí *ex lege*, bez nutnosti konstitutivního rozhodnutí.
+
+**4. Subsumpce.** Mezičtvrtletní pokles 2,3 % ≥ 2 % → naplněna hypotéza § 15 odst. 1 písm. a). Opatření § 14 se proto *neuplatní po dobu 24 měsíců* od prvního dne měsíce následujícího po čtvrtletí poklesu. Závazek Garančního systému spadá pod výjimku § 15 odst. 2 — zákaz dle § 14 písm. d) se na něj *nevztahuje* (priorita finanční stability).
+
+**5. Řešení.** Vláda se může na § 15 odst. 1 písm. a) platně odvolat — opatření § 14 jsou po 24 měsíců pozastavena, schodkový ZSR je přípustný. Garanční systém smí nový závazek uzavřít bez ohledu na § 14 písm. d) (§ 15 odst. 2). Pravděpodobný výsledek: brzdy se dočasně vypnou; po uplynutí 24 měsíců (nebo skončení stavu) se § 14 obnoví, je-li výše dluhu stále ≥ 55 %. Procesně: aktivace je automatická při zveřejnění dat ČSÚ; vhodné je transparentní doložení splnění prahu.
+
+**6. Varianty.** (a) Při poklesu jen 1,8 % mezičtvrtletně a 2,5 % meziročně by *žádný* práh písm. a) nebyl naplněn → opatření § 14 trvají. (b) Vyhlásí-li vláda nouzový stav, aktivuje se písm. b) bez kvantitativního prahu. (c) Přesáhnou-li výdaje na pohromy + mezinárodní závazky 3 % HDP, aktivuje se písm. d) (24 měsíců).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pokles je jen přechodný".* Namítne se, že jednorázový pokles nemá vést k 24měsíčnímu vypnutí brzd. Neutralizace: zákon stanoví objektivní práh (≥ 2 % mezičtvrtletně); je-li dosažen, klauzule působí ex lege bez ohledu na očekávané oživení.
+- *Protiargument o zneužití klauzule.* Riziko účelové aktivace pro ospravedlnění schodku. Neutralizace: prahy jsou tvrdě kvantitativní a vázané na data ČSÚ; svévole je vyloučena, NRR navíc situaci hodnotí.
+- *Slabé místo:* souběh více klauzulí (recese + pohromy) a jejich 24měsíčních lhůt může vést k dlouhodobému vypnutí brzd; chybí mechanismus „zkrácení" při rychlém oživení.
+
+#### H. Praktický závěr
+
+§ 15 dočasně vypíná brzdy § 14 při objektivně vymezené recesi (≥ 2 % mezičtvrtletně / ≥ 3 % meziročně; 24 měsíců), krizových stavech, mimořádných obranných opatřeních a velkých pohromách/mezinárodních závazcích (> 3 % HDP; 24 měsíců). Zvlášť: zákaz nových závazků (§ 14 písm. d)) neplatí pro úkony Garančního systému a krizového řízení finančního trhu. Naplnění prahů působí ex lege.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř naplnění některého prahu § 15 odst. 1 (data ČSÚ / vyhlášení stavu / 3 % HDP).
+- [ ] Urči počátek a konec 24měsíční lhůty (písm. a), d)).
+- [ ] U závazků finanční stability aplikuj výjimku odst. 2 (Garanční systém, BRRD).
+- [ ] Posuď souběh klauzulí a jejich lhůt.
+- [ ] Po uplynutí klauzule obnov § 14, je-li výše dluhu stále ≥ 55 %.
+
+**Typicky rozhodné důkazy / podklady:** čtvrtletní národní účty ČSÚ (mezičtvrtletní/meziroční pokles), vyhlášení krizového stavu, propočet výdajů na pohromy/mezinárodní závazky, dokumentace závazků Garančního systému.
+
 ---
 
 ### § 16 — Opatření při překročení 60 % HDP (maastrichtský strop)
@@ -913,6 +1508,44 @@ V praxi pokud by ČR překročila 60 % HDP, **EDP procedury** by se aktivovaly a
 #### Historický kontext
 
 ČR od roku 1993 **nikdy nepřekročila** maastrichtský strop 60 % HDP — maximum bylo ~46 % HDP v roce 2013. Po pandemii COVID-19 a energetické krizi dluh vzrostl na ~44 % HDP (2023), ale stále pod prahem. § 16 tedy nebyl nikdy aktivně použit.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výše dluhu (netto) dle § 13 dosáhne 61 % HDP. NRR ji vyhlásí ve Sbírce. Současně Evropská komise zahájí přípravu řízení o nadměrném schodku (EDP), neboť brutto maastrichtský dluh přesáhl 60 %. Vláda žádné konkrétní opatření ke snížení dluhu nenavrhne s tím, že „§ 16 jen ukládá navrhnout, ne přijmout". Důkazy: vyhlášení výše dluhu, EDP notifikace, doporučení Rady EU, absence vládního konsolidačního návrhu.
+
+**2. Právní otázka.** Jakou povahu má povinnost vlády dle § 16 (navrhnout opatření ke snížení dluhu nad 60 % HDP), liší se její závaznost od § 14, a jak se prolíná s unijní procedurou EDP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 (vláda navrhne opatření ke snížení výše dluhu nad 60 % HDP).
+- *Související ustanovení téhož zákona:* § 13 (výše dluhu — netto), § 14 (automatická opatření při 55 %), § 2 odst. 3 (princip udržitelnosti), § 21 odst. 2 (hodnocení Radou).
+- *Související předpisy:* čl. 126 SFEU (EDP); Protokol č. 12 ke Smlouvám (referenční hodnota 60 %); čl. 2 odst. 1a nař. (ES) č. 1467/1997 (urychlení EDP při překročení dluhového kritéria); nař. (ES) č. 479/2009 (notifikace).
+- *Judikatura:* k „povinnosti navrhnout" bez určení obsahu — výklad, že jde o povinnost konat (předložit návrh), jejíž *obsah* je předmětem politického uvážení a unijní koordinace; soud nenahradí volbu opatření.
+
+**4. Subsumpce.** Výše dluhu 61 % > 60 % → aktivuje se § 16: vláda *musí navrhnout* opatření ke snížení. Na rozdíl od § 14 (konkrétní automatická opatření) § 16 ukládá pouze *povinnost návrhu* — slabší normativní síla. Absence jakéhokoli návrhu je porušením povinnosti konat; nečinnost neobstojí ani argumentem „jen navrhnout".
+
+**5. Řešení.** Vláda musí předložit konkrétní konsolidační opatření; jejich obsah se fakticky podřídí doporučení Rady EU v rámci EDP (čl. 126 SFEU). Pravděpodobný výsledek: při překročení 60 % brutto se EDP spustí a vláda bude vázána unijně schváleným konsolidačním plánem, takže tuzemská „slabší" povinnost § 16 je v praxi posílena unijním tlakem. Procesně: soudně lze konstatovat nesplnění povinnosti navrhnout, nikoli předepsat obsah; hlavní páka je EDP a hodnocení NRR.
+
+**6. Varianty.** (a) Je-li netto výše dluhu nad 60 %, ale brutto pod 60 % (vlivem odečtu rezervy), aktivuje se § 16, ale EDP nikoli — povinnost je čistě vnitrostátní. (b) Klesá-li dluh dostatečně rychle k referenční hodnotě, EDP se podle čl. 126 SFEU nemusí spustit, byť dluh > 60 %.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „§ 16 ukládá jen návrh".* Vláda bagatelizuje povinnost. Neutralizace: i „pouhý návrh" je vynutitelná povinnost konat; úplná nečinnost je porušením, a obsah je navíc determinován EDP.
+- *Protiargument o suverenitě v EDP.* Namítne se prostor pro vlastní volbu opatření. Neutralizace: v EDP je členský stát vázán doporučeními Rady EU; nesplnění může vést k sankcím dle čl. 126 SFEU (pro nečlena eurozóny omezeně, ale reputačně a politicky významným).
+- *Slabé místo:* rozkol netto (§ 13) vs. brutto (Maastricht) může vést k situaci „aktivace § 16 bez EDP" nebo naopak; argumentace musí jasně rozlišit oba ukazatele.
+
+#### H. Praktický závěr
+
+§ 16 je reakce ex post na překročení 60 % HDP: ukládá vládě *navrhnout* opatření ke snížení dluhu — slabší než automatika § 14, ale v praxi posílená procedurou EDP (čl. 126 SFEU) při překročení brutto Maastrichtu. Nečinnost je porušením povinnosti konat; obsah opatření je politický a unijně koordinovaný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, zda netto výše dluhu (§ 13) přesáhla 60 % → aktivace § 16.
+- [ ] Zkontroluj brutto Maastricht (> 60 %) → riziko EDP dle čl. 126 SFEU.
+- [ ] Doložení, že vláda *navrhla* konkrétní konsolidační opatření.
+- [ ] Zohledni doporučení Rady EU (EDP) jako rámec obsahu opatření.
+
+**Typicky rozhodné důkazy / podklady:** vyhlášení výše dluhu, EDP notifikace ČSÚ, doporučení Rady EU, vládní konsolidační návrh, stanoviska NRR.
 
 ---
 
@@ -994,6 +1627,43 @@ Pět složek dluhu:
 
 Před přijetím ZRO existoval návrh **ústavního zákona o rozpočtové odpovědnosti**, který obsahoval podobné dluhové pravidlo. Ústavní soud (nálezem Pl. ÚS 26/16) se k otázce ústavnosti dluhového pravidla ÚSC nevyjadřoval přímo, ale v doktríně se diskutovalo o tom, zda § 17 nezasahuje do **práva na samosprávu** dle čl. 100 Ústavy. Závěr právní vědy: § 17 je ústavně **konformní**, neboť (i) stanoví pouze **kvantitativní rámec**, nikoli konkrétní rozpočtová rozhodnutí, (ii) sleduje **legitimní cíl** udržitelnosti veřejných financí, (iii) **proporcionalita** je zachována — sankce je gradualistická a nevylučuje samosprávu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Statutární město H. má k rozvahovému dni dluh 90 mil. Kč (komunální dluhopisy 60 mil. + bankovní úvěr 25 mil. + plnění z realizované záruky za městskou s. r. o. 5 mil.). Průměr jeho příjmů za poslední 4 rozpočtové roky (konsolidovaných dle vyhlášky č. 5/2014 Sb.) činí 120 mil. Kč; 60 % z toho = 72 mil. Kč. Město navíc eviduje dlouhodobý závazek z přijatého transferu (8 mil. Kč) a desetiletou smlouvu o splátkách za rekonstrukci (12 mil. Kč). V následujícím roce dluh nesníží. Důkazy: rozvaha, výkaz FIN 2-12 M, smlouvy, propočet poměru, údaje zveřejněné MF dle § 18.
+
+**2. Právní otázka.** Překračuje město práh 60 % průměru příjmů (které závazky se do „dluhu" počítají a které nikoli dle odst. 5), jaká je povinnost snížení dle odst. 2 a kdy nastupuje sankce pozastavení podílu na výnosu daní dle odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 odst. 1 (strop 60 % průměru příjmů za 4 roky), odst. 2 (povinnost snížit ≥ 5 % rozdílu), odst. 3 (sankce — pozastavení RUD), odst. 4 (definice „příjmů"), odst. 5 písm. a)–e) (definice „dluhu", vč. výjimky pro transfery a non-debt deferraly).
+- *Související ustanovení téhož zákona:* § 18 (vyhodnocení a zveřejnění MF), § 2 odst. 3 (udržitelnost), § 35 (odložená účinnost odst. 3 od 1. 1. 2018).
+- *Související předpisy:* zákon č. 243/2000 Sb. (RUD — pozastavení podílu); vyhláška č. 5/2014 Sb. (konsolidace příjmů); zákon č. 250/2000 Sb. (rozpočet ÚSC); čl. 100–101 Ústavy (právo na samosprávu, dozor).
+- *Judikatura:* k ústavnosti dluhového pravidla ÚSC — nosný závěr (doktrína navazující na Pl. ÚS k samosprávě), že § 17 je ústavně konformní: stanoví jen kvantitativní rámec, sleduje legitimní cíl udržitelnosti a je proporcionální (gradualistická sankce nevylučující samosprávu).
+
+**4. Subsumpce.** Do dluhu (odst. 5) patří dluhopisy (písm. a) 60 mil.), úvěr (písm. b) 25 mil.) a plnění ze záruky (písm. c) 5 mil.) = 90 mil. Kč. *Nezapočítá* se závazek z transferu (8 mil. — výjimka písm. e)) ani desetiletá splátková smlouva, *pokud* jejím cílem nebylo odložení splácení dluhu (výjimka písm. e); je-li jejím cílem řádná úhrada plnění, nikoli odklad dluhu, nezapočte se). Dluh 90 mil. > strop 72 mil. → překročení o 18 mil. Kč. Povinnost snížení (odst. 2): ≥ 5 % z 18 mil. = ≥ 900 tis. Kč v následujícím roce.
+
+**5. Řešení.** Město překračuje strop a musí v následujícím roce snížit dluh nejméně o 900 tis. Kč. Neučiní-li tak a dluh k dalšímu rozvahovému dni stále převyšuje 60 % průměru příjmů, MF *rozhodne* o pozastavení převodu podílu na výnosu daní (odst. 3, RUD). Sankce je gradualistická a trvá, dokud město povinnost nesplní. Procesně: rozhodnutí MF dle zákona o RUD je správním rozhodnutím (na rozdíl od deklaratorního seznamu dle § 6) — přezkoumatelné ve správním soudnictví.
+
+**6. Varianty.** (a) Byla-li by desetiletá splátková smlouva nástrojem *odložení* splácení existujícího dluhu, započetla by se do dluhu (písm. e) výjimku nelze využít) a překročení by vzrostlo. (b) Klesnou-li budoucí příjmy, klesne i strop (4letý průměr), takže i bez růstu dluhu může město práh překročit. (c) U malé obce s příjmy 5 mil. Kč je strop 3 mil. Kč — pravidlo dopadá relativně stejně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zásah do práva na samosprávu (čl. 100 Ústavy)".* Město namítne neústavnost. Neutralizace: § 17 stanoví jen kvantitativní rámec (ne konkrétní rozpočtová rozhodnutí), sleduje legitimní cíl a sankce je proporcionální a postupná; doktrína ústavnost potvrzuje.
+- *Protiargument o klasifikaci závazku.* Spor, zda splátková smlouva je „dluh" (písm. e)). Neutralizace: rozhodující je, zda jejím *cílem* bylo odložení splácení dluhu; účelové přeznačení dluhu na „dlouhodobý závazek" výjimku nezakládá.
+- *Slabé místo:* pozastavení RUD tvrdě dopadá na cash-flow obce a může ohrozit plnění zákonných povinností; otázka proporcionality v konkrétním případě (zejm. u malých obcí) — zde je prostor pro správní uvážení MF a soudní přezkum.
+
+#### H. Praktický závěr
+
+§ 17 ukládá každému ÚSC udržet dluh pod 60 % průměru jeho příjmů za 4 roky; při překročení musí v dalším roce snížit dluh o ≥ 5 % rozdílu, jinak MF pozastaví převod podílu na výnosu daní (rozhodnutí přezkoumatelné soudem). Klíčové je správné vymezení „dluhu" (odst. 5 — bez transferů a non-debt deferralů) a „příjmů" (odst. 4 — konsolidovaně). Strop se mění s vývojem příjmů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spočti průměr konsolidovaných příjmů za poslední 4 roky a 60% strop (odst. 1, 4).
+- [ ] Sestav „dluh" dle odst. 5 (a–e); vylouči transfery a non-debt deferraly (písm. e)).
+- [ ] Při překročení urči povinné snížení ≥ 5 % rozdílu (odst. 2).
+- [ ] Při nesplnění připrav/očekávej rozhodnutí MF o pozastavení RUD (odst. 3).
+- [ ] U sankce zvaž proporcionalitu a možnost soudního přezkumu.
+
+**Typicky rozhodné důkazy / podklady:** rozvaha a výkaz FIN 2-12 M, smlouvy o úvěrech/dluhopisech/zárukách/splátkách, propočet 4letého průměru příjmů, údaje zveřejněné MF dle § 18, rozhodnutí MF o RUD.
+
 ---
 
 ### § 18 — Vyhodnocování ÚSC ministerstvem
@@ -1012,6 +1682,45 @@ Před přijetím ZRO existoval návrh **ústavního zákona o rozpočtové odpov
 3. **Zveřejnění** poměru dluh/příjmy a případného povinného snížení **za každý ÚSC zvlášť**.
 
 Zveřejnění je provedeno na webu MF (mfcr.cz) v sekci „Územní samosprávné celky" a obsahuje **excelovou tabulku** všech 6 254 obcí a 14 krajů s jejich aktuálním poměrem. Tato tabulka je **veřejně přístupná** a slouží mj. **bankám** při poskytování úvěrů ÚSC, **investorům** při hodnocení komunálních dluhopisů a **NRR** při hodnocení fiskálního zdraví subsektoru ÚSC.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec I. zjistí, že v každoroční tabulce MF (poměr dluh/příjmy za 4 roky a případné povinné snížení dle § 17 odst. 2) je u ní uveden chybný, příliš vysoký poměr, který ji nepravdivě ukazuje jako překračovatele stropu. Banka na základě této tabulky odmítne obci úvěr. Obec se domáhá opravy. Důkazy: zveřejněná tabulka MF, vlastní výkazy (FIN 2-12 M), korespondence s bankou, propočet skutečného poměru.
+
+**2. Právní otázka.** Jakou povahu má každoroční vyhodnocení a zveřejnění poměru dluh/příjmy dle § 18 (informativní vs. konstitutivní) a jak se obec může bránit proti nesprávnému údaji?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 (každoroční vyhodnocení údajů o příjmech a dluzích ÚSC; informace vládě; zveřejnění poměru a případného povinného snížení za každý ÚSC).
+- *Související ustanovení téhož zákona:* § 17 (dluhové pravidlo ÚSC — předmět hodnocení), § 6 (zveřejňování MF), § 7 odst. 4 (CSÚIS jako zdroj dat).
+- *Související předpisy:* vyhláška č. 5/2014 Sb. (konsolidace, výkaznictví ÚSC); zákon č. 106/1999 Sb. (právo na informace); zákon č. 82/1998 Sb. (odpovědnost za nesprávný úřední postup — při kvalifikované vadě).
+- *Judikatura:* k povaze zveřejněné informace orgánu veřejné moci — nosný závěr, že informativní úkon bez vlastních právních účinků není rozhodnutím; ochrana proti nesprávnosti se vede žádostí o opravu/aktualizaci, nikoli žalobou proti rozhodnutí.
+
+**4. Subsumpce.** § 18 ukládá MF pouze *vyhodnotit a zveřejnit* poměr — jde o informativní (deklaratorní) úkon, nikoli o rozhodnutí zakládající práva či povinnosti. Konstitutivní účinky (sankci) má až rozhodnutí dle § 17 odst. 3 (pozastavení RUD), nikoli tabulka § 18. Nesprávný údaj v tabulce sám práva obce nemění, ale fakticky jí škodí (úvěr).
+
+**5. Řešení.** Obec se brání žádostí o opravu/aktualizaci údaje u MF (doložením správných výkazů), případně cestou zákona č. 106/1999 Sb.; žaloba proti „rozhodnutí" není na místě (chybí rozhodnutí). Při kvalifikované vadě a vzniklé škodě lze zvážit odpovědnost státu dle zákona č. 82/1998 Sb. Pravděpodobný výsledek: oprava tabulky po doložení správných dat; sankční důsledky § 17 nenastávají, neboť poměr je ve skutečnosti pod prahem. Procesně: klíčové je doložit konsolidovaná data dle vyhlášky č. 5/2014 Sb.
+
+**6. Varianty.** (a) Je-li chyba na straně obce (vadné výkazy do CSÚIS), náprava spočívá v opravě výkazů; MF přepočte poměr. (b) Je-li poměr *správně* nad prahem, tabulka jen reflektuje stav dle § 17 a obci hrozí povinnost snížení (odst. 2) a sankce (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „tabulka je závazná".* Banka/obec ji berou jako autoritativní verdikt. Neutralizace: tabulka je informativní; rozhodující je skutečný stav dle § 17; nesprávnost se opraví, sankce plyne až z rozhodnutí dle § 17 odst. 3.
+- *Protiargument o soudní ochraně.* Namítne se nemožnost přezkumu. Neutralizace: proti informativnímu úkonu se brání žádostí o opravu a InfZ, nikoli žalobou proti rozhodnutí; soudní přezkum se otevírá až u rozhodnutí o RUD.
+- *Slabé místo:* faktické (reputační, úvěrové) dopady nesprávné tabulky mohou být značné, ač jde „jen" o informaci — proto je důležitá rychlá oprava a kvalita vstupních dat z CSÚIS.
+
+#### H. Praktický závěr
+
+§ 18 je monitorovací a transparentní nástroj: MF každoročně počítá a zveřejňuje poměr dluh/příjmy a případné povinné snížení za každý ÚSC. Tabulka je informativní (slouží bankám, investorům, NRR), nikoli konstitutivní — sankci nese až rozhodnutí dle § 17 odst. 3. Proti chybnému údaji se braňte opravou a doložením správných výkazů, ne žalobou proti rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř správnost poměru v tabulce MF proti vlastním výkazům (FIN 2-12 M).
+- [ ] Při chybě podej žádost o opravu/aktualizaci (případně dle InfZ).
+- [ ] Odliš informativní úkon (§ 18) od sankčního rozhodnutí (§ 17 odst. 3).
+- [ ] Zkontroluj kvalitu dat odeslaných do CSÚIS.
+- [ ] Při škodě zvaž odpovědnost státu (zák. č. 82/1998 Sb.).
+
+**Typicky rozhodné důkazy / podklady:** zveřejněná tabulka MF, výkaz FIN 2-12 M a rozvaha, konsolidovaná data dle vyhlášky č. 5/2014 Sb., korespondence s MF a bankou.
 
 ---
 
@@ -1054,6 +1763,42 @@ Hlavní hledisko hodnocení: **pravděpodobnost naplnění** prognózy (likeliho
 Důležitá norma: **většina veřejných institucí** (mimo ÚSC, DSO, příspěvkové organizace ÚSC a navázané právnické osoby) musí pro přípravu svých rozpočtů použít **prognózu MF posouzenou Výborem**. To zajišťuje **jednotnost** makroekonomických předpokladů napříč sektorem veřejných institucí.
 
 ÚSC a navázané subjekty jsou z této povinnosti vyňaty — důvod: jejich rozpočty jsou postavené na **vlastních příjmech** (především daňových výnosech dle RUD), pro něž je rozhodující prognóza MF spíše indikativně, nikoli závazně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** MF připraví makroekonomickou a fiskální prognózu pro přípravu státního rozpočtu, ale nepředloží ji Výboru pro rozpočtové prognózy k předběžnému posouzení a rovnou ji použije. Veřejná vysoká škola (§ 3 písm. e)) následně sestaví svůj rozpočet na základě *jiné*, vlastní prognózy růstu, nikoli prognózy MF posouzené Výborem. Důkazy: prognóza MF, doklad o (ne)předložení Výboru, rozpočet VVŠ a jím použité makropředpoklady.
+
+**2. Právní otázka.** Je MF povinno předložit prognózu Výboru k posouzení *před* jejím použitím (odst. 2) a je VVŠ vázána povinností použít prognózu MF posouzenou Výborem (odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 (zřízení Výboru), odst. 2 (předběžné a souhrnné posouzení prognóz MF z hlediska pravděpodobnosti naplnění; zveřejnění a zohlednění výsledku), odst. 3 (závaznost prognózy MF posouzené Výborem pro VI mimo § 3 písm. h)–l)).
+- *Související ustanovení téhož zákona:* § 8 (kvalita a transparentnost prognóz MF, ex-post hodnocení se stanoviskem Výboru), § 20 (složení Výboru), § 9 (strategie z prognózy), § 5 odst. 1 (sestavení rozpočtu „se zohledněním hospodářských skutečností").
+- *Související předpisy:* čl. 4 odst. 6 směrnice 2011/85/EU (nezávislé instituce ověřující prognózy).
+- *Judikatura:* k povinnosti použít závazný odborný podklad — výklad, že kde zákon ukládá vycházet z určeného podkladu, je odchýlení bez zákonného důvodu vadou postupu.
+
+**4. Subsumpce.** Odst. 2 ukládá Výboru posuzovat prognózy *předem*; logicky tomu odpovídá povinnost MF prognózu Výboru předložit před jejím použitím pro přípravu ZSR, rozpočtu SF a pojišťoven — opomenutí je porušením. Odst. 3 ukládá VVŠ (není v § 3 písm. h)–l)) *použít* prognózu MF posouzenou Výborem; použití vlastní odlišné prognózy je v rozporu s odst. 3.
+
+**5. Řešení.** MF mělo prognózu předložit Výboru a jeho výsledek zveřejnit a zohlednit (odst. 2); VVŠ měla použít prognózu MF posouzenou Výborem (odst. 3), nikoli vlastní. Pravděpodobný výsledek: postup MF je vadný (ohrožuje jednotnost makropředpokladů), VVŠ porušila odst. 3. Vynucení je primárně metodicko-kontrolní (transparentnost, hodnocení); u VVŠ může vést k výtce při kontrole hospodaření. Procesně: náprava = předložení Výboru / přepočet rozpočtu VVŠ na společnou prognózu.
+
+**6. Varianty.** (a) Jde-li o ÚSC nebo PO zřízenou ÚSC (§ 3 písm. h)–l)), povinnost odst. 3 *neplatí* — tyto subjekty prognózu MF použít nemusí (jejich rozpočty stojí na vlastních příjmech). (b) Posoudí-li Výbor prognózu jako málo pravděpodobnou, MF ji nemusí změnit, ale musí výsledek zveřejnit a zohlednit (§ 8 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „posouzení Výboru je nezávazné".* MF tvrdí, že nemusí prognózu Výboru předkládat. Neutralizace: odst. 2 konstruuje *předběžné* posouzení; jeho smyslem je hodnotit prognózu před použitím — to předpokládá předložení; navíc § 8 odst. 3 váže zveřejnění a zohlednění.
+- *Protiargument VVŠ o autonomii.* Namítne se právo zvolit vlastní předpoklady. Neutralizace: odst. 3 výslovně ukládá použít prognózu MF posouzenou Výborem; výjimka je jen pro § 3 písm. h)–l), kam VVŠ nepatří.
+- *Slabé místo:* Výbor a NRR jsou dva odlišné orgány s odlišnou funkcí; záměna jejich rolí (prognózy vs. plnění pravidel) je častou chybou argumentace.
+
+#### H. Praktický závěr
+
+§ 19 zřizuje Výbor jako nezávislého ověřovatele prognóz MF (transpozice čl. 4 odst. 6 směrnice). MF předkládá prognózy Výboru *předem*, výsledek zveřejní a zohlední; většina veřejných institucí (mimo ÚSC a navázané subjekty dle písm. h)–l)) musí pro své rozpočty použít prognózu MF posouzenou Výborem. Nezaměňujte Výbor s NRR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř předložení prognózy MF Výboru *před* použitím (odst. 2).
+- [ ] Zkontroluj zveřejnění a zohlednění výsledku posouzení (odst. 2, § 8 odst. 3).
+- [ ] U VI mimo § 3 písm. h)–l) doložení použití prognózy MF posouzené Výborem (odst. 3).
+- [ ] Nezaměňuj působnost Výboru (prognózy) a NRR (plnění pravidel).
+
+**Typicky rozhodné důkazy / podklady:** prognóza MF a doklad o předložení Výboru, zveřejněné posouzení Výboru, rozpočet dotčené VI a jím použité makropředpoklady.
 
 ---
 
@@ -1099,6 +1844,44 @@ MF poskytuje Výboru:
 - **financování** z rozpočtu MF.
 
 Toto je pragmatické řešení — Výbor jako orgán bez vlastního aparátu spoléhá na MF, což je drobné vychýlení od nezávislosti. NRR má naopak vlastní Úřad a vlastní rozpočtovou kapitolu (§§ 32–33).
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda jmenuje členem Výboru pro rozpočtové prognózy osobu *bez návrhu NRR* (návrh podalo přímo MF) a stanoví jí odměnu za výkon funkce. Současně Výbor zasedá ve složení předseda + 4 členové (celkem 5). NRR a odborná veřejnost namítají rozpor s § 20. Důkazy: jmenovací akt, návrh (jeho původce), statut a jednací řád Výboru, doklad o vyplácené odměně, prezenční listina.
+
+**2. Právní otázka.** Je jmenování člena Výboru platné, bylo-li učiněno bez návrhu NRR; lze členovi přiznat odměnu, je-li funkce čestná; a splňuje pětičlenný Výbor zákonné minimum?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 1 (předseda + místopředseda + ≥ 5 dalších členů), odst. 2 (jmenuje vláda *na návrh Rady* na 3 roky), odst. 3 (čestná funkce), odst. 4 (statut a jednací řád schválený vládou na společný návrh MF a NRR), odst. 5–6 (servis a financování MF).
+- *Související ustanovení téhož zákona:* § 19 (působnost Výboru), § 21 (NRR jako navrhovatel), § 33 (financování NRR — kontrast).
+- *Související předpisy:* obecné principy jmenování do veřejných funkcí; zákon č. 234/2014 Sb. (státní služba — neaplikuje se na čestnou funkci).
+- *Judikatura:* k náležitosti návrhu jako podmínce jmenování — výklad, že chybí-li zákonem předepsaný návrh oprávněného subjektu, je jmenování stiženo vadou (nedostatek zákonné podmínky).
+
+**4. Subsumpce.** Odst. 2 vyžaduje *návrh Rady* — jmenování na návrh MF tuto podmínku nesplňuje (vada). Odst. 3 stanoví funkci jako *čestnou* — přiznání odměny za výkon funkce je s tím v rozporu (čestná = bez odměny). Odst. 1 vyžaduje *nejméně 7 osob* (předseda + místopředseda + ≥ 5); pětičlenný Výbor zákonné minimum nesplňuje.
+
+**5. Řešení.** Jmenování bez návrhu NRR je vadné a mělo by být zhojeno řádným postupem (návrh NRR → jmenování vládou). Odměnu za výkon čestné funkce přiznat nelze (lze nanejvýš náhradu hotových výdajů, stanoví-li tak statut). Výbor musí být doplněn nejméně na 7 členů. Procesně: náprava jmenovacího aktu, zrušení odměny, doplnění Výboru.
+
+**6. Varianty.** (a) Podá-li návrh NRR a vláda jmenuje, vada odpadá. (b) Stanoví-li statut (odst. 4) pravidla náhrad cestovních výdajů, nejde o „odměnu" a čestná povaha zůstává zachována. (c) Při 8 členech (předseda + místopředseda + 6) je požadavek odst. 1 splněn s rezervou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „návrh je formalita".* Vláda bagatelizuje absenci návrhu NRR. Neutralizace: návrh oprávněného subjektu je *podmínkou* jmenování (dvojí filtr odborný + politický); jeho absence je podstatnou vadou.
+- *Protiargument o odměňování.* Namítne se přiměřenost odměny. Neutralizace: odst. 3 výslovně označuje funkci za čestnou — odměna je vyloučena; přípustné jsou jen náhrady dle statutu.
+- *Slabé místo:* závislost Výboru na servisu a financování MF (odst. 5–6) je drobným vychýlením od nezávislosti — kompenzováno navrhovacím právem NRR a statutem schvalovaným na společný návrh MF + NRR.
+
+#### H. Praktický závěr
+
+Výbor má mít nejméně 7 členů (předseda + místopředseda + ≥ 5), jmenovaných vládou *na návrh NRR* na 3 roky; jde o čestnou (neplacenou) funkci. Detaily upravuje statut a jednací řád schválený vládou na společný návrh MF a NRR. Servis a financování zajišťuje MF. Hlídejte návrhové oprávnění NRR, čestnou povahu funkce a početní minimum.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, že jmenování proběhlo na návrh NRR (odst. 2).
+- [ ] Zkontroluj početní minimum (≥ 7 osob, odst. 1).
+- [ ] Vyluč odměnu za výkon funkce (čestná funkce, odst. 3); přípustné jen náhrady dle statutu.
+- [ ] Ověř existenci statutu a jednacího řádu schváleného vládou (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akt a jeho návrh (původce), statut a jednací řád Výboru, doklady o odměnách/náhradách, prezenční listiny.
 
 ---
 
@@ -1168,6 +1951,42 @@ Klíčová role NRR v důchodové diskuzi. Kdykoli vláda navrhne **úpravy důc
 
 NRR **publikuje** všechny své zprávy a stanoviska na webu **rozpoctovarada.cz**. Princip **plné transparentnosti** — žádné neveřejné dokumenty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČSÚ poprvé zveřejní výši dluhu sektoru veřejných institucí za předchozí kalendářní rok dne 1. 10. NRR ji ve Sbírce zákonů a mezinárodních smluv vyhlásí až 20. 11. (tj. po více než měsíci). Současně vláda předloží návrh důchodové reformy s významným dlouhodobým dopadem na udržitelnost, k němuž NRR stanovisko nevypracuje. Důkazy: datum prvního zveřejnění ČSÚ, datum vyhlášení ve Sbírce, návrh důchodové reformy a jeho dopadová analýza, plán činnosti NRR.
+
+**2. Právní otázka.** V jaké lhůtě musí NRR vyhlásit výši dluhu (odst. 2 písm. b)), jaké důsledky má pozdní vyhlášení pro aktivaci § 14/§ 16, a je NRR povinna vydat stanovisko k důchodové reformě (odst. 2 písm. f))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 1 (nezávislý odborný orgán), odst. 2 písm. a)–f) (hodnocení pravidel; vyhlášení výše dluhu do 1 měsíce od prvního zveřejnění ČSÚ; sledování hospodaření; zpráva o udržitelnosti; stanovisko k nápravné složce; stanovisko k důchodovým reformám), odst. 3 (zveřejnění bez zbytečného odkladu).
+- *Související ustanovení téhož zákona:* § 13 (výše dluhu), § 14 a § 16 (aktivace prahů navázaná na vyhlášení), § 11 (nápravná složka — písm. e)), § 23 odst. 2 (nezávislost).
+- *Související předpisy:* zákon č. 309/1999 Sb. (Sbírka zákonů a mezinárodních smluv); čl. 97–98 Ústavy (NKÚ, ČNB — analogie nezávislých orgánů); nař. (ES) č. 479/2009 (EDP notifikace).
+- *Judikatura:* k povaze vyhlašovacího aktu a lhůt — výklad, že zákonná lhůta k vyhlášení je závazná; opožděné vyhlášení nezpůsobuje neúčinnost, ale posouvá počátek navazujících účinků a je porušením povinnosti.
+
+**4. Subsumpce.** Odst. 2 písm. b) ukládá vyhlásit výši dluhu *do 1 měsíce* od prvního zveřejnění ČSÚ (zde do 1. 11.). Vyhlášení 20. 11. je opožděné → porušení lhůty; současně se posouvá počátek běhu lhůt § 14 (opatření „od 1. dne 2. měsíce po vyhlášení"). Stanovisko k důchodové reformě (písm. f)) je povinné *pouze* tehdy, „pokud podle vyhodnocení Rady" návrh významně ovlivní dlouhodobou udržitelnost — splněno, NRR tedy stanovisko vypracovat má.
+
+**5. Řešení.** NRR pochybila zpožděním vyhlášení (mělo být do 1. 11.); důsledkem je posunutý a zpožděný náběh opatření § 14, nikoli jejich neúčinnost. K důchodové reformě s významným dopadem NRR stanovisko vypracovat a předložit vládě i PS má (písm. f)); jde sice o formálně nezávazné, ale politicky vlivné stanovisko. Procesně: NRR vyhlášení a stanovisko zveřejní bez zbytečného odkladu (odst. 3).
+
+**6. Varianty.** (a) Je-li vyhlášená výše dluhu ≥ 55 %, opožděné vyhlášení jen *oddálí* aktivaci § 14; je-li > 60 %, oddálí i nástup povinnosti dle § 16. (b) Nemá-li důchodová reforma významný dopad na udržitelnost, povinnost stanoviska dle písm. f) nevzniká (chybí znak významnosti).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lhůta k vyhlášení je pořádková".* Namítne se, že zpoždění nemá následky. Neutralizace: lhůta je závazná a její nedodržení posouvá počátek účinků § 14/§ 16; jde o porušení, byť bez sankce vůči členům NRR.
+- *Protiargument o nezávaznosti stanovisek NRR.* Vláda bagatelizuje stanovisko k reformě. Neutralizace: nezávaznost neznamená nepovinnost *vydání*; písm. f) zakládá povinnost stanovisko vypracovat a předložit, je-li dopad významný.
+- *Slabé místo:* posouzení „významného dopadu" je na uvážení NRR (odst. 2 písm. f)); chybí objektivní práh — NRR jej opírá o vlastní dlouhodobé modely (zpráva dle písm. d)).
+
+#### H. Praktický závěr
+
+§ 21 vymezuje NRR jako nezávislý odborný orgán se šesti pravomocemi. Administrativně klíčové je vyhlášení výše dluhu ve Sbírce *do 1 měsíce* od prvního zveřejnění ČSÚ — od něj se odvíjí aktivace § 14/§ 16. K důchodovým reformám s významným dopadem vydává NRR (nezávazné, ale vlivné) stanovisko. Vše zveřejňuje bez zbytečného odkladu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř vyhlášení výše dluhu ve Sbírce do 1 měsíce od prvního zveřejnění ČSÚ (písm. b)).
+- [ ] Naváž počátek lhůt § 14/§ 16 na datum vyhlášení.
+- [ ] U významných důchodových reforem zajisti stanovisko NRR vládě i PS (písm. f)).
+- [ ] Zkontroluj zveřejnění zpráv a stanovisek (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** datum prvního zveřejnění ČSÚ a vyhlášení ve Sbírce, zpráva o dlouhodobé udržitelnosti, dopadová analýza důchodové reformy, plán a stanoviska NRR.
+
 ---
 
 ### § 22 — Informační oprávnění NRR
@@ -1194,6 +2013,42 @@ ZRO **nestanoví explicitní sankce** za neposkytnutí informací NRR. Sankční
 - možné podání podnětu Veřejnému ochránci práv nebo Úřadu vlády.
 
 V praxi všechny veřejné instituce **spolupracují** — odmítnutí by bylo politicky neúnosné.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NRR si v rámci přípravy zprávy o dlouhodobé udržitelnosti vyžádá od státního podniku J. (zařazeného do S.13) podrobné údaje o jeho dluhové expozici a investičních závazcích. Státní podnik poskytnutí odmítne s odkazem na obchodní tajemství a tvrzení, že „NRR nemá nad ním pravomoc". Důkazy: žádost NRR (vymezení účelu), odmítavá odpověď podniku, zápis podniku v RES jako S.13.
+
+**2. Právní otázka.** Je veřejná instituce povinna poskytnout NRR vyžádané informace a součinnost (§ 22), může je odepřít s poukazem na obchodní tajemství, a jaké jsou důsledky odmítnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 (NRR si může vyžádat informace a součinnost veřejných institucí související s její působností; ty jsou v mezích své působnosti povinny je poskytnout).
+- *Související ustanovení téhož zákona:* § 3 (veřejná instituce — okruh povinných), § 21 (působnost NRR — účel vyžádání), § 21 odst. 2 písm. c) a d) (sledování hospodaření, zpráva o udržitelnosti).
+- *Související předpisy:* § 504 zákona č. 89/2012 Sb. (obchodní tajemství); zákon č. 412/2005 Sb. (utajované informace — mez „v mezích působnosti"); zákon č. 255/2012 Sb. (kontrolní řád — subsidiárně, principy součinnosti).
+- *Judikatura:* k poměru zákonného informačního oprávnění a obchodního tajemství — nosný závěr, že zvláštní zákonné zmocnění orgánu veřejné moci k získání informací prolamuje obchodní tajemství, je-li poskytnutí v mezích působnosti a účelu.
+
+**4. Subsumpce.** Státní podnik J. je veřejnou institucí (S.13 v RES, § 3) → spadá pod § 22. Vyžádané údaje souvisí s působností NRR (sledování hospodaření, zpráva o udržitelnosti) → povinnost součinnosti je dána. Obchodní tajemství samo o sobě poskytnutí nebrání — § 22 je zvláštním zákonným titulem; meze tvoří jen „mez působnosti" (např. utajované informace dle zvláštního režimu).
+
+**5. Řešení.** Státní podnik J. je povinen NRR informace a součinnost poskytnout; odmítnutí s odkazem na obchodní tajemství neobstojí (zákonné oprávnění § 22 je prolamuje). ZRO sice nestanoví výslovnou sankci, vynucení je nepřímé (politické a reputační důsledky, promítnutí do hodnocení NRR, podnět nadřízenému/zřizovateli). Procesně: NRR může opakovat žádost s vymezením účelu a meze; podnik poskytne data, případně v režimu důvěrnosti.
+
+**6. Varianty.** (a) Jde-li o údaje v režimu utajovaných informací (zák. č. 412/2005 Sb.), poskytnutí podléhá zvláštnímu režimu — to je mez „v mezích působnosti". (b) Není-li subjekt veřejnou institucí (není S.13), povinnost dle § 22 nevzniká; NRR data získá nepřímo přes MF či zřizovatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obchodní tajemství".* Podnik odmítá s § 504 OZ. Neutralizace: zvláštní zákonné zmocnění (§ 22) prolamuje obchodní tajemství; poskytnutí lze podmínit důvěrným režimem, nikoli odepřít.
+- *Protiargument o absenci sankce.* Namítne se nevynutitelnost. Neutralizace: sankce je nepřímá, ale účinná (politická, reputační, hodnoticí); odmítnutí je navíc porušením zákonné povinnosti.
+- *Slabé místo:* hranice „v mezích své působnosti" je neurčitá; spor o rozsah vyžádaných dat — NRR musí vázat žádost na konkrétní úkol dle § 21.
+
+#### H. Praktický závěr
+
+§ 22 dává NRR široké zákonné oprávnění vyžádat si informace a součinnost od všech veřejných institucí; ty jsou povinny vyhovět v mezích své působnosti. Obchodní tajemství poskytnutí nebrání (zákonný titul je prolamuje); odepřít lze jen tam, kde brání zvláštní režim (utajované informace). Sankce je nepřímá, povinnost však reálná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, že dožádaný subjekt je veřejnou institucí (§ 3, S.13).
+- [ ] Naváž žádost na konkrétní úkol z působnosti NRR (§ 21).
+- [ ] Posuď, zda nejde o utajované informace (mez „v mezích působnosti").
+- [ ] Obchodní tajemství řeš důvěrným režimem, ne odepřením.
+
+**Typicky rozhodné důkazy / podklady:** žádost NRR s vymezením účelu, výpis z RES (S.13), odmítavá/vyhovující odpověď, případné posouzení režimu utajení.
 
 ---
 
@@ -1247,6 +2102,42 @@ Tato rozpočtová samostatnost je dalším pilířem nezávislosti — NRR není
 
 NRR si schvaluje **vlastní jednací řád** — bez schválení vládou nebo parlamentem. Toto je opět projev samosprávy a nezávislosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministr financí neformálně „doporučí" členovi NRR, jak má hlasovat o stanovisku k nápravné složce (§ 11), a podmíní tím vstřícnost při schvalování rozpočtu Úřadu Rady. Člen NRR pokyn akceptuje. Současně NRR nezveřejní roční plán své činnosti. Důkazy: e-mailová komunikace, zápis z jednání NRR, absence zveřejněného plánu, návrh rozpočtu Úřadu Rady.
+
+**2. Právní otázka.** Porušuje člen NRR zákon, přijme-li pokyn k výkonu funkce od ministra (odst. 2), a je NRR povinna zveřejnit plán činnosti (odst. 3); jak se projeví rozpočtová samostatnost NRR (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 1 (veřejná funkce), odst. 2 (osobní výkon; zákaz přijímat i vyžadovat pokyny), odst. 3 (zveřejnění plánu činnosti), odst. 4 (schvalování rozpočtu Úřadu Rady, výhledu a závěrečného účtu kapitoly), odst. 5 (jednací řád).
+- *Související ustanovení téhož zákona:* § 21 odst. 1 (nezávislý orgán), § 24–25 (složení, volba), § 33 (samostatná kapitola státního rozpočtu), § 30 odst. 2 (odvolání při neslučitelnosti).
+- *Související předpisy:* čl. 82 Ústavy (nezávislost soudců — analogie); zákon č. 6/1993 Sb. (nezávislost bankovní rady ČNB); § 127 zákona č. 40/2009 Sb. (úřední osoba).
+- *Judikatura:* k záruce nezávislosti zákazem pokynů — výklad, že přijetí pokynu k výkonu funkce u orgánu, jehož nezávislost zákon chrání, je porušením základní povinnosti nositele funkce.
+
+**4. Subsumpce.** Odst. 2 *zakazuje* členu NRR přijímat (i vyžadovat) pokyny od jiného orgánu/osoby a ukládá osobní výkon funkce. Akceptace pokynu ministra je přímým porušením odst. 2 a ohrožením nezávislosti dle § 21 odst. 1. Odst. 3 ukládá *zveřejnit* plán činnosti — jeho absence je porušením. Rozpočtová samostatnost (odst. 4 + § 33) má bránit právě nátlaku „přes rozpočet".
+
+**5. Řešení.** Člen NRR porušil odst. 2 (přijetí pokynu); jednání ohrožuje legitimitu stanoviska k nápravné složce. NRR měla plán činnosti zveřejnit (odst. 3). Pokus ministra ovlivnit hlasování podmíněním rozpočtu naráží na rozpočtovou samostatnost (odst. 4, § 33) — schválení rozpočtu Úřadu Rady přísluší Radě, předkládá se i Rozpočtovému výboru PS (§ 33 odst. 2), takže páka „přes rozpočet" je oslabena. Procesně: náprava = zveřejnění plánu, distancování od pokynu; při kvalifikovaném selhání úvaha o důvěře k osobě (nikoli automatické odvolání — to je vázáno na § 30).
+
+**6. Varianty.** (a) Pouhé *vyžádání* názoru ministra členem NRR (bez vázanosti) může též naplnit zákaz „vyžadovat pokyny" — hranice je u závaznosti. (b) Začne-li člen vykonávat neslučitelnou funkci (§ 27), nastupuje *obligatorní* odvolání PS (§ 30 odst. 2) — to je odlišný režim od porušení odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo o nezávaznou konzultaci".* Člen tvrdí, že nešlo o pokyn. Neutralizace: zákaz se vztahuje na pokyny k *výkonu funkce*; je-li komunikace fakticky direktivní a podmíněná, jde o pokyn bez ohledu na formu.
+- *Protiargument o pořádkové povaze zveřejnění plánu.* Namítne se bezvýznamnost. Neutralizace: zveřejnění plánu je nástrojem prevence účelového ladění činnosti a kontroly NRR; jeho opomenutí je porušením transparenční povinnosti.
+- *Slabé místo:* ZRO neobsahuje výslovnou sankci za porušení odst. 2 jiného než vázaného na § 30; vynucení nezávislosti se opírá o reputaci, slib (§ 29) a kontrolu PS.
+
+#### H. Praktický závěr
+
+§ 23 garantuje nezávislost člena NRR: funkci vykonává osobně, nesmí přijímat ani vyžadovat pokyny, NRR zveřejňuje plán činnosti a hospodaří v samostatné kapitole (vazba na § 33). Tyto prvky chrání NRR před nátlakem (i „přes rozpočet"). Přijetí pokynu je porušením základní povinnosti; obligatorní odvolání je však vázáno až na § 27/§ 30.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyluč přijímání i vyžadování pokynů k výkonu funkce (odst. 2).
+- [ ] Zajisti zveřejnění ročního plánu činnosti (odst. 3).
+- [ ] Schvaluj rozpočet Úřadu Rady, výhled a závěrečný účet v Radě (odst. 4; § 33).
+- [ ] Odliš porušení odst. 2 od důvodů obligatorního odvolání (§ 27, § 30).
+
+**Typicky rozhodné důkazy / podklady:** komunikace nasvědčující pokynu, zápisy z jednání NRR, zveřejněný plán činnosti, návrh rozpočtu a výhledu Úřadu Rady, jednací řád.
+
 ---
 
 ### § 24 — Složení Rady
@@ -1287,6 +2178,42 @@ Předseda NRR má právo **účastnit se schůzí vlády s hlasem poradním** �
 Předseda NRR se účastní schůzí Poslanecké sněmovny, Senátu a jejich orgánů, pokud jsou projednávány zprávy/stanoviska Rady. Také zde má právo **kdykoli získat slovo**.
 
 > **V praxi:** Předsedkyně NRR Eva Zamrazilová pravidelně vystupuje v Rozpočtovém výboru Poslanecké sněmovny při projednávání státního rozpočtu, zprávy o dlouhodobé udržitelnosti, atp.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Na jednání vlády se projednává materiál s významným fiskálním dopadem. Předseda NRR požádá o slovo, ale předsedající mu je neudělí s tím, že „NRR není členem vlády". Obdobně na schůzi Rozpočtového výboru PS při projednávání zprávy NRR o udržitelnosti není předsedovi NRR umožněno vystoupit. Důkazy: program a zápis jednání vlády a výboru, žádost předsedy NRR o slovo, audiozáznam.
+
+**2. Právní otázka.** Má předseda NRR právo zúčastnit se schůzí vlády a jednání PS/Senátu (jsou-li projednávány zprávy/stanoviska NRR) a musí mu být na jeho žádost uděleno slovo (odst. 3 a 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 (tříčlenná Rada: předseda + 2), odst. 2 (předseda jedná navenek), odst. 3 (účast na schůzi vlády a jednání Výboru s hlasem poradním; „požádá-li o slovo, musí mu být uděleno"), odst. 4 (účast na schůzích PS, Senátu a jejich orgánů při projednávání zpráv/stanovisek NRR; právo na slovo).
+- *Související ustanovení téhož zákona:* § 21 (působnost a zprávy NRR), § 31 odst. 2 (usnášeníschopnost a hlasování), § 23 odst. 2 (nezávislost).
+- *Související předpisy:* zákon č. 90/1995 Sb., o jednacím řádu PS; zákon č. 107/1999 Sb., o jednacím řádu Senátu; § 5 zákona č. 6/1993 Sb. (obdobné oprávnění guvernéra ČNB účastnit se schůze vlády).
+- *Judikatura:* k „právu na slovo" formulovanému imperativně — výklad, že obrat „musí mu být uděleno" zakládá nárok, nikoli diskreci předsedajícího.
+
+**4. Subsumpce.** Odst. 3 zakládá předsedovi NRR *právo* účastnit se schůzí vlády (a jednání Výboru) s hlasem poradním a *nárok* na slovo („musí mu být uděleno"). Odst. 4 totéž pro schůze PS/Senátu, *jsou-li* projednávány zprávy/stanoviska NRR — což je splněno (zpráva o udržitelnosti). Neudělení slova v obou případech porušuje imperativní normu; argument „není členem vlády" je lichý (hlas je poradní, nikoli hlasovací).
+
+**5. Řešení.** Předsedovi NRR muselo být v obou situacích uděleno slovo. Neudělení je procesní vadou jednání (vlády i výboru) odporující § 24 odst. 3 a 4. Pravděpodobný výsledek: náprava = umožnění vystoupení; opakované porušování oslabuje legitimitu projednávaného aktu a může být politicky napadáno. Procesně: nárok je vynutitelný cestou jednacích řádů a politické kontroly, nikoli soudně.
+
+**6. Varianty.** (a) Neprojednává-li PS/Senát zprávu či stanovisko NRR, právo dle odst. 4 nevzniká (chybí podmínka „jsou-li projednávány"). (b) Na schůzi vlády je právo dle odst. 3 *bezpodmínečné* (není vázáno na téma) — předseda NRR má hlas poradní vždy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „NRR do vlády nepatří".* Předsedající odmítá slovo. Neutralizace: odst. 3 výslovně přiznává předsedovi NRR účast s hlasem poradním a nárok na slovo; nejde o hlasovací právo, tedy o zásah do rozhodování vlády.
+- *Protiargument o diskreci předsedajícího.* Namítne se řízení schůze. Neutralizace: formulace „musí mu být uděleno" je imperativní; diskrece předsedajícího je vyloučena.
+- *Slabé místo:* tříčlennost Rady (odst. 1) činí orgán zranitelným — při absenci/rozkolu (1:1) nelze rozhodnout; to však nesouvisí s právem na slovo, nýbrž s § 31.
+
+#### H. Praktický závěr
+
+§ 24 zřizuje tříčlennou Radu reprezentovanou navenek předsedou, jemuž přiznává silná účastnická práva: na schůzi vlády (vždy) a na jednání PS/Senátu (při projednávání zpráv/stanovisek NRR) má hlas poradní a *nárok* na slovo. Neudělení slova je porušením imperativní normy. Hlas je poradní, nikoli hlasovací.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožni předsedovi NRR účast na schůzi vlády s hlasem poradním (odst. 3).
+- [ ] Při projednávání zpráv/stanovisek NRR v PS/Senátu zajisti jeho účast a slovo (odst. 4).
+- [ ] Respektuj imperativ „musí mu být uděleno" (bez diskrece).
+- [ ] Odliš hlas poradní od hlasovacího práva.
+
+**Typicky rozhodné důkazy / podklady:** program a zápis jednání vlády/výboru, žádost předsedy NRR o slovo, audiozáznam, projednávaná zpráva/stanovisko NRR.
 
 ---
 
@@ -1329,6 +2256,42 @@ Klíčová **prokativní klauzule** — pokud Poslanecká sněmovna nehlasuje **
 
 > **V praxi:** Klauzule odst. 4 zatím nebyla nikdy plně aktivována — všechny dosavadní volby členů NRR proběhly v rámci 60denní lhůty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Funkce člena NRR navrženého ČNB skončí; ČNB však po dobu 7 měsíců nepodá návrh nového člena. Mezitím vláda předloží Poslanecké sněmovně návrh na nového předsedu NRR (na uvolněné místo předsedy), ale PS o návrhu po 70 dnů nehlasuje, ač byl zařazen na pořad. Důkazy: doklad o skončení funkce, absence návrhu ČNB, datum předložení návrhu vlády, program schůzí PS, hlasovací protokoly.
+
+**2. Právní otázka.** Kdo může navrhnout člena NRR, nepodá-li návrh oprávněný subjekt (odst. 3), a jaký je následek toho, že PS o návrhu nehlasuje ve lhůtě (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 (předsedu volí PS na návrh vlády), odst. 2 (2 členy volí PS na návrh Senátu a na návrh ČNB), odst. 3 (subsidiární návrh 1/5 poslanců po 6 měsících nečinnosti navrhovatele), odst. 4 (fikce souhlasu, nehlasuje-li PS do 60 dnů).
+- *Související ustanovení téhož zákona:* § 24 (složení), § 26 (předpoklady), § 28 (funkční období, lhůty nominace), § 29 (slib).
+- *Související předpisy:* zákon č. 90/1995 Sb. (jednací řád PS — volební procedury); čl. 33 Ústavy (kvórum, většiny — subsidiárně).
+- *Judikatura:* k fikci souhlasu při nečinnosti komory — výklad, že zákon může výjimečně spojit mlčení s pozitivním účinkem, je-li tak výslovně stanoveno (zde odst. 4), aby se zabránilo obstrukci.
+
+**4. Subsumpce.** ČNB nepodala návrh déle než 6 měsíců → aktivuje se subsidiární právo *1/5 všech poslanců* (40) navrhnout člena (odst. 3). Návrh vlády na předsedu byl předložen, ale PS o něm do 60 dnů nehlasovala, ač jej měla na pořadu → nastupuje *fikce souhlasu* (odst. 4): platí, že PS s návrhem souhlasí, a kandidát je zvolen.
+
+**5. Řešení.** Uvolněné místo po ČNB lze obsadit i bez návrhu ČNB — návrh podá 1/5 poslanců (odst. 3), čímž se předejde paralýze. U předsedy se po marném uplynutí 60denní lhůty *bez hlasování* uplatní fikce souhlasu (odst. 4) — kandidát se ujme funkce slibem (§ 29). Procesně: tyto pojistky zajišťují obsazenost Rady i při obstrukci navrhovatele či komory.
+
+**6. Varianty.** (a) Hlasovala-li by PS o návrhu (byť záporně) ve lhůtě 60 dnů, fikce souhlasu by *nenastoupila* — fikce se uplatní jen při *nehlasování*. (b) Podá-li ČNB návrh do 6 měsíců, subsidiární právo poslanců nevznikne. (c) U první volby po účinnosti zákona platí *zkrácená* funkční období dle § 34 odst. 5 (předseda 6, Senát 4, ČNB 2 roky).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez návrhu ČNB nelze volit".* Namítne se výlučnost navrhovatele. Neutralizace: odst. 3 výslovně zakládá subsidiární návrhové právo 1/5 poslanců po 6 měsících — výlučnost ČNB je časově omezená.
+- *Protiargument o nepřípustnosti fikce souhlasu.* Namítne se, že mlčení = odmítnutí. Neutralizace: odst. 4 obrací obvyklou logiku výslovně, aby zabránil obstrukci většiny; jde o lex specialis.
+- *Slabé místo:* fikce souhlasu se uplatní jen při *nehlasování* z jediného důvodu nečinnosti PS; sporné může být, zda PS „nehlasovala" (např. byl-li bod opakovaně odročen) — rozhodné jsou hlasovací protokoly.
+
+#### H. Praktický závěr
+
+§ 25 zakotvuje třístranný výběr (vláda/Senát/ČNB navrhují, PS volí) s dvěma pojistkami proti paralýze: po 6 měsících nečinnosti navrhovatele může nominovat 1/5 poslanců (odst. 3) a po 60 dnech nehlasování PS platí fikce souhlasu (odst. 4). Fikce nastupuje *jen* při nehlasování, ne při zamítnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči správného navrhovatele (vláda/Senát/ČNB) dle obsazované funkce.
+- [ ] Po 6 měsících nečinnosti navrhovatele zvaž návrh 1/5 poslanců (odst. 3).
+- [ ] Hlídej 60denní lhůtu PS; při nehlasování aplikuj fikci souhlasu (odst. 4).
+- [ ] U první volby zohledni zkrácená období dle § 34 odst. 5.
+
+**Typicky rozhodné důkazy / podklady:** doklady o skončení funkce a o (ne)podání návrhu, datum předložení návrhu PS, program a hlasovací protokoly schůzí PS.
+
 ---
 
 ### § 26 — Předpoklady člena Rady
@@ -1368,6 +2331,43 @@ Bod 4 je **interpretačně otevřený** — „uznávaná osobnost" je kvalitati
 Maximálně **2× za sebou** (resp. „více než dvakrát"). Toto omezení brání **dlouhodobému zabetonování** jedné osoby v Radě a zajišťuje **obměnu** expertízy.
 
 > **Vazba na funkční období:** 6 let × 2 = 12 let maximální celková doba služby v Radě. To je delší než např. v ČNB (6 let × max 2 = 12 let) nebo NKÚ (9 let, max 2 = 18 let).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda navrhne na předsedu NRR osobu s bakalářským vzděláním v ekonomii a 12 lety praxe v bankovnictví, která byla v minulosti pravomocně odsouzena pro *nedbalostní* trestný čin (dopravní nehoda s ublížením na zdraví). Jiný navrhovaný kandidát má magisterský titul, 8 let praxe a je nespornou odbornou autoritou. Důkazy: diplomy, výpis z rejstříku trestů, doklady o délce a oboru praxe, odborné reference.
+
+**2. Právní otázka.** Splňují kandidáti kvalifikační předpoklady dle § 26 odst. 1 — zejména požadavek magisterského vzdělání (písm. c)), 10 let praxe v oboru (písm. d)) a bezúhonnosti omezené na *úmyslné* trestné činy (písm. b))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 1 písm. a) (plná svéprávnost), písm. b) (žádné odsouzení pro *úmyslný* TČ), písm. c) (magisterské VŠ vzdělání), písm. d) (uznávaná a zkušená osobnost v oboru financí/makroekonomie, praxe ≥ 10 let), odst. 2 (max. 2× zvolen).
+- *Související ustanovení téhož zákona:* § 25 (volba), § 27 (neslučitelnosti — odlišný okruh podmínek), § 30 odst. 1 písm. c), d) (zánik při omezení svéprávnosti / odsouzení pro úmyslný TČ).
+- *Související předpisy:* § 15 zákona č. 89/2012 Sb. (svéprávnost); zákon č. 269/1994 Sb. (Rejstřík trestů).
+- *Judikatura:* k taxativnosti kvalifikačních předpokladů — výklad, že kde zákon stanoví konkrétní kvalifikační znaky (stupeň vzdělání, délka praxe), nelze je výkladem snižovat ani nahrazovat; „uznávanost" je kvalitativní kritérium posuzované volitelem.
+
+**4. Subsumpce.** První kandidát: má *bakalářské* vzdělání → nesplňuje písm. c) (vyžaduje magisterský program); jeho 12 let praxe a odsouzení pro *nedbalostní* TČ jsou bez vady (písm. b) míří jen na úmyslné TČ), ale chybějící magisterský titul je *diskvalifikující*. Druhý kandidát: magisterský titul (písm. c) splněn), avšak jen 8 let praxe → nesplňuje písm. d) (≥ 10 let), byť je uznávanou osobností.
+
+**5. Řešení.** Ani jeden kandidát nesplňuje všechny předpoklady: prvnímu chybí magisterské vzdělání (písm. c)), druhému 10 let praxe (písm. d)). Kvalifikační znaky jsou taxativní a kumulativní; „uznávanost" je nenahrazuje. Pravděpodobný výsledek: oba návrhy jsou vadné; je třeba navrhnout kandidáta splňujícího *všechny* podmínky. Procesně: posouzení předpokladů náleží navrhovateli a PS při volbě; nesplnění brání platné volbě.
+
+**6. Varianty.** (a) Měl-li by první kandidát i magisterský titul, nedbalostní odsouzení by mu nebránilo (písm. b)) a 12 let praxe by postačovalo. (b) Byl-li by druhý kandidát již *dvakrát* zvolen, bránil by mu odst. 2 bez ohledu na kvalifikaci. (c) Omezení svéprávnosti (písm. a)) je překážkou, i kdyby ostatní podmínky byly splněny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „uznávanost nahradí formální kvalifikaci".* Navrhovatel zdůrazní reputaci. Neutralizace: písm. c) a d) stanoví *objektivní* znaky (magisterské vzdělání, 10 let praxe); uznávanost je *další* podmínka, nikoli náhrada chybějícího znaku.
+- *Protiargument o bezúhonnosti.* Záměna úmyslného a nedbalostního TČ. Neutralizace: písm. b) se vztahuje *jen* na úmyslné TČ; nedbalostní odsouzení překážkou není.
+- *Slabé místo:* „uznávaná a zkušená osobnost" je neurčitý pojem (písm. d)); jeho posouzení je v rukou volitele a může být politické — proto je vhodné doložit odborné reference.
+
+#### H. Praktický závěr
+
+Členem NRR může být jen osoba plně svéprávná, bez odsouzení pro *úmyslný* TČ, s *magisterským* vzděláním a *uznávaná, zkušená* odbornost s ≥ 10 lety praxe v oboru financí/makroekonomie; nelze ji zvolit více než dvakrát. Znaky jsou kumulativní a objektivní; reputace nenahrazuje chybějící vzdělání či praxi. Pozor na rozdíl úmyslný/nedbalostní TČ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř plnou svéprávnost (písm. a)).
+- [ ] Zkontroluj absenci odsouzení pro *úmyslný* TČ (písm. b)).
+- [ ] Doložení magisterského vzdělání (písm. c)).
+- [ ] Doložení ≥ 10 let praxe v oboru a uznávanosti (písm. d)).
+- [ ] Ověř, že kandidát nebyl zvolen již dvakrát (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** vysokoškolské diplomy, výpis z Rejstříku trestů, doklady o oboru a délce praxe, odborné reference a publikace.
 
 ---
 
@@ -1448,6 +2448,43 @@ Toto **cooling-off period** brání **fluktuaci** mezi politickými/regulatorní
 
 Odkaz na **zákon č. 451/1991 Sb., lustrační zákon** — žadatel nesmí být v evidencích StB jako agent, rezident, držitel propůjčeného bytu, informátor nebo důvěrník. Toto je standardní požadavek pro vrcholné veřejné funkce v ČR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stávající člen NRR přijme členství v dozorčí radě podnikající akciové společnosti a současně začne soustavně publikovat placené analýzy pro investiční fond (výdělečná činnost). Jiný kandidát na člena NRR byl do předchozího roku členem vlády (skončil před 2 lety). Důkazy: výpis z obchodního rejstříku (dozorčí rada), smlouva s investičním fondem, doklad o době výkonu funkce člena vlády, lustrační osvědčení.
+
+**2. Právní otázka.** Je členství v dozorčí radě podnikající PO a placená analytická činnost neslučitelné s funkcí člena NRR (odst. 1), a brání zvolení kandidáta to, že před 2 lety byl členem vlády (odst. 2 — cooling-off)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 písm. b) (členství v řídících/dozorčích/kontrolních orgánech podnikající PO), písm. l) (výdělečná činnost s výjimkou vědecké, literární, publicistické, umělecké, pedagogické a správy vlastního majetku), písm. m) (catch-all střet zájmů), odst. 2 (lustrační předpoklady + cooling-off 3 roky pro prezidenta, člena vlády, člena bankovní rady ČNB, poslance/senátora).
+- *Související ustanovení téhož zákona:* § 26 (předpoklady), § 30 odst. 2 (obligatorní odvolání PS při zahájení neslučitelné činnosti), § 23 odst. 2 (nezávislost).
+- *Související předpisy:* zákon č. 451/1991 Sb. (lustrační zákon); zákon č. 159/2006 Sb. (střet zájmů — principově); zákon č. 90/2012 Sb. (orgány obchodních korporací).
+- *Judikatura:* k povaze inkompatibilit jako trvajícího kvalifikačního požadavku — výklad, že vznik neslučitelnosti za trvání funkce zakládá důvod pro odvolání; výjimky z výdělečné činnosti se vykládají restriktivně.
+
+**4. Subsumpce.** Členství v dozorčí radě podnikající a. s. je *neslučitelné* dle písm. b). Placené analýzy pro investiční fond jsou *výdělečnou činností* (písm. l)); nejde o vědeckou/publicistickou výjimku v užším smyslu, neboť jsou poskytovány za úplatu komerčnímu subjektu a mohou zakládat střet zájmů (písm. m)). U kandidáta: členem vlády byl před 2 lety → *nesplňuje* cooling-off 3 roky (odst. 2) a nemůže být zvolen.
+
+**5. Řešení.** Stávající člen vykonává neslučitelné funkce (dozorčí rada + výdělečná analytická činnost) → PS jej *musí* odvolat (§ 30 odst. 2), nezjedná-li nápravu (vzdání se těchto aktivit). Kandidát, který byl členem vlády před 2 lety, nemůže být zvolen dříve než po uplynutí 3 let (odst. 2). Procesně: u stávajícího člena výzva k nápravě a při jejím nesplnění odvolání; u kandidáta odložení volby do uplynutí cooling-off.
+
+**6. Varianty.** (a) Jde-li u člena o *neplacenou* publicistiku či pedagogiku, výjimka písm. l) ji připouští. (b) Skončil-li by kandidát ve vládě před více než 3 lety, cooling-off by nebránil. (c) Členství v dozorčí radě *nepodnikající* PO (např. nadace nevyvíjející podnikání) nemusí spadat pod písm. b) — rozhodné je „podnikající".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „analýzy jsou publicistika".* Člen tvrdí výjimku písm. l). Neutralizace: placené analýzy pro konkrétní komerční subjekt nejsou veřejnou publicistikou; jde o výdělečnou činnost s rizikem střetu zájmů (písm. m)). Výjimky se vykládají restriktivně.
+- *Protiargument o restriktivitě cooling-off.* Namítne se tvrdost 3leté lhůty. Neutralizace: cooling-off chrání NRR před přímou politizací; jde o objektivní a nediskreční překážku.
+- *Slabé místo:* hranice mezi „správou vlastního majetku" (dovoleno) a „výdělečnou činností" (zakázáno), resp. mezi nepodnikající a podnikající PO, může být sporná — rozhodný je faktický obsah činnosti.
+
+#### H. Praktický závěr
+
+§ 27 stanoví rozsáhlý katalog inkompatibilit (politické, soudní, finanční funkce, podnikatelské vazby, výdělečná činnost mimo úzké výjimky) a 3letý cooling-off pro bývalé vrcholné politiky a centrální bankéře. Vznik neslučitelnosti za trvání funkce vede k *obligatornímu* odvolání (§ 30 odst. 2). Výjimky z výdělečné činnosti vykládejte restriktivně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Projdi katalog inkompatibilit odst. 1 (a–m) vůči činnostem kandidáta/člena.
+- [ ] U výdělečné činnosti ověř, zda spadá do úzkých výjimek písm. l).
+- [ ] Posuď catch-all střet zájmů (písm. m)).
+- [ ] Ověř cooling-off 3 roky (odst. 2) a lustrační předpoklady.
+- [ ] Při vzniku neslučitelnosti za funkce iniciuj nápravu / odvolání (§ 30 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** výpisy z obchodního rejstříku, smlouvy o výdělečné činnosti, doklady o době výkonu vrcholných funkcí, lustrační osvědčení.
+
 ---
 
 ### § 28 — Funkční období
@@ -1484,6 +2521,42 @@ Maximální „bezvládí" v Radě: **90 dnů** od zániku funkce do zvolení no
 
 Po skončení funkčního období člen Rady **vykonává funkci dále** až do složení slibu nového člena. Toto je důležitá pojistka **kontinuity** — Rada nikdy nesmí být **podpočetná** (méně než 3 členové). Bez této pojistky by mohlo dojít k tomu, že po skončení období by Rada měla 2 členy a nebyla by usnášeníschopná.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Funkční období člena NRR má skončit 30. 6. Nový člen není zvolen včas — k volbě dojde až za 100 dnů po skončení (10. 10.), přičemž oprávněný subjekt podal návrh pozdě. Mezitím dosavadní člen tvrdí, že jeho funkce skončila 30. 6. a od té doby se zasedání NRR neúčastní; NRR tak fakticky funguje jen ve dvou. Důkazy: datum skončení období, datum nominace a volby, prezenční listiny NRR, datum složení slibu nového člena.
+
+**2. Právní otázka.** Vykonává dosavadní člen NRR funkci i po uplynutí svého období až do nástupu nástupce (odst. 3), a jaké jsou lhůty pro nominaci a maximální „bezvládí" (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 1 (6leté období), odst. 2 (počátek; nominace nejpozději 2 měsíce před řádným uplynutím; jinak „bezvládí" ≤ 90 dnů), odst. 3 (dosavadní člen vykonává funkci do složení slibu nástupce).
+- *Související ustanovení téhož zákona:* § 25 (volba), § 29 (slib jako počátek výkonu), § 31 odst. 2 (usnášeníschopnost — 2 ze 3), § 24 odst. 1 (tříčlennost).
+- *Související předpisy:* analogie k prolongaci funkce u jiných nezávislých orgánů (např. setrvání ústavních funkcionářů do nástupu nástupce); zákon č. 6/1993 Sb. (ČNB — 6leté období).
+- *Judikatura:* k „úřadování do nástupu nástupce" — výklad, že prolongační klauzule zajišťuje kontinuitu a usnášeníschopnost orgánu; dosavadní nositel funkce vykonává plnou působnost až do slibu nástupce.
+
+**4. Subsumpce.** Odst. 3 výslovně stanoví, že člen, jehož období skončilo, *vykonává funkci do dne složení slibu* nově zvoleného člena. Tvrzení dosavadního člena, že jeho funkce skončila 30. 6. a dále nepůsobí, je proto *mylné* — má povinnost úřadovat dál (do 10. 10., resp. do slibu nástupce). „Bezvládí" mělo být ≤ 90 dnů (odst. 2); 100 dnů svědčí o pozdní nominaci, ale díky prolongaci (odst. 3) Rada nezůstala podpočetná.
+
+**5. Řešení.** Dosavadní člen byl povinen funkci vykonávat až do složení slibu nástupce; jeho neúčast je porušením povinnosti, nikoli automatickým zánikem funkce. Rada tedy byla po celou dobu usnášeníschopná „na papíře" třemi členy. Pravděpodobný výsledek: zápisy NRR přijaté v mezidobí jsou platné, byl-li přítomen potřebný počet; dosavadní člen měl být k účasti veden. Procesně: pozdní nominace je pochybením navrhovatele (řešitelné i subsidiárním návrhem 1/5 poslanců dle § 25 odst. 3).
+
+**6. Varianty.** (a) Byla-li nominace podána včas (2 měsíce předem) a volba proběhla plynule, k „bezvládí" vůbec nedojde — nástup navazuje na skončení (odst. 2). (b) Je-li funkce *neobsazena* (např. po náhlém zániku), nový člen začíná dnem zvolení (odst. 2), nikoli dnem po skončení. (c) Při první volbě po účinnosti zákona platí zkrácená období dle § 34 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „po 30. 6. už nejsem členem".* Dosavadní člen odmítá úřadovat. Neutralizace: odst. 3 prolonguje výkon funkce do slibu nástupce; bez toho by Rada ztratila usnášeníschopnost — což zákon vylučuje.
+- *Protiargument o neplatnosti aktů v mezidobí.* Namítne se, že akty po 30. 6. jsou vadné. Neutralizace: díky prolongaci je orgán plně funkční; akty jsou platné, byl-li dodržen § 31 odst. 2.
+- *Slabé místo:* 90denní limit „bezvládí" (odst. 2) je pořádkový; jeho překročení nezpůsobuje neplatnost, ale signalizuje selhání nominace — řešením je § 25 odst. 3.
+
+#### H. Praktický závěr
+
+§ 28 stanoví 6leté období člena NRR a klíčovou prolongační klauzuli: dosavadní člen úřaduje až do složení slibu nástupce (odst. 3), takže Rada nikdy nesmí klesnout pod 3 členy. Nominace má proběhnout 2 měsíce předem, „bezvládí" nejvýše 90 dnů. Při pozdní nominaci pomáhá subsidiární návrh 1/5 poslanců (§ 25 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajisti nominaci nástupce nejpozději 2 měsíce před uplynutím období (odst. 2).
+- [ ] Veď dosavadního člena k výkonu funkce až do slibu nástupce (odst. 3).
+- [ ] Hlídej limit „bezvládí" ≤ 90 dnů; jinak zvaž § 25 odst. 3.
+- [ ] Rozliš počátek funkce u neobsazené vs. obsazené funkce (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** doklady o začátku/konci období, datum nominace a volby, prezenční listiny a zápisy NRR, datum složení slibu nástupce.
+
 ---
 
 ### § 29 — Slib člena Rady
@@ -1515,6 +2588,42 @@ Není zde žádný odkaz na věrnost vládě, prezidentovi nebo jiné politické
 Pokud člen Rady **odmítne** složit slib nebo ho složí **s výhradou** („slibuji, ale s tou výjimkou, že…"), hledí se na něj, **jako by nebyl zvolen**. To znamená, že volba je **zpětně neúčinná** a musí proběhnout nová.
 
 > **Praktický význam:** Tato klauzule chrání **integritu slibu** — žádné podmíněné nebo částečné zavazování. Buď plný slib, nebo nic.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nově zvolený člen NRR při aktu skládání slibu do rukou předsedy Poslanecké sněmovny pronese stanovený text, ale dodá: „…s výhradou, že stanoviska k důchodové reformě budu vázat na pokyn své politické strany." Slib navíc skládá *téhož dne*, kdy ještě probíhá funkce jeho předchůdce (funkce dosud nezanikla). Důkazy: zápis o složení slibu, audiozáznam, datum zániku funkce předchůdce.
+
+**2. Právní otázka.** Jaké jsou účinky slibu složeného *s výhradou* (odst. 3) a lze slib platně složit dříve, než zanikla funkce dosavadního člena (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 (ujetí se funkce složením slibu do rukou předsedy PS, ne dříve než den po zániku funkce předchůdce), odst. 2 (text slibu — nezávislost, nestrannost, soulad s právním řádem), odst. 3 (odmítnutí slibu nebo slib s výhradou → hledí se, jako by nebyl zvolen).
+- *Související ustanovení téhož zákona:* § 23 odst. 2 (zákaz pokynů), § 25 (volba), § 28 odst. 2 a 3 (počátek funkce, prolongace předchůdce).
+- *Související předpisy:* analogie ke skládání slibu ústavních činitelů (čl. 55, 63 Ústavy — slib jako podmínka ujetí se funkce); zákon č. 90/1995 Sb. (jednací řád PS).
+- *Judikatura:* k slibu jako konstitutivnímu aktu a k účinkům výhrady — výklad, že slib s výhradou nebo odmítnutý je neúčinný a osoba se funkce neujme; ujetí se funkce je vázáno na bezvýhradný slib.
+
+**4. Subsumpce.** Slib byl složen *s výhradou* (vázanost na pokyn strany), navíc obsahově popírající nezávislost dle odst. 2 a § 23 odst. 2. Dle odst. 3 se proto na osobu hledí, *jako by nebyla zvolena* — funkce nevznikla. Současně byl slib složen *téhož dne*, kdy ještě běžela funkce předchůdce; odst. 1 to *vylučuje* (ne dříve než den po zániku funkce předchůdce) — i z tohoto důvodu je akt vadný.
+
+**5. Řešení.** Slib je neúčinný hned dvojnásob: pro výhradu (odst. 3) a pro předčasnost (odst. 1). Osoba se funkce neujala; je třeba provést novou volbu, případně zopakovat řádné složení slibu (bezvýhradně a nejdříve den po zániku funkce předchůdce). Pravděpodobný výsledek: místo zůstává neobsazeno, dokud nedojde k platnému slibu. Procesně: předseda PS slib s výhradou nepřijme jako platný; kontinuitu zajišťuje prolongace předchůdce (§ 28 odst. 3).
+
+**6. Varianty.** (a) Složí-li osoba slib *bezvýhradně* a den po zániku funkce předchůdce, ujme se funkce řádně. (b) Pouhé *odmítnutí* slibu má stejný účinek jako výhrada (odst. 3) — hledí se, jako by nebyl zvolen. (c) Drobná odchylka v přednesu bez věcné výhrady (přeřeknutí) by sama o sobě neúčinnost nezpůsobila — rozhodný je obsah výhrady.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výhrada je jen politický postoj".* Namítne se neškodnost dodatku. Neutralizace: jakákoli *výhrada* ke slibu vyvolává následek odst. 3; navíc dodatek věcně popírá nezávislost (§ 23 odst. 2), tedy jádro funkce.
+- *Protiargument o platnosti předčasného slibu.* Namítne se urychlení nástupu. Neutralizace: odst. 1 výslovně zapovídá slib dříve než den po zániku funkce předchůdce; předčasný slib je neúčinný.
+- *Slabé místo:* hranice mezi „výhradou" a pouhým komentářem může být sporná; rozhodný je audiozáznam/zápis a to, zda dodatek podmiňuje výkon funkce.
+
+#### H. Praktický závěr
+
+§ 29 činí ze slibu konstitutivní akt: jen bezvýhradný slib složený do rukou předsedy PS (a nejdříve den po zániku funkce předchůdce) zakládá výkon funkce. Slib s výhradou nebo odmítnutý znamená, že se na osobu hledí, jako by nebyla zvolena. Text slibu zdůrazňuje nezávislost a nestrannost — výhrada k nim je vyloučena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř bezvýhradnost slibu (odst. 3) — žádné podmínky či výhrady.
+- [ ] Zkontroluj časovou podmínku (ne dříve než den po zániku funkce předchůdce, odst. 1).
+- [ ] Ověř shodu přednesu s textem odst. 2 (nezávislost, nestrannost).
+- [ ] Při výhradě/odmítnutí iniciuj novou volbu; kontinuitu kryje § 28 odst. 3.
+
+**Typicky rozhodné důkazy / podklady:** zápis a audiozáznam o složení slibu, datum zániku funkce předchůdce, text slibu dle odst. 2.
 
 ---
 
@@ -1562,6 +2671,43 @@ Praktický význam: pokud se např. člen Rady stane senátorem nebo se zapojí 
 
 PS **může** (nikoli musí) odvolat člena Rady, který nevykonává funkci **více než 6 měsíců**. Toto je diskreční rozhodnutí — PS posoudí, zda nečinnost byla odůvodněná (zdravotní stav, vyšší moc) nebo nikoli.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen NRR je zvolen do Senátu (politická funkce neslučitelná dle § 27 odst. 1 písm. c)) a začne ji vykonávat, aniž by se vzdal členství v NRR. Jiný člen se po dobu 7 měsíců neúčastní žádného zasedání NRR a nereaguje na výzvy (dlouhodobá nečinnost). Třetí člen doručí předsedovi PS písemné vzdání se funkce s tím, že má nastat za měsíc. Důkazy: osvědčení o zvolení senátorem, prezenční listiny a výzvy k účasti, písemné vzdání se funkce s uvedeným pozdějším dnem.
+
+**2. Právní otázka.** Musí PS odvolat člena, který začal vykonávat neslučitelnou funkci (odst. 2), může (ale nemusí) odvolat člena pro nečinnost > 6 měsíců (odst. 3), a kdy zaniká funkce při vzdání se s pozdějším datem (odst. 1 písm. b))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 písm. a)–e) (zánik: uplynutí období, vzdání se, omezení svéprávnosti, odsouzení pro úmyslný TČ, smrt/prohlášení), odst. 2 (*obligatorní* odvolání PS při neslučitelnosti dle § 27 odst. 1), odst. 3 (*fakultativní* odvolání pro nečinnost > 6 měsíců).
+- *Související ustanovení téhož zákona:* § 27 odst. 1 (neslučitelnosti), § 26 (předpoklady), § 28 odst. 3 (prolongace), § 25 (volba nástupce).
+- *Související předpisy:* zákon č. 90/1995 Sb. (jednací řád PS — odvolací procedura); čl. 25 Ústavy (zánik mandátu senátora — analogie ke vzniku neslučitelnosti).
+- *Judikatura:* k rozdílu mezi obligatorním a fakultativním odvoláním — výklad, že slovo „odvolá" zakládá povinnost, „může odvolat" diskreci; vznik neslučitelnosti je objektivní skutečnost vyžadující odvolání.
+
+**4. Subsumpce.** První člen *začal vykonávat* neslučitelnou funkci senátora (§ 27 odst. 1 písm. c)) → PS jej *musí* odvolat (odst. 2 — imperativ „odvolá"). Druhý člen je nečinný > 6 měsíců → PS *může* (diskrečně) posoudit, zda nečinnost odůvodněná, a odvolat (odst. 3). Třetí člen se vzdal funkce s pozdějším dnem → funkce zaniká *tímto pozdějším dnem* uvedeným ve vzdání (odst. 1 písm. b)).
+
+**5. Řešení.** U prvního člena PS provede *obligatorní* odvolání (nejde o uvážení); u druhého *zváží* odvolání podle důvodnosti nečinnosti (zdraví, vyšší moc vs. bezdůvodná pasivita); u třetího funkce zanikne ke dni uvedenému ve vzdání (resp. den po doručení, není-li pozdější den uveden). Pravděpodobný výsledek: uvolněná místa se obsadí volbou (§ 25); kontinuitu kryje § 28 odst. 3. Procesně: u odst. 2 není prostor pro nečinnost PS — odvolání je povinné.
+
+**6. Varianty.** (a) Vzdá-li se člen funkce *bez* uvedení pozdějšího dne, funkce zaniká dnem následujícím po doručení (odst. 1 písm. b)). (b) Byl-li by odsouzen pro *nedbalostní* (nikoli úmyslný) TČ, funkce *nezaniká* (odst. 1 písm. d) míří jen na úmyslný TČ). (c) Je-li nečinnost kratší než 6 měsíců, odst. 3 se neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odvolání je vždy na uvážení PS".* Namítne se diskrece i u neslučitelnosti. Neutralizace: odst. 2 používá imperativ „odvolá" — jde o povinnost; diskrece (odst. 3) se týká jen nečinnosti.
+- *Protiargument o automatickém zániku při neslučitelnosti.* Někdo dovodí zánik ex lege. Neutralizace: u neslučitelnosti zákon volí *odvolání PS* (konstitutivní akt), nikoli automatický zánik dle odst. 1; do odvolání člen formálně trvá (ač má povinnost se funkce vzdát).
+- *Slabé místo:* posouzení „nevykonávání funkce > 6 měsíců" (odst. 3) je skutkově sporné (omluvená absence, nemoc) — rozhodné jsou prezenční listiny a důvody.
+
+#### H. Praktický závěr
+
+§ 30 rozlišuje automatický zánik funkce (odst. 1: uplynutí období, vzdání se, omezení svéprávnosti, odsouzení pro úmyslný TČ, smrt), *obligatorní* odvolání PS při vzniku neslučitelnosti (odst. 2) a *fakultativní* odvolání pro nečinnost > 6 měsíců (odst. 3). U vzdání se rozhoduje den uvedený ve sdělení. Neslučitelnost vyžaduje aktivní odvolání, nezaniká sama.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikuj důvod zániku/odvolání a jeho režim (automatický / obligatorní / fakultativní).
+- [ ] Při vzniku neslučitelnosti (§ 27 odst. 1) iniciuj *povinné* odvolání PS (odst. 2).
+- [ ] U nečinnosti > 6 měsíců posuď důvodnost před odvoláním (odst. 3).
+- [ ] U vzdání se urči den zániku (uvedený pozdější den / den po doručení).
+- [ ] Rozliš úmyslný a nedbalostní TČ (odst. 1 písm. d)).
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o zvolení do neslučitelné funkce, prezenční listiny a výzvy k účasti, písemné vzdání se funkce, pravomocný rozsudek (svéprávnost/úmyslný TČ).
+
 ---
 
 ### § 31 — Jednání Rady
@@ -1591,6 +2737,42 @@ Kvórum: **většina členů** (z 3 = 2). Rozhodnutí: **většina hlasů přít
 #### Sídlo (odst. 4) — Praha
 
 Sídlo NRR je v Praze — fyzicky **ulice Holečkova 31, Praha 5** (aktuální sídlo, dříve různé adresy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jeden ze tří členů NRR je dlouhodobě nemocen a neúčastní se zasedání. Zbývající dva členové se při hlasování o stanovisku k nápravné složce (§ 11) názorově rozcházejí (1:1). Předseda navíc po dobu dvou měsíců nesvolá ani jedno zasedání, ačkoli jiný člen písemně požádal o svolání mimořádného zasedání. Důkazy: prezenční listiny, žádost o svolání mimořádného zasedání, zápisy z (ne)konaných zasedání, hlasovací záznamy.
+
+**2. Právní otázka.** Je NRR usnášeníschopná a může přijmout rozhodnutí při účasti dvou členů s rozdílným hlasováním (odst. 2), a je předseda povinen svolat mimořádné zasedání na žádost člena (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 (zasedání ≥ 2× měsíčně; svolání předsedou; *bezodkladné* svolání mimořádného zasedání na písemnou žádost člena), odst. 2 (usnášeníschopnost při většině členů; rozhodnutí většinou hlasů členů Rady), odst. 3 (jednací řád), odst. 4 (sídlo Praha).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (tříčlennost), § 28 odst. 3 (prolongace — proti podpočetnosti), § 23 odst. 5 (jednací řád), § 21 (stanoviska a zprávy).
+- *Související předpisy:* obecné principy kolektivního rozhodování orgánů; analogie k usnášení bankovní rady ČNB (zákon č. 6/1993 Sb.).
+- *Judikatura:* k výkladu „většiny hlasů členů Rady" — výklad, že vyžaduje-li zákon většinu *všech členů* (nikoli přítomných), nestačí při 3 členech jeden hlas; při rovnosti hlasů rozhodnutí nevzniká.
+
+**4. Subsumpce.** Usnášeníschopnost: přítomni 2 ze 3 = většina členů → Rada *je* usnášeníschopná (odst. 2 věta první). Rozhodnutí se však přijímá *většinou hlasů členů Rady*; při poměru 1:1 (dva přítomní hlasují opačně) potřebné většiny *není dosaženo* → rozhodnutí *nevznikne*. Svolání: předseda byl na písemnou žádost člena povinen *bezodkladně* svolat mimořádné zasedání (odst. 1) — dvouměsíční nečinnost je porušením.
+
+**5. Řešení.** NRR je sice usnášeníschopná dvěma členy, ale při rozkolu 1:1 stanovisko nepřijme — to je strukturální slabina tříčlenného orgánu. Řešením je účast třetího člena (po uzdravení) nebo, při dlouhodobé nečinnosti člena, postup dle § 30 odst. 3. Předseda měl mimořádné zasedání bezodkladně svolat; jeho opomenutí je porušením odst. 1 (svolat může i jiný člen, není-li předseda zvolen). Procesně: do přijetí stanoviska věc (např. dle § 11) nemá výstup NRR; je vhodné urychlit obnovení plné účasti.
+
+**6. Varianty.** (a) Hlasují-li dva přítomní *shodně* (2:0), rozhodnutí vznikne (většina členů Rady). (b) Jsou-li přítomni všichni tři a poměr je 2:1, rozhodnutí vznikne. (c) Není-li předseda zvolen, zasedání svolává jiný člen (odst. 1) — orgán není ochromen absencí předsedy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí většina přítomných".* Namítne se, že 1 z 2 přítomných postačí. Neutralizace: odst. 2 vyžaduje většinu *hlasů členů Rady* (tj. alespoň 2 ze 3), nikoli většinu přítomných; jeden hlas nestačí.
+- *Protiargument o diskreci předsedy při svolávání.* Předseda tvrdí volnost. Neutralizace: na *písemnou žádost* člena je svolání *bezodkladné* a obligatorní (odst. 1).
+- *Slabé místo:* tříčlennost činí orgán zranitelným vůči absenci/rozkolu (1:1); zákon to neřeší rozhodujícím hlasem předsedy — řešením je jen plná účast nebo personální náprava (§ 30).
+
+#### H. Praktický závěr
+
+§ 31 vyžaduje zasedání NRR alespoň 2× měsíčně a *bezodkladné* svolání mimořádného zasedání na žádost člena. Rada je usnášeníschopná při většině členů (2 ze 3), rozhodnutí však vzniká jen většinou hlasů *členů Rady* — při rozkolu 1:1 stanovisko nevznikne. Sídlem je Praha. Strukturální slabinou je tříčlennost; řeší ji plná účast či § 30.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř usnášeníschopnost (přítomnost ≥ 2 ze 3 členů).
+- [ ] Pro přijetí rozhodnutí zajisti většinu hlasů *členů Rady* (ne jen přítomných).
+- [ ] Na písemnou žádost člena svolej mimořádné zasedání *bezodkladně* (odst. 1).
+- [ ] Při dlouhodobé absenci/rozkolu zvaž postup dle § 30 odst. 3.
+
+**Typicky rozhodné důkazy / podklady:** prezenční listiny a hlasovací záznamy, žádost o svolání mimořádného zasedání, zápisy ze zasedání, jednací řád NRR.
 
 ---
 
@@ -1626,6 +2808,42 @@ V pracovněprávních vztazích jedná **vedoucí Úřadu Rady** jménem státu 
 #### Jmenování vedoucího (odst. 3)
 
 Vedoucího Úřadu Rady **jmenuje a odvolává Rada** (kolektivně). Vedoucí je **podřízen předsedovi Rady** — kombinace kolektivního jmenování a individuální podřízenosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec analytického oddělení Úřadu Rady podá žalobu o neplatnost výpovědi z pracovního poměru. Vzniká spor, kdo je v pracovněprávním vztahu zaměstnavatelem — Rada, Úřad Rady, nebo stát — a kdo za zaměstnavatele jedná. Současně předseda Rady jednostranně „odvolá" vedoucího Úřadu Rady bez projednání v Radě. Důkazy: pracovní smlouva, výpověď, vnitřní organizační předpis, rozhodnutí o odvolání vedoucího.
+
+**2. Právní otázka.** Kdo je nositelem práv a povinností v pracovněprávních vztazích Úřadu Rady (odst. 2) a kdo je oprávněn jmenovat a odvolat vedoucího Úřadu Rady (odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1 (zřízení Úřadu Rady; v čele vedoucí), odst. 2 (Úřad Rady je organizační složkou státu a účetní jednotkou; v pracovněprávních vztazích jedná jménem státu vedoucí Úřadu Rady), odst. 3 (vedoucího jmenuje a odvolává *Rada*; vedoucí je podřízen *předsedovi* Rady).
+- *Související ustanovení téhož zákona:* § 31 odst. 2 (kolektivní rozhodování Rady), § 33 (financování — samostatná kapitola), § 23 odst. 4 (rozpočet Úřadu Rady).
+- *Související předpisy:* § 3 odst. 1 a § 7 zákona č. 219/2000 Sb. (organizační složka státu — bez právní subjektivity, jedná za stát); zákon č. 262/2006 Sb. (zákoník práce); § 1 odst. 2 zákona č. 563/1991 Sb. (účetní jednotka).
+- *Judikatura:* k postavení organizační složky státu jako zaměstnavatele — výklad, že zaměstnavatelem je *stát*, za nějž jedná příslušná organizační složka (zde vedoucí Úřadu Rady); složka nemá vlastní právní osobnost.
+
+**4. Subsumpce.** Úřad Rady je organizační složkou státu (odst. 2) → zaměstnavatelem je *stát*, za něhož v pracovněprávních vztazích jedná *vedoucí Úřadu Rady*. Žaloba o neplatnost výpovědi tedy směřuje proti státu (jednajícímu vedoucím Úřadu), nikoli proti Radě. Odvolání vedoucího: jmenování a odvolání přísluší *Radě* (kolektivně, odst. 3), nikoli předsedovi samostatně → jednostranné „odvolání" předsedou je vadné.
+
+**5. Řešení.** V pracovněprávním sporu vystupuje jako zaměstnavatel stát (jednající vedoucím Úřadu Rady). „Odvolání" vedoucího jen předsedou je neúčinné — k odvolání je třeba rozhodnutí *Rady* (§ 31 odst. 2); předseda je sice nadřízeným vedoucího (odst. 3), ale personální akt náleží kolektivu. Procesně: odvolání vedoucího musí projednat a schválit Rada; pracovněprávní spor se vede proti státu.
+
+**6. Varianty.** (a) Rozhodne-li o odvolání vedoucího *Rada* usnesením (2 ze 3), je akt platný. (b) V běžném pracovněprávním úkonu vůči řadovému zaměstnanci jedná vedoucí Úřadu jménem státu (odst. 2) — souhlas Rady se nevyžaduje. (c) Účetně Úřad Rady jako samostatná účetní jednotka odpovídá za vlastní účetnictví (odst. 2; návaznost na § 33 odst. 4 — audit).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zaměstnavatelem je Rada".* Žalobce zacílí na Radu. Neutralizace: Úřad Rady je organizační složkou státu; zaměstnavatelem je stát, za nějž jedná vedoucí Úřadu (odst. 2). Rada není zaměstnavatelem.
+- *Protiargument o pravomoci předsedy odvolat vedoucího.* Předseda se opře o podřízenost vedoucího. Neutralizace: podřízenost (odst. 3 in fine) neznamená personální pravomoc; jmenování i odvolání náleží *Radě* kolektivně.
+- *Slabé místo:* dvojkolejnost „kolektivní jmenování + individuální podřízenost" může vést k napětí mezi Radou a předsedou ohledně řízení Úřadu — řešitelná jednacím řádem (§ 31 odst. 3).
+
+#### H. Praktický závěr
+
+§ 32 zřizuje Úřad Rady jako organizační složku státu a účetní jednotku: zaměstnavatelem zaměstnanců je *stát* (jedná za něj vedoucí Úřadu), nikoli Rada. Vedoucího Úřadu jmenuje a odvolává *Rada* kolektivně, byť je podřízen předsedovi. Personální akt vůči vedoucímu nelze učinit samotným předsedou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V pracovněprávních věcech označ za zaměstnavatele stát (jedná vedoucí Úřadu, odst. 2).
+- [ ] Jmenování/odvolání vedoucího Úřadu zajisti usnesením *Rady* (odst. 3, § 31 odst. 2).
+- [ ] Respektuj podřízenost vedoucího předsedovi (řízení), ne však jeho personální pravomoc.
+- [ ] Účetně veď Úřad Rady jako samostatnou účetní jednotku (návaznost na § 33).
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy a výpovědi, vnitřní organizační a jednací řád, usnesení Rady o (od)volání vedoucího, doklady o postavení Úřadu jako OSS.
 
 ---
 
@@ -1668,6 +2886,44 @@ Adresáti: MF + Rozpočtový výbor PS + zveřejnění na webu NRR.
 #### Audit (odst. 4)
 
 Účetní závěrka Úřadu Rady je **ověřována auditorem** (externím). Toto je další **transparentní mechanismus** — žádné rozpočtové triky uvnitř NRR.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo financí při sestavování návrhu státního rozpočtu jednostranně sníží požadavek rozpočtu kapitoly Národní rozpočtové rady o 30 % oproti návrhu, který Rada schválila a předložila, a Rozpočtovému výboru PS jej v původní podobě vůbec nepostoupí. Rada navíc nepředloží výroční zprávu a zprávu o plnění rozpočtu do 3 měsíců po konci roku a účetní závěrku nedá ověřit auditorem. Důkazy: návrh rozpočtu kapitoly NRR schválený Radou, návrh státního rozpočtu MF, doklady o (ne)předložení Rozpočtovému výboru, datum předložení výroční zprávy, zpráva auditora.
+
+**2. Právní otázka.** Smí MF jednostranně upravit a Rozpočtovému výboru PS nepostoupit návrh rozpočtu kapitoly NRR (odst. 1–2), a jaké jsou povinnosti Rady ohledně výroční zprávy a auditu (odst. 3–4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1 (samostatná kapitola státního rozpočtu), odst. 2 (Rada předkládá návrh rozpočtu a výhledu Úřadu Rady *MF i Rozpočtovému výboru PS*), odst. 3 (výroční zpráva a zpráva o plnění rozpočtu do 3 měsíců — MF i Rozpočtovému výboru PS; zveřejnění), odst. 4 (audit účetní závěrky Úřadu Rady).
+- *Související ustanovení téhož zákona:* § 23 odst. 4 (schvalování rozpočtu Úřadu Rady Radou), § 21 odst. 1 (nezávislost), § 32 (Úřad Rady — účetní jednotka).
+- *Související předpisy:* zákon č. 218/2000 Sb. (rozpočtová pravidla — sestavení návrhu státního rozpočtu, kapitoly); zákon č. 563/1991 Sb. (účetnictví, výroční zpráva, audit); zákon č. 90/1995 Sb. (jednací řád PS — Rozpočtový výbor).
+- *Judikatura:* k zárukám rozpočtové nezávislosti nezávislých orgánů — výklad, že samostatná kapitola a paralelní předložení parlamentu omezují možnost exekutivy ovlivňovat orgán „přes rozpočet"; finální rozhodnutí o výši kapitoly však náleží zákonodárci.
+
+**4. Subsumpce.** Odst. 2 ukládá Radě předložit návrh rozpočtu kapitoly *dvěma* adresátům — MF i Rozpočtovému výboru PS. Nepostoupení návrhu výboru maří *dvojí* kontrolu a oslabuje záruku odst. 1; MF sice návrh do státního rozpočtu zapracovává, ale paralelní předložení výboru má zabránit jednostranné redukci „v tichosti". Odst. 3 ukládá *do 3 měsíců* předložit a zveřejnit výroční zprávu a zprávu o plnění rozpočtu — nesplnění je porušením; odst. 4 vyžaduje *audit* — jeho absence je rovněž porušením.
+
+**5. Řešení.** MF může v návrhu státního rozpočtu navrhnout jinou výši kapitoly, *nesmí* však mařit paralelní předložení Radou Rozpočtovému výboru PS (odst. 2) — to je jádro rozpočtové samostatnosti; konečné rozhodnutí o výši kapitoly je na PS jako zákonodárci. Rada měla výroční zprávu a zprávu o plnění rozpočtu předložit a zveřejnit do 31. 3. (odst. 3) a zajistit audit závěrky (odst. 4). Procesně: náprava = postoupení návrhu výboru, dodatečné předložení a zveřejnění zpráv, doplnění auditu.
+
+**6. Varianty.** (a) Postoupí-li Rada návrh i výboru a PS přesto kapitolu sníží, jde o legitimní rozpočtové rozhodnutí zákonodárce. (b) Zveřejní-li Rada zprávy včas a doloží audit, povinnosti odst. 3 a 4 jsou splněny. (c) Spor o výši kapitoly se řeší v rozpočtovém procesu (PS), nikoli soudně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „o rozpočtu rozhoduje MF/vláda".* MF brání jednostrannou úpravu. Neutralizace: o výši kapitoly nakonec rozhoduje PS; § 33 odst. 2 garantuje Radě *přímý* kanál k Rozpočtovému výboru, který nelze obejít — to chrání nezávislost.
+- *Protiargument o formálnosti lhůt a auditu.* Namítne se bezvýznamnost. Neutralizace: lhůta 3 měsíců a audit jsou nástroje transparentnosti a kontroly; jejich nesplnění je porušením a oslabuje legitimitu hospodaření NRR.
+- *Slabé místo:* samostatná kapitola nezaručuje *výši* prostředků — PS ji může snížit; nezávislost je tak chráněna procesně (kanál k výboru), nikoli materiálně (garantovaný objem).
+
+#### H. Praktický závěr
+
+§ 33 zakotvuje rozpočtovou samostatnost NRR: vlastní kapitola státního rozpočtu, *dvojí* předložení návrhu (MF i Rozpočtovému výboru PS), výroční zpráva a zpráva o plnění rozpočtu do 3 měsíců (se zveřejněním) a *audit* účetní závěrky. MF nemůže obejít přímý kanál Rady k výboru; o výši kapitoly však rozhoduje PS. Lhůty a audit jsou závazné transparenční nástroje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajisti předložení návrhu rozpočtu kapitoly NRR *MF i Rozpočtovému výboru PS* (odst. 2).
+- [ ] Předlož a zveřejni výroční zprávu a zprávu o plnění rozpočtu do 3 měsíců (odst. 3).
+- [ ] Zajisti audit účetní závěrky Úřadu Rady (odst. 4).
+- [ ] Spor o výši kapitoly veď v rozpočtovém procesu PS, ne soudně.
+
+**Typicky rozhodné důkazy / podklady:** návrh rozpočtu kapitoly NRR schválený Radou, doklady o předložení MF i Rozpočtovému výboru PS, výroční zpráva a zpráva o plnění rozpočtu, zpráva auditora.
 
 ---
 
@@ -1730,6 +2986,42 @@ Historicky:
 - první člen navržený Senátem (J. Klusoň): 2018–2022, vyměněn na M. Vinšovou,
 - první člen navržený ČNB (M. Pícl): 2018–2020, vyměněn.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při výpočtu nápravné složky za rok 2018 (provedeném zpětně v roce 2019) MF *nezohlední* navýšení částky celkových výdajů o 0,5 % HDP, které samo pro rok 2018 uplatnilo dle § 34 odst. 2 písm. a). Tím nápravná složka uměle „pokutuje" stát za zákonem schválené vyšší výdaje. Současně právnická osoba zařazená do okruhu § 3 (dříve bez povinnosti sestavovat rozpočet) je vyzývána, aby srovnávací informace dle § 5 odst. 3 poskytla již za rok 2017. Důkazy: výpočet nápravné složky, doklad o navýšení dle § 34 odst. 2, data ČSÚ, výzva k poskytnutí srovnávacích informací.
+
+**2. Právní otázka.** Má se při zpětném výpočtu nápravné složky za roky 2018/2019 přičíst navýšení dle § 34 odst. 2 (odst. 3), od kdy se § 11 vůbec poprvé uplatní (odst. 4) a odkdy poskytují srovnávací informace dříve neexistující rozpočtové subjekty (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (srovnávací informace nových subjektů poprvé v roce 2019), odst. 2 (navýšení částky § 10 odst. 1 o 0,5 % pro 2018 a 0,25 % pro 2019), odst. 3 (zpětné přičtení těchto částek pro účely § 11), odst. 4 (§ 11 poprvé v roce 2019; výchozí nápravná složka = 0), odst. 5 (šachovnicová první volba: předseda 6, Senát 4, ČNB 2 roky).
+- *Související ustanovení téhož zákona:* § 10 odst. 1 (default koeficient), § 11 (nápravná složka), § 5 odst. 3 (srovnávací informace), § 25 a § 28 (volba a období členů NRR).
+- *Související předpisy:* nař. (EU) č. 549/2013 (ESA 2010 — data ČSÚ); zákon č. 218/2000 Sb. (státní rozpočet).
+- *Judikatura:* k povaze přechodných ustanovení — výklad, že přechodná norma má přednost před obecnou pro vymezené období a brání retroaktivnímu zatížení adresáta (zde zákazem „pokutovat" za zákonem dovolené vyšší výdaje).
+
+**4. Subsumpce.** Odst. 3 *výslovně* ukládá při zpětném výpočtu za rok 2018 (v roce 2019) navýšit vypočtené výdaje o částku dle odst. 2 písm. a) — opomenutí MF je proto nesprávné a uměle nadhodnocuje nápravnou složku. Odst. 4 stanoví, že § 11 se uplatní *poprvé v roce 2019* s výchozí složkou *nula* — dřívější aplikace je vyloučena. Odst. 1: srovnávací informace nové subjekty poskytují *poprvé v roce 2019* — výzva za rok 2017 je předčasná.
+
+**5. Řešení.** MF muselo do zpětného výpočtu nápravné složky promítnout navýšení dle § 34 odst. 3 (jinak by sankcionovalo stát za zákonem schválené výdaje); pro rok 2018 navíc § 11 ještě nedopadá (poprvé 2019, od nuly — odst. 4). Právnická osoba bez dřívější rozpočtové povinnosti poskytuje srovnávací data poprvé v roce 2019 (odst. 1), nikoli za 2017. Procesně: oprava výpočtu nápravné složky a stažení předčasné výzvy.
+
+**6. Varianty.** (a) Pro rok 2019 platí obdoba — navýšení 0,25 % (odst. 2 písm. b)) se zpětně přičítá v roce 2020 (odst. 3 písm. b)). (b) U první volby členů NRR (odst. 5) skončila kratší období dříve (ČNB 2 roky, Senát 4 roky), což nastartovalo rotaci po 2 letech — to vysvětluje časování výměn členů. (c) Mimo přechodné období (od 2020 dále) se uplatní plně § 10/§ 11 bez náběhových úprav.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nápravná složka má zachytit všechny výdaje".* MF tvrdí, že navýšení nelze odečítat. Neutralizace: odst. 3 výslovně ukládá zpětné *přičtení* navýšení do vypočtených výdajů, aby složka nepokutovala zákonem dovolené výdaje; jde o kogentní přechodné pravidlo.
+- *Protiargument o dřívější aplikaci § 11.* Namítne se aplikace již za 2017/2018. Neutralizace: odst. 4 jednoznačně určuje *první* uplatnění v roce 2019 a výchozí nulu — dřívější aplikace je vyloučena (fresh start).
+- *Slabé místo:* přechodná ustanovení jsou časově „vyhaslá" pro běžné roky (od 2020), ale zůstávají rozhodná pro *zpětné přepočty* a pro výklad časování rotace NRR; jejich opomenutí zkresluje historické hodnoty.
+
+#### H. Praktický závěr
+
+§ 34 řídí náběh ZRO v letech 2017–2019: vyšší koeficient výdajů (1,5 % pro 2018, 1,25 % pro 2019) s povinným zpětným přičtením do nápravné složky (odst. 2–3), první uplatnění § 11 až v roce 2019 od nuly (odst. 4), pozdější srovnávací informace nových subjektů (odst. 1) a šachovnicová první volba členů NRR pro rotaci (odst. 5). Při historických přepočtech tato pravidla aplikujte přednostně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při zpětném výpočtu nápravné složky 2018/2019 přičti navýšení dle odst. 2 (odst. 3).
+- [ ] Aplikuj § 11 nejdříve od roku 2019 s výchozí nulou (odst. 4).
+- [ ] Srovnávací informace nových subjektů vyžaduj poprvé za rok 2019 (odst. 1).
+- [ ] Časování rotace členů NRR odvozuj z odst. 5 (6/4/2 roky).
+
+**Typicky rozhodné důkazy / podklady:** výpočet nápravné složky, doklady o navýšení dle § 34 odst. 2, data ČSÚ (ESA 2010), výzvy k poskytnutí srovnávacích informací, doklady o první volbě členů NRR.
+
 ---
 
 ### § 35 — Účinnost
@@ -1762,6 +3054,42 @@ Mezi 1. 1. 2017 a 21. 2. 2017 tedy existovala **legislativní mezera** — Fisca
 | **Sobotka** | Bohuslav Sobotka | předseda vlády (ČSSD) |
 
 ZRO byl tedy přijat za vlády **B. Sobotky** (ČSSD–KDU-ČSL–ANO) jako sněmovní tisk **412** ve volebním období 2013–2017. Ve volbách 2017 vyhrálo ANO; vláda A. Babiše ale ZRO ponechala v platnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Veřejná instituce (ÚSC) je k 15. 1. 2017 sankcionována MF za to, že v lednu 2017 nesnížila dluh dle § 17 odst. 3 (pozastavení podílu na výnosu daní). ÚSC namítá, že § 17 odst. 3 v té době ještě nebyl účinný. Současně jiný subjekt zpochybňuje vynutitelnost povinností ZRO v období mezi 1. 1. 2017 (datum uvedené v § 35) a 21. 2. 2017 (faktická účinnost po publikaci ve Sbírce). Důkazy: text § 35, údaj o publikaci ve Sbírce (částka 5/2017 Sb.), datum sankčního úkonu.
+
+**2. Právní otázka.** Od kdy je ZRO (a zvlášť § 17 odst. 3) účinný — od 1. 1. 2017 dle textu § 35, nebo až od pozdějšího data odvozeného od publikace ve Sbírce — a jaké jsou důsledky pro úkony učiněné v mezidobí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 (účinnost dnem 1. 1. 2017, s výjimkou § 17 odst. 3 — účinnost 1. 1. 2018).
+- *Související ustanovení téhož zákona:* § 17 odst. 3 (sankce — pozastavení RUD; odložená účinnost), § 34 (přechodná ustanovení), § 13–16 (dluhová pravidla, jejichž aktivace závisí na výši dluhu).
+- *Související předpisy:* § 3 odst. 3 zákona č. 309/1999 Sb. (Sbírka zákonů a mezinárodních smluv — zákon nemůže nabýt účinnosti dříve, než je vyhlášen; jinak 15. dnem po vyhlášení); čl. 52 Ústavy (podmínkou platnosti zákona je vyhlášení).
+- *Judikatura:* k pravidlu, že účinnost nemůže předcházet vyhlášení — nosný závěr (doktrína a praxe k z. č. 309/1999 Sb.), že je-li v zákoně uvedeno datum účinnosti dřívější než vyhlášení, nabývá zákon účinnosti až dnem vyhlášení, resp. dle obecného pravidla.
+
+**4. Subsumpce.** § 35 uvádí účinnost 1. 1. 2017, avšak ZRO byl publikován ve Sbírce až 1. 2. 2017; podle § 3 odst. 3 z. č. 309/1999 Sb. nemůže účinnost předcházet vyhlášení, takže fakticky nastala až po publikaci (21. 2. 2017). § 17 odst. 3 měl *odloženou* účinnost na 1. 1. 2018. Sankce uložená v lednu 2017 dle § 17 odst. 3 je proto *bezpředmětná* — ustanovení tehdy nebylo účinné.
+
+**5. Řešení.** Sankci dle § 17 odst. 3 nebylo možno v lednu 2017 uložit (účinnost až 1. 1. 2018) — úkon MF je nezákonný pro neexistenci účinného podkladu. Pro období 1. 1.–21. 2. 2017 platí, že ZRO ještě nebyl účinný (účinnost nemůže předejít vyhlášení), takže povinnosti z něj nebyly vynutitelné; vznikla dočasná legislativní mezera vůči již platnému Fiscal Compactu a směrnici 2011/85/EU. Procesně: případný sankční úkon z mezidobí je třeba zrušit pro absenci účinné normy.
+
+**6. Varianty.** (a) Sankce dle § 17 odst. 3 za rok 2018 (uložená v roce 2019) je již přípustná — ustanovení od 1. 1. 2018 účinné. (b) Povinnost dle přímo použitelných nařízení EU (EDP notifikace) platila i v mezidobí — ta vyplývá z práva EU, nikoli z účinnosti ZRO. (c) Ostatní ustanovení ZRO se aplikují od faktické účinnosti (po vyhlášení), nikoli od 1. 1. 2017.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „§ 35 výslovně stanoví 1. 1. 2017".* MF se opře o text. Neutralizace: § 3 odst. 3 z. č. 309/1999 Sb. a čl. 52 Ústavy vylučují účinnost před vyhlášením; uvedené datum je v rozsahu, v němž předchází vyhlášení, neúčinné.
+- *Protiargument o aplikaci § 17 odst. 3 již od počátku.* Namítne se jednotná účinnost. Neutralizace: § 35 *výslovně* odkládá účinnost § 17 odst. 3 na 1. 1. 2018 — speciální výjimka má přednost.
+- *Slabé místo:* rozpor mezi formálním datem (§ 35) a faktickou účinností vytváří výkladovou nejistotu pro úkony z přelomu let 2016/2017 — rozhodné je datum vyhlášení ve Sbírce.
+
+#### H. Praktický závěr
+
+§ 35 stanoví účinnost ZRO (formálně 1. 1. 2017, fakticky po vyhlášení ve Sbírce), s výslovnou výjimkou § 17 odst. 3 účinného až od 1. 1. 2018. Účinnost nemůže předcházet vyhlášení (z. č. 309/1999 Sb., čl. 52 Ústavy); úkony opřené o dosud neúčinné ustanovení jsou nezákonné. Pro mezidobí 1. 1.–21. 2. 2017 nebyly povinnosti ZRO vynutitelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř faktickou účinnost dle data vyhlášení ve Sbírce, ne jen dle § 35.
+- [ ] U § 17 odst. 3 počítej s účinností až od 1. 1. 2018.
+- [ ] Zruš/nepoužij sankční úkon opřený o dosud neúčinné ustanovení.
+- [ ] Odliš povinnosti z přímo použitelných nařízení EU (platné nezávisle na účinnosti ZRO).
+
+**Typicky rozhodné důkazy / podklady:** text § 35, údaj o vyhlášení ve Sbírce (částka 5/2017 Sb.), datum sankčního úkonu, doklady o dluhu ÚSC za rozhodné období.
 
 ---
 
