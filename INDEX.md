@@ -18,6 +18,10 @@ Fiscal Compact (TSCG) 2012, směrnice 2011/85/EU.
 ## Vazby
 [RPS 218/2000](/home/vojtech/Komentar-RPS-218-2000/), [RP-ÚR 250/2000](/home/vojtech/Komentar-RPUR-250-2000/), [ZFK 320/2001](/home/vojtech/Komentar-ZFK-320-2001/), [ZPH 420/2004](/home/vojtech/Komentar-ZPH-420-2004/).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
