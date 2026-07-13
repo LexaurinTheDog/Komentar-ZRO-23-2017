@@ -113,3 +113,105 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | ministerstvo stanoví; vydá | [§ 10](https://e-sbirka.gov.cz/sb/2017/23#par_10); [§ 12](https://e-sbirka.gov.cz/sb/2017/23#par_12) |
 | Oprávnění a povinnost | povinnost; jsou povinny; je povinen; je oprávněn | [§ 5](https://e-sbirka.gov.cz/sb/2017/23#par_5); [§ 6](https://e-sbirka.gov.cz/sb/2017/23#par_6); [§ 7](https://e-sbirka.gov.cz/sb/2017/23#par_7); [§ 17](https://e-sbirka.gov.cz/sb/2017/23#par_17); [§ 24](https://e-sbirka.gov.cz/sb/2017/23#par_24) |
 | Domněnky, fikce a účinkové konstrukce | platí, že; hledí se | [§ 25](https://e-sbirka.gov.cz/sb/2017/23#par_25); [§ 29](https://e-sbirka.gov.cz/sb/2017/23#par_29) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 23/2017 Sb., o pravidlech rozpočtové odpovědnosti (ZRO) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma vztahuje své adresáty k určitému jednání. Deontická logika a právní teorie rozlišují v prvé řadě **objektivní modality**, které charakterizují normu jako objektivní pravidlo chování bez ohledu na to, komu z něj plyne subjektivní výhoda. Sem patří **příkaz** (norma ukládá konat), **zákaz** (norma ukládá zdržet se) a **dovolení** (norma ponechává jednání na vůli adresáta, typicky prostřednictvím diskrece). Zvláštní postavení mají **kompetenční normy** neboli **zmocnění**, jimiž se zakládá, mění nebo ruší pravomoc určitého orgánu; nejde o pouhé „smět“, nýbrž o konstituování způsobilosti autoritativně jednat, jejíž výkon bývá současně uložen jako povinnost.
+
+Vedle toho stojí **subjektivní modality**, které pojednávají tutéž normativní situaci z hlediska jejích účastníků. Ústředním párem je **oprávnění a povinnost**: subjektivnímu právu jednoho adresáta zpravidla korelativně odpovídá povinnost jiného (korelativita v Hohfeldově smyslu — právu odpovídá povinnost, imunitě nezpůsobilost). U rozpočtových pravidel je tato korelativita zřetelná zejména ve vztahu mezi kontrolními orgány (ministerstvo, Národní rozpočtová rada, Výbor pro rozpočtové prognózy) a kontrolovanými veřejnými institucemi.
+
+**Normativní výrazy** jsou jazykové signály modality. Příkaz a povinnost se vyjadřují indikativem prézentu s významem imperativu („sestavuje“, „zveřejní“) nebo výslovnou formulí („je povinen“); zákaz negací („nesmí“, „nesmějí“); dovolení potenciálem („může“); zmocnění konstitutivními obraty („zřizuje se“) či pověřením orgánu k rozhodnutí. Výklad musí vždy zkoumat, zda indikativ prézentu nese příkazovou sílu, anebo pouze popisuje (deskriptivní vs. preskriptivní funkce téže gramatické formy).
+
+**Domněnky a fikce** jsou nástroje právní techniky pracující s pravdivostní hodnotou skutečností. Vyvratitelná domněnka (praesumptio iuris) přenáší důkazní břemeno a připouští důkaz opaku; nevyvratitelná domněnka (praesumptio iuris et de iure) důkaz opaku vylučuje. Fikce (fictio iuris) pak za právně existující prohlašuje něco, co reálně nenastalo — typicky v podobě formule „platí, že“. V ZRO se s tímto nástrojem setkáváme u ochrany akceschopnosti orgánů před nečinností jiného ústavního činitele.
+
+### Příkaz
+
+Příkazové normy tvoří páteř ZRO: ukládají veřejným institucím a orgánům veřejné moci aktivně konat, aby byl naplněn cíl zdravého a udržitelného hospodaření. Příznačné je použití indikativu prézentu se silou imperativu („sestavuje“, „zveřejní“), který nepřipouští diskreci ohledně toho, *zda* jednat, nýbrž pouze co do způsobu splnění. Adresátem příkazu bývá buď celý sektor veřejných institucí (plánovací povinnosti), nebo konkrétní orgán (informační a publikační povinnosti ministerstva).
+
+Systematicky navazují příkazy na střednědobý fiskální rámec: povinnost sestavovat rozpočet a víceletý výhled (§ 5) i každoroční vymezení okruhu adresátů zveřejněním seznamu (§ 6) jsou předpokladem funkčního monitoringu. Bez těchto vstupních příkazových norem by nebylo možné aplikovat navazující výdajová a dluhová pravidla, neboť by chyběl jak plánovací horizont, tak i vymezení osobní působnosti.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 5 odst. 1 | sestavuje | „Veřejná instituce sestavuje návrh rozpočtu na rozpočtový rok a střednědobý výhled rozpočtu na nejméně 2 další následující rozpočtové roky“ | Základní povinnost víceletého rozpočtového plánování promítající požadavek střednědobého fiskálního rámce. |
+| § 6 odst. 2 | zveřejní | „Ministerstvo každoročně do 31. října zveřejní seznam veřejných institucí na základě informací poskytnutých ministerstvu Českým statistickým úřadem“ | Každoroční povinnost ministerstva vymezit okruh adresátů pravidel, konkretizace osobní působnosti zákona. |
+
+### Zákaz
+
+Zákazové normy ukládají adresátovi zdržet se určitého jednání; v ZRO plní funkci brzdy proti dalšímu prohlubování fiskální nerovnováhy a proti ohrožení nezávislosti fiskálních institucí. Vyjadřují se negovaným potenciálem („nesmí“, „nesmějí“). Charakteristické je, že se aktivují po naplnění určité podmínky (překročení dluhového prahu) nebo se vztahují k trvalému stavu (nezávislost výkonu funkce).
+
+Prvý typ zákazu je součástí stupňovité soustavy dluhového pravidla: po dosažení varovného prahu 55 % HDP se ostatním veřejným institucím ukládá zdržet se zřizování nových závazků (§ 14), čímž se má zabránit dalšímu zadlužování v citlivé zóně. Druhý typ zákazu chrání institucionální nezávislost — zákaz přijímat či vyžadovat pokyny zvenčí (§ 23) je klasickým výrazem garance nestrannosti obdobné soudcovské nezávislosti a představuje negativní vymezení téhož, co pozitivně zajišťují záruky funkčního období a neodvolatelnosti.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 14 písm. d) | nesmí zřizovat | „nesmí po období, v němž výše dluhu činí nejméně 55 % hrubého domácího produktu, zřizovat nové závazky ze smluv“ | Ostatním veřejným institucím se ukládá zdržet se dalšího zadlužování po překročení varovného prahu dluhového pravidla. |
+| § 23 odst. 2 | nesmějí přijímat ani vyžadovat pokyny | „pro jejich výkon nesmějí přijímat ani vyžadovat pokyny od jiného orgánu nebo osoby“ | Garance osobní a odborné nezávislosti členů Národní rozpočtové rady zákazem instrukcí zvenčí. |
+
+### Dovolení
+
+Dovolení ponechává adresátovi prostor pro vlastní uvážení, zda a jak jednat; typickým výrazem je potenciál „může“. V ZRO se dovolení objevuje především jako **diskrece ministerstva** vestavěná do jinak přísných výdajových a dluhových pravidel — funguje jako ventil pružnosti, který umožňuje reagovat na mimořádné okolnosti, aniž by bylo nutné pravidlo obcházet nebo měnit.
+
+Nejvýrazněji se dovolení projevuje u možnosti navýšit výdajový strop sektoru (§ 10 odst. 4): rigidní výdajové pravidlo se tím činí flexibilním, neboť ministerstvo smí za stanovených podmínek zvýšit částku celkových výdajů. Právě kombinace pevného pravidla s taxativně vymezenou diskrecí je pro moderní fiskální rámce příznačná — diskrece není libovůlí, nýbrž vázaným uvážením omezeným zákonnými důvody navýšení.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 10 odst. 4 | může navýšit | „Ministerstvo může částku celkových výdajů sektoru veřejných institucí navýšit o“ | Diskrece ministerstva zvýšit výdajový strop v mimořádných situacích, činí výdajové pravidlo flexibilním. |
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy zakládají pravomoc určitého orgánu autoritativně jednat, popřípadě konstituují nový orgán. Od dovolení se liší tím, že nejde o pouhé „smět“ v rámci vlastní sféry adresáta, nýbrž o způsobilost zasáhnout do právních poměrů jiných subjektů nebo o vznik nové právní entity. Výkon takto svěřené pravomoci bývá zároveň uložen jako povinnost — kompetence a povinnost splývají v jediné normě (orgán *má* pravomoc a *musí* ji za daných podmínek použít).
+
+V ZRO plní zmocnění dvě funkce. **Konstitutivní** zmocnění zřizuje nezávislé orgány fiskálního dohledu — formulí „zřizuje se“ vzniká Výbor pro rozpočtové prognózy (§ 19). **Vynucovací** zmocnění aktivuje pravomoc vlády či ministerstva reagovat na porušení fiskálních pravidel: při překročení maastrichtského stropu 60 % HDP vzniká kompetence i povinnost vlády navrhnout konsolidační opatření (§ 16) a ministerstvo je nadáno pravomocí rozhodnout o pozastavení převodu podílu ÚSC na výnosu daní jako sankčním nástroji (§ 17 odst. 3).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 16 | vláda navrhne opatření | „Činí-li výše dluhu sektoru veřejných institucí více než 60 % nominálního hrubého domácího produktu, vláda navrhne opatření vedoucí ke snížení této výše“ | Aktivace kompetence a povinnosti vlády přijmout konsolidační opatření při překročení maastrichtského dluhového stropu. |
+| § 17 odst. 3 | ministerstvo rozhodne | „ministerstvo v následujícím kalendářním roce rozhodne podle zákona o rozpočtovém určení daní o pozastavení převodu jeho podílu na výnosu daní“ | Vynucovací kompetence ministerstva jako sankční nástroj vůči ÚSC, který nesnížil svůj nadměrný dluh. |
+| § 19 odst. 1 | zřizuje se | „Zřizuje se Výbor pro rozpočtové prognózy“ | Konstitutivní norma zřizující nezávislý orgán pro posuzování makroekonomických a fiskálních prognóz ministerstva. |
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou korelativní subjektivní modality: témuž právnímu vztahu se lze dívat z pozice nositele práva i nositele povinnosti. V ZRO je řada povinností kvantifikována — nejde o obecné „chovat se řádně“, nýbrž o přesně vyčíslené kroky, jejichž splnění lze objektivně přezkoumat. Oprávnění se naproti tomu objevuje jako subjektivní procesní právo umožňující nositeli aktivně vstupovat do rozhodovacích procesů.
+
+Povinnostní normy zajišťují jednak **datový tok** nezbytný pro monitoring (povinnost institucí poskytnout ministerstvu informace podle § 7 odst. 4), jednak **materiální fiskální disciplínu** (kvantifikovaná povinnost ÚSC snížit nadměrný dluh nejméně o 5 % rozdílu podle § 17 odst. 2). Oproti tomu oprávnění předsedy Národní rozpočtové rady účastnit se s hlasem poradním schůze vlády a jednání Výboru (§ 24 odst. 3) je typickým subjektivním procesním právem, jehož výkon závisí na vůli nositele, ale jemuž na druhé straně odpovídá povinnost orgánů takovou účast strpět a umožnit.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 7 odst. 4 | jsou povinny poskytnout | „Veřejné instituce jsou povinny ministerstvu poskytnout informace potřebné k splnění informačních povinností podle odstavců 1 až 3“ | Zajištění datového toku od institucí k ministerstvu, bez něhož by monitoring sektoru nebyl proveditelný. |
+| § 17 odst. 2 | je povinen snížit | „územní samosprávný celek je povinen jej v následujícím kalendářním roce snížit nejméně o 5 % z rozdílu mezi výší svého dluhu a 60 % průměru svých příjmů za poslední 4 rozpočtové roky“ | Zadluženému ÚSC se ukládá konkrétní kvantifikovaná povinnost každoročně umořovat nadměrný dluh. |
+| § 24 odst. 3 | je oprávněn zúčastnit se | „Předseda Rady je oprávněn zúčastnit se s hlasem poradním schůze vlády a jednání Výboru“ | Subjektivní procesní právo předsedy NRR aktivně vstupovat do klíčových fiskálních rozhodovacích fór. |
+
+### Domněnky a fikce
+
+ZRO využívá právní fikci jako nástroj ochrany akceschopnosti nezávislých fiskálních orgánů. Fikce zde neslouží k rozvržení důkazního břemene (jako vyvratitelná domněnka), nýbrž prohlašuje za nastalý určitý procesní následek bez ohledu na reálný stav, aby zabránila blokaci ústavně předvídaného výsledku nečinností příslušného orgánu.
+
+Typickým příkladem je fikce souhlasu Poslanecké sněmovny při volbě členů Rady (§ 25 odst. 4): marným uplynutím lhůty *platí, že* sněmovna s návrhem souhlasí. Jde o fikci nevyvratitelnou — nepřipouští důkaz opaku a působí ipso iure. Funkčně tak chrání obsazenost a akceschopnost Národní rozpočtové rady před tím, aby nečinnost komory paralyzovala nezávislý orgán; jde o pojistku obdobnou fikcím schválení v jiných procesních řádech.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 25 odst. 4 | platí, že souhlasí | „platí, že Poslanecká sněmovna s návrhem souhlasí“ | Nevyvratitelná fikce souhlasu bránící blokaci obsazení Rady nečinností sněmovny, chrání akceschopnost orgánu. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Skutečná normativní síla ZRO se projevuje teprve v kombinaci modalit uvnitř jednotlivých institutů. Jednotlivá modalita zřídka stojí osamoceně; typicky se řetězí příkaz → zákaz/povinnost → zmocnění tak, aby pravidlo bylo nejen stanoveno, ale i vynutitelné.
+
+**Stupňovité dluhové pravidlo** je nejlepší ukázkou. Nejprve povinnost plánovat (§ 5 odst. 1, „sestavuje“) a vymezit adresáty (§ 6 odst. 2, „zveřejní“) vytvoří monitorovací základ. Po dosažení varovného prahu 55 % HDP nastupuje **zákaz** dalšího zadlužování ostatních institucí (§ 14 písm. d), „nesmí zřizovat“). Překročení maastrichtského stropu 60 % HDP aktivuje **zmocnění a současně povinnost** vlády navrhnout konsolidační opatření (§ 16, „vláda navrhne opatření“). U územních samosprávných celků se stejná logika promítá do dvojice **kvantifikovaná povinnost** snížit dluh (§ 17 odst. 2, „je povinen snížit“) — a nesplní-li ji ÚSC, aktivuje se **vynucovací zmocnění** ministerstva pozastavit převod podílu na daních (§ 17 odst. 3, „ministerstvo rozhodne“). Řetězec tedy postupuje od plánování přes zákaz až po sankci.
+
+**Institucionální architektura dohledu** kombinuje modality odlišně. Konstitutivní **zmocnění** zřizuje orgán (§ 19 odst. 1, „zřizuje se“ — Výbor pro rozpočtové prognózy), jeho nezávislost je zajištěna **zákazem** přijímat pokyny (§ 23 odst. 2, „nesmějí přijímat ani vyžadovat pokyny“), akceschopnost obsazení chrání **fikce** souhlasu (§ 25 odst. 4, „platí, že souhlasí“) a funkční zapojení do rozhodovacích procesů zaručuje **oprávnění** předsedy Rady účastnit se schůzí vlády a Výboru (§ 24 odst. 3, „je oprávněn zúčastnit se“). Výdajová větev pak k příkazu plánovat přidává **dovolení** ministerstvu navýšit strop (§ 10 odst. 4, „může navýšit“) jako ventil pružnosti. Tímto způsobem se objektivní modality (příkaz, zákaz, zmocnění) a subjektivní modality (oprávnění, povinnost) doplňují se zvláštními nástroji právní techniky (fikce) do koherentního systému fiskální odpovědnosti.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | „sestavuje“, „zveřejní“ (indikativ prézentu se silou imperativu) | § 5 odst. 1; § 6 odst. 2 |
+| Zákaz | „nesmí“, „nesmějí“ (negovaný potenciál) | § 14 písm. d); § 23 odst. 2 |
+| Dovolení | „může“ (potenciál, vázaná diskrece) | § 10 odst. 4 |
+| Zmocnění | „zřizuje se“, „vláda navrhne“, „ministerstvo v následujícím kalendářním roce rozhodne“ (konstitutivní / kompetenční obraty) | § 16; § 17 odst. 3; § 19 odst. 1 |
+| Oprávnění a povinnost | „je povinen“, „jsou povinny ministerstvu poskytnout“, „je oprávněn zúčastnit se“ | § 7 odst. 4; § 17 odst. 2; § 24 odst. 3 |
+| Domněnka / fikce | „platí, že Poslanecká sněmovna s návrhem souhlasí“ (nevyvratitelná fikce) | § 25 odst. 4 |
