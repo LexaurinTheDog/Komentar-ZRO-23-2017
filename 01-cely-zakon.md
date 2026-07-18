@@ -89,6 +89,52 @@ Závěr § 1 zavádí klíčovou legislativní zkratku: **„Rada"** = Národní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b0308d04a7cffcb97655 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Tento zákon zapracovává příslušný předpis Evropské unie1), zároveň navazuje na přímo použitelné předpisy Evropské unie2) a upravuje pravidla rozpočtové odpovědnosti veřejných institucí v sektoru veřejných institucí a působnost Národní rozpočtové rady (dále jen „Rada“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0308d04a7cffcb97655 -->
+
 ### § 2 — Úvodní ustanovení (principy rozpočtové odpovědnosti)
 
 > **§ 2**
@@ -172,6 +218,56 @@ Odst. 3 lze chápat jako **konstitutivní opodstatnění** těchto pravidel — 
 **Typicky rozhodné důkazy / podklady:** rozpočet a střednědobý výhled, propočet poměru dluh/příjmy, zprávy NRR o udržitelnosti, konvergenční program.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cdce5237dbe7551663aa generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 2 — Úvodní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Stát a územní samosprávné celky dbají o zdravé a udržitelné veřejné finance, přičemž vhodně podporují hospodářský a společenský rozvoj, zaměstnanost a mezigenerační soudržnost.
+>
+> (2) Stát, územní samosprávné celky a další veřejné instituce uvedené v [[#§ 3|§ 3]] dodržují při výkonu své činnosti pravidla transparentnosti, účelnosti, hospodárnosti a efektivnosti nakládání s veřejnými financemi.
+>
+> (3) Stát, územní samosprávné celky a další veřejné instituce uvedené v [[#§ 3|§ 3]] dbají o takový vývoj dluhu sektoru veřejných institucí, který nenarušuje dlouhodobě udržitelný stav veřejných financí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdce5237dbe7551663aa -->
 
 ### § 3 — Veřejná instituce (definice okruhu adresátů)
 
@@ -330,6 +426,88 @@ Postavení „veřejné instituce" určete dvoukrokově: nejdřív kategorie pí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=40ec1fe96b39e6c85701 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 3 — Veřejná instituce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Veřejnou institucí v sektoru veřejných institucí pro účely rozpočtové odpovědnosti je
+>
+> - a) stát, organizační složka státu a zařízení státu, které má obdobné postavení jako organizační složka státu,
+>
+> - b) státní příspěvková organizace,
+>
+> - c) státní fond,
+>
+> - d) veřejná výzkumná instituce,
+>
+> - e) veřejná vysoká škola,
+>
+> - f) právnická osoba, jejímž zakladatelem nebo zřizovatelem je veřejná instituce podle písmen a), c) až e), g) a m), a která je
+>
+> - 1. převážně financována příjmy od veřejných institucí podle písmen a) až e) nebo výnosy daní, poplatků a jiných obdobných peněžitých plnění a
+>
+> - 2. řízena veřejnou institucí podle písmen a) až e), nebo ve které taková veřejná instituce může prosadit jmenování, volbu nebo odvolání většiny osob, které jsou statutárním nebo řídícím orgánem nebo jeho členem, nebo většiny osob, které jsou členy dozorčího orgánu právnické osoby,
+>
+> - g) zdravotní pojišťovna,
+>
+> - h) územní samosprávný celek,
+>
+> - i) dobrovolný svazek obcí,
+>
+> - j) příspěvková organizace zřízená územním samosprávným celkem, dobrovolným svazkem obcí, nebo městskou částí hlavního města Prahy,
+>
+> - k) právnická osoba, jejímž zakladatelem nebo zřizovatelem je územní samosprávný celek, dobrovolný svazek obcí nebo městská část hlavního města Prahy, a
+>
+> - 1. která je financovaná převážně svým zakladatelem nebo zřizovatelem nebo výnosy daní, poplatků a jiných obdobných peněžitých plnění a
+>
+> - 2. ve které veřejná instituce podle písmen h) až k) může prosadit jmenování, volbu nebo odvolání více než poloviny osob, které jsou statutárním, řídícím nebo správním orgánem nebo jeho členem, anebo většiny osob, které jsou členy dozorčího orgánu právnické osoby,
+>
+> - l) jiný ekonomický subjekt, který splňuje znaky instituce sektoru vládních institucí podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii3),
+>
+> - m) veřejná kulturní instituce,
+>
+> pokud je zároveň zapsána jako jednotka sektoru vládních institucí podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii3) v registru ekonomických subjektů, vedeném a spravovaném Českým statistickým úřadem podle zákona [[o státní statistické službě|o státní statistické službě]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40ec1fe96b39e6c85701 -->
+
 ## ČÁST DRUHÁ — PRAVIDLA ROZPOČTOVÉ ODPOVĚDNOSTI (§§ 4–18)
 
 ### Rozpočet a střednědobý výhled veřejné instituce
@@ -400,6 +578,56 @@ Definice je propojena s § 5 odst. 1 — střednědobý výhled se sestavuje na 
 **Typicky rozhodné důkazy / podklady:** schválený rozpočet a výhled, účetní závěrka (báze účetnictví), vnitřní předpis o rozpočtu, u pojišťovny zdravotně pojistný plán.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=484f822b2ccded2e6d42 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Rozpočtem veřejné instituce je plán, jímž se řídí financování činnosti veřejné instituce. Rozpočet obsahuje plán příjmů a výdajů a financování vzniklého salda, nebo plán výnosů a nákladů.
+>
+> (2) Rozpočtem zdravotní pojišťovny je zdravotně pojistný plán, který obsahuje plán příjmů a výdajů zdravotní pojišťovny.
+>
+> (3) Střednědobým výhledem rozpočtu veřejné instituce je plán příjmů a výdajů, nebo plán výnosů a nákladů, na každý z rozpočtových roků, na který je střednědobý výhled rozpočtu sestavován.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=484f822b2ccded2e6d42 -->
 
 ### § 5 — Sestavování a zveřejňování rozpočtu a výhledu
 
@@ -491,6 +719,60 @@ U ÚSC řiďte zveřejnění návrhu rozpočtu přísnější 15denní lhůtou R
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=53f1d9551ab23e21985d generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Veřejná instituce sestavuje návrh rozpočtu na rozpočtový rok a střednědobý výhled rozpočtu na nejméně 2 další následující rozpočtové roky, při tom zohledňuje veškeré hospodářské skutečnosti, včetně své ekonomické a finanční situace.
+>
+> (2) Veřejná instituce zveřejní na svých internetových stránkách nebo jiným způsobem v místě obvyklým
+>
+> - a) návrh rozpočtu a střednědobého výhledu rozpočtu nejméně po dobu 10 dnů přede dnem jeho projednání příslušným orgánem, nestanoví-li jiný právní předpis jinak,
+>
+> - b) rozpočet a střednědobý výhled rozpočtu nejpozději do 30 dnů ode dne jeho projednání nebo schválení příslušným orgánem, nestanoví-li jiný právní předpis jinak.
+>
+> (3) S návrhem rozpočtu na rozpočtový rok veřejná instituce zveřejní informace o schváleném rozpočtu na rozpočtový rok předcházející roku, na který je předkládán návrh rozpočtu (dále jen „předcházející rok“), a o očekávaném, nebo skutečném plnění rozpočtu za předcházející rok. Tato povinnost se nevztahuje na veřejnou instituci, u které jsou požadované informace zveřejňovány podle jiného právního předpisu nebo prostřednictvím Ministerstva financí (dále jen „ministerstvo“) způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53f1d9551ab23e21985d -->
+
 ### Zveřejňování informací
 
 ### § 6 — Zveřejňování informací ministerstvem
@@ -553,6 +835,54 @@ Seznam MF k 31. 10. berte jako deklaratorní vodítko, ne jako konstitutivní ak
 **Typicky rozhodné důkazy / podklady:** zveřejněný seznam MF, podklad ČSÚ k 30. 9., výpis z RES (S.13), korespondence MF–ČSÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cfe3fe2dcc49023eec2a generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Pokud tento zákon ukládá ministerstvu povinnost zveřejňovat informace o dodržování pravidel rozpočtové odpovědnosti veřejnými institucemi, zveřejňuje je ministerstvo na svých internetových stránkách.
+>
+> (2) Ministerstvo každoročně do 31. října zveřejní seznam veřejných institucí na základě informací poskytnutých ministerstvu Českým statistickým úřadem ke dni 30. září téhož roku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cfe3fe2dcc49023eec2a -->
 
 ### § 7 — Souhrnné informace MF o sektoru veřejných institucí
 
@@ -660,6 +990,70 @@ Statisticky důležitá norma — **metodika ESA 2010** se v některých detaile
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aece7f345cb213009b52 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo nejméně jednou ročně zveřejní za sektor veřejných institucí informace o
+>
+> - a) podmíněných závazcích podle právních předpisů upravujících účetnictví4) a o dalších potenciálních povinnostech k plnění s předpokládaným významným dopadem na veřejné finance nejméně v členění na záruky, dluhy vyplývající z činnosti veřejných společností vymezených v přímo použitelném předpise Evropské unie upravujícím Evropský systém národních a regionálních účtů v Evropské unii5), včetně jejich ocenění,
+>
+> - b) zápůjčkách, úvěrech a návratných finančních výpomocích poskytnutých veřejnými institucemi, jejichž splátky jistiny nebo úroku jsou 90 a více dnů po lhůtě splatnosti,
+>
+> - c) majetkových účastech v obchodních korporacích a dalších podílech držených veřejnými institucemi, a to nejméně o majetkových účastech a podílech, jejichž hodnota je vyšší než 0,01% nominálního hrubého domácího produktu uvedeného za stejné období v naposledy zveřejněné makroekonomické prognóze ministerstva,
+>
+> - d) odhadech dopadů daňových úlev, které lze považovat za výdaje uskutečňované prostřednictvím daňového systému, na příjmy sektoru veřejných institucí.
+>
+> (2) U veřejných institucí uvedených v § 3 písm. h) až k) nebo u jednotlivých skupin těchto institucí zveřejní ministerstvo nejméně celkové příjmy, výdaje a saldo nebo celkové výnosy a náklady nebo jejich odhady za každé kalendářní čtvrtletí, a to do konce následujícího čtvrtletí.
+>
+> (3) U veřejných institucí uvedených v § 3 písm. a) až f) a l) nebo u jednotlivých skupin těchto institucí zveřejní ministerstvo za každý kalendářní měsíc nejméně celkové příjmy, výdaje a saldo nebo celkové výnosy a náklady nebo jejich odhady, a to do konce následujícího měsíce. U veřejných institucí uvedených v § 3 písm. g) zveřejní ministerstvo tyto údaje ve stejných lhůtách samostatně.
+>
+> (4) Veřejné instituce jsou povinny ministerstvu poskytnout informace potřebné k splnění informačních povinností podle odstavců 1 až 3, které nejsou ministerstvu známé z jeho činnosti, a to prostřednictvím centrálního systému účetních informací státu.
+>
+> (5) Před zveřejněním údajů uvedených v odstavcích 2 a [[#§ 3|3]], ministerstvo zveřejní popis rozdílů mezi zveřejňovanými údaji a údaji podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii3). Popis ministerstvo připraví ve spolupráci s Českým statistickým úřadem.
+>
+> (6) Ministerstvo spolu s údaji podle odstavců 1 až 3 zveřejní způsob, kterým byly tyto údaje stanoveny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aece7f345cb213009b52 -->
+
 ### § 8 — Prognózy
 
 > **§ 8**
@@ -748,6 +1142,60 @@ MF musí zveřejnit nejen samotné prognózy, ale i **metodiku** a **předpoklad
 **Typicky rozhodné důkazy / podklady:** prognózy MF, ČNB, OECD, IMF a Komise; stanoviska Výboru; ex-post vyhodnocení přesnosti; dokumentace metodiky a opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f9cbb0dc2ec0309a603 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 8 — Prognózy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Makroekonomická a fiskální prognóza ministerstva obsahuje porovnání s prognózami Evropské komise, včetně jejich předpokladů, a s dalšími prognózami. Podstatné rozdíly ministerstvo zveřejní a odůvodní je.
+>
+> (2) Fiskální prognózy ministerstva obsahují analýzu citlivosti vývoje hlavních fiskálních proměnných na odlišné předpoklady týkající se alespoň tempa růstu hrubého domácího produktu a úrokových sazeb.
+>
+> (3) Ministerstvo provádí pravidelné souhrnné následné hodnocení makroekonomických a fiskálních prognóz použitých pro přípravu státního rozpočtu podle objektivních metod. Výsledek hodnocení ministerstvo zveřejní společně se stanoviskem Výboru pro rozpočtové prognózy ([[#§ 19|§ 19]]) a zohlední při svých příštích prognózách.
+>
+> (4) V případě podstatného zkreslení makroekonomické prognózy po dobu nejméně 4 po sobě následujících let, přijme ministerstvo nezbytná opatření a zveřejní je.
+>
+> (5) Ministerstvo zveřejní makroekonomické a fiskální prognózy, metodiku a předpoklady použité pro tvorbu makroekonomických a fiskálních prognóz.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f9cbb0dc2ec0309a603 -->
 
 ### Rozpočtová strategie sektoru veřejných institucí
 
@@ -863,6 +1311,74 @@ Strategie je hlavním plánovacím dokumentem: musí integrovat konvergenční p
 **Typicky rozhodné důkazy / podklady:** usnesení vlády (datum), text strategie a konvergenčního programu, stanoviska NRR, dokumentace MTO.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f70ae940e453bac930f generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 9 — Rozpočtová strategie sektoru veřejných institucí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Rozpočtová strategie sektoru veřejných institucí (dále jen „strategie“) vychází z makroekonomické prognózy a fiskální prognózy sektoru veřejných institucí. Součástí strategie je konvergenční program6). Strategii vypracuje každoročně ministerstvo nejméně na období následujících 3 let.
+>
+> (2) Strategie obsahuje
+>
+> - a) celkové výdaje sektoru veřejných institucí stanovené podle [[#§ 10|§ 10]] nebo [[#§ 10a|§ 10a]], a to jednou částkou na každý z rozpočtových roků,
+>
+> - b) výdajové rámce státního rozpočtu a státních fondů podle [[#§ 12|§ 12]], a to jednou částkou na každý z rozpočtových roků,
+>
+> - c) postup stanovení celkových výdajů sektoru veřejných institucí podle [[#§ 10|§ 10]] a [[#§ 10a|§ 10a]] a postup stanovení výdajových rámců státního rozpočtu a státních fondů podle [[#§ 12|§ 12]],
+>
+> - d) prognózy hlavních položek příjmů a výdajů sektoru veřejných institucí při nezměněných hospodářských politikách, a to jednou částkou na každý z rozpočtových roků,
+>
+> - e) popis dopadů plánovaných střednědobých hospodářských politik7) na sektor veřejných institucí v členění podle hlavních položek příjmů a výdajů, z něhož je zřejmý postup dosažení střednědobého rozpočtového cíle stanoveného podle přímo použitelného předpisu Evropské unie8) ve srovnání s prognózami při nezměněných hospodářských politikách,
+>
+> - f) hodnocení dopadů plánovaných hospodářských politik na udržitelnost veřejných financí,
+>
+> - g) finanční vztahy státního rozpočtu k rozpočtům územních samosprávných celků,
+>
+> - h) finanční vztahy státního rozpočtu k rozpočtům veřejných institucí podle § 3 písm. g) a ke zvláštnímu účtu veřejného zdravotního pojištění9).
+>
+> (3) Ministerstvo předkládá návrh strategie vládě tak, aby jej projednala a po případných úpravách schválila do 30. dubna téhož roku.
+>
+> (4) Ministerstvo v návrhu strategie, návrhu státního rozpočtu a střednědobého výhledu uvede souhrnnou informaci o hospodaření veřejných institucí a jejich mimorozpočtových účtů a fondů, a to nejméně v rozsahu jejich souhrnného vlivu na saldo a dluh sektoru veřejných institucí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 10a, § 12, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f70ae940e453bac930f -->
 
 ### Stanovení celkových výdajů sektoru veřejných institucí
 
@@ -980,6 +1496,68 @@ MF spolu s NRR vypracovává a zveřejňuje **metodiku** stanovení one-offs a c
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d36a4ae30eb1d9e3bffc generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo stanoví částku celkových výdajů sektoru veřejných institucí jako součet částek nejvýše 1 % prognózovaného nominálního hrubého domácího produktu, nestanoví-li [[#§ 10a|§ 10a]] jinak, a prognózovaných celkových konsolidovaných příjmů sektoru veřejných institucí upravených o vliv hospodářského cyklu a o vliv jednorázových a přechodných operací na příslušný následující rozpočtový rok. Celkové výdaje sektoru veřejných institucí se konsolidují o jejich vzájemné finanční vztahy a stanoví se podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii3).
+>
+> (2) Jednorázovými a přechodnými operacemi se rozumí příjmy a výdaje sektoru veřejných institucí, které mají pouze krátkodobě časově omezený dopad na jejich rozpočty. Ministerstvo projedná s Radou ([[#§ 21|§ 21]]) vliv jednorázových a přechodných operací na příjmy a výdaje sektoru veřejných institucí. Rada k vlivu operací vydá bez zbytečného odkladu stanovisko, které ministerstvo zveřejní. Nesouhlasí-li ministerstvo se stanoviskem Rady, zveřejní odůvodnění nesouhlasu.
+>
+> (3) Částka celkových výdajů sektoru veřejných institucí se snižuje o jednu třetinu výše nápravné složky podle [[#§ 11|§ 11]], která v daném roce překračuje 2 % nominálního hrubého domácího produktu za předchozí rozpočtový rok, který je v běžném roce naposledy zveřejněn Českým statistickým úřadem.
+>
+> (4) Ministerstvo může částku celkových výdajů sektoru veřejných institucí navýšit o
+>
+> - a) výdaje sektoru veřejných institucí vzniklé na základě zhoršování bezpečnostní situace státu spojené s vládou vyhlášenými mimořádnými opatřeními ke zvýšení jeho obranyschopnosti, na základě nouzového stavu, stavu ohrožení státu nebo válečného stavu,
+>
+> - b) úhrn výdajů sektoru veřejných institucí spojených s odstraňováním následků živelních pohrom a výdajů sektoru veřejných institucí vyplývajících z plnění mezinárodních smluv a jiných mezinárodních závazků České republiky, pokud by podle prognózy ministerstva přesáhl 3 % nominálního hrubého domácího produktu prognózovaného ministerstvem na toto období,
+>
+> - c) dodatečné výdaje související s prognózovaným významným zhoršením ekonomického vývoje, pokud ministerstvo předpovídá v daném roce čtvrtletní meziroční pokles hrubého domácího produktu očištěného o cenové vlivy o nejméně 3 %.
+>
+> (5) Ministerstvo stanoví výši výdajů podle odstavce 4 písm. c) pouze se stanoviskem Rady, které ministerstvo zveřejní. Nesouhlasí-li ministerstvo se stanoviskem Rady, zveřejní odůvodnění nesouhlasu.
+>
+> (6) Ministerstvo společně s Radou vypracuje a zveřejní postup při stanovení jednorázových a přechodných operací a úpravě celkových příjmů o vliv hospodářského cyklu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10a, § 21, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d36a4ae30eb1d9e3bffc -->
+
 ### § 10a — Speciální koeficienty pro roky 2024–2027 (konsolidační trajektorie)
 
 > **§ 10a**
@@ -1053,6 +1631,60 @@ Po pandemii COVID-19 (2020–2021) a energetické krizi (2022) ČR akumulovala s
 **Typicky rozhodné důkazy / podklady:** výpočet stropu pro daný rok, znění § 10a, rozpočtová strategie, propočet nápravné složky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cc9333256b7203803dc3 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 10a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Procentní částka prognózovaného nominálního hrubého domácího produktu podle § 10 odst. 1 činí nejvýše
+>
+> - a) 2,75 % pro rok 2024,
+>
+> - b) 2,25 % pro rok 2025,
+>
+> - c) 1,75 % pro rok 2026,
+>
+> - d) 1,25 % pro rok 2027.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc9333256b7203803dc3 -->
 
 ### § 11 — Nápravná složka (memory effect)
 
@@ -1137,6 +1769,58 @@ Nápravná složka je „paměťový účet" odchylek: kumuluje rozdíl skutečn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=19b21df373b3680cb4cd generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 11 — Nápravná složka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Nápravná složka slouží k úpravě odchylky skutečného výsledku hospodaření sektoru veřejných institucí od výsledku předpokládaného.
+>
+> (2) Nápravnou složku v běžném rozpočtovém roce tvoří součet nápravné složky z předchozího roku a rozdílu skutečných celkových výdajů sektoru veřejných institucí za předchozí rok a celkových výdajů sektoru veřejných institucí, které jsou vypočteny v běžném roce za předchozí rok zpětně podle [[#§ 10|§ 10]] nebo podle [[#§ 10a|§ 10a]] v letech 2025 až 2028 na základě údajů zveřejněných Českým statistickým úřadem. Skutečné celkové výdaje sektoru veřejných institucí, které jsou v běžném roce zveřejněny Českým statistickým úřadem a které Český statistický úřad sdělí ministerstvu nejpozději k 1. dubnu a 1. říjnu každého běžného roku, jsou stanoveny podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii3).
+>
+> (3) Nápravná složka se snižuje o částku uplatněnou podle § 10 odst. 3 v předchozím roce.
+>
+> (4) Ministerstvo může nápravnou složku v běžném rozpočtovém roce snížit o výši výdajů, které vznikly na základě jiných vnějších skutečností, než které jsou uvedeny v § 10 odst. 4. Zahrnutí těchto výdajů a stanovení jejich rozsahu je možné pouze po obdržení souhlasného stanoviska Rady. Ministerstvo stanovisko Rady zveřejní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 10a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19b21df373b3680cb4cd -->
+
 ### § 12 — Výdajový rámec státního rozpočtu a státních fondů
 
 > **§ 12**
@@ -1215,6 +1899,60 @@ NRR má dvě role:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=844600f6bb21958d3d22 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 12 — Výdajový rámec státního rozpočtu a státních fondů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo společně s Radou vypracuje a zveřejní popis postupu při stanovení výdajového rámce státního rozpočtu a státních fondů z celkových výdajů sektoru veřejných institucí.
+>
+> (2) Ministerstvo stanoví závazný celkový konsolidovaný výdajový rámec pro státní rozpočet a státní fondy. Při jeho stanovení se vychází z celkových výdajů sektoru veřejných institucí, z nichž se vyloučí prognózovaný výsledek hospodaření veřejných institucí s výjimkou státního rozpočtu a státních fondů.
+>
+> (3) Z výdajového rámce státního rozpočtu a státních fondů ministerstvo vychází při stanovení celkových výdajů státního rozpočtu v návrhu zákona o státním rozpočtu podle zákona upravujícího [[rozpočtová pravidla|rozpočtová pravidla]]10).
+>
+> (4) Stanovení výdajového rámce státního rozpočtu a státních fondů ministerstvo zveřejní.
+>
+> (5) Rada vydá bez zbytečného odkladu ke stanovení výdajového rámce státního rozpočtu a státních fondů stanovisko, které ministerstvo zveřejní. Nesouhlasí-li ministerstvo se stanoviskem Rady, zveřejní odůvodnění nesouhlasu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=844600f6bb21958d3d22 -->
+
 ### Výše dluhu sektoru veřejných institucí
 
 ### § 13 — Stanovení výše dluhu
@@ -1280,6 +2018,52 @@ Výše dluhu se počítá **vždy zpětně** — k 31. 12. předchozího roku. A
 **Typicky rozhodné důkazy / podklady:** EDP notifikace ČSÚ, výkaz rezervy financování státního dluhu, nominální HDP, vyhlášení NRR ve Sbírce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=633e2c50664e247ec427 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Pro stanovení výše dluhu sektoru veřejných institucí po odečtení rezervy peněžních prostředků při financování státního dluhu vyjádřené jako procentní podíl na hrubém domácím produktu (dále jen „výše dluhu“) se použije dluh sektoru veřejných institucí vzniklý do konce předchozího kalendářního roku a nominální hrubý domácí produkt za předchozí kalendářní rok, které Český statistický úřad oznámil v prvním pololetí běžného roku Evropské komisi podle přímo použitelného předpisu Evropské unie upravujícího použití Protokolu o postupu při nadměrném schodku11).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=633e2c50664e247ec427 -->
 
 ### § 14 — Opatření při dosažení 55 % HDP (varovný práh)
 
@@ -1377,6 +2161,60 @@ V praxi to znamená, že **státní podniky, akciovky se státní účastí, VVI
 **Typicky rozhodné důkazy / podklady:** vyhlášení výše dluhu ve Sbírce, návrh a výhled ZSR a SF, návrhy rozpočtů ÚSC a pojišťoven, smluvní dokumentace VI, doklady o případné výjimce (EU projekt, rozhodnutí soudu).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2ff684f83cda81c9f224 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Činí-li výše dluhu sektoru veřejných institucí po odečtení rezervy peněžních prostředků při financování státního dluhu nejméně 55 % nominálního hrubého domácího produktu, uplatní se od prvního dne druhého kalendářního měsíce následujícího po dni vyhlášení takto upravené výše dluhu následující opatření vedoucí k dlouhodobě udržitelnému stavu veřejných financí
+>
+> - a) vláda schválí a předloží Poslanecké sněmovně návrh a střednědobý výhled státního rozpočtu a rozpočtů státních fondů, které vedou k dlouhodobě udržitelnému stavu veřejných financí; byl-li již návrh zákona o státním rozpočtu nebo návrh rozpočtu státního fondu předložen bez splnění této podmínky, vláda takový návrh vezme zpět a neprodleně předloží návrh nový,
+>
+> - b) vláda předloží Poslanecké sněmovně návrhy vyrovnaných rozpočtů zdravotních pojišťoven; návrhy schodkových rozpočtů může předložit jen při splnění podmínek stanovených zákony upravujícími veřejné zdravotní pojištění12),
+>
+> - c) územní samosprávný celek schválí svůj rozpočet na následující rok jako vyrovnaný nebo přebytkový; rozpočet územního samosprávného celku může být schválen jako schodkový jen při splnění podmínek stanovených zákonem upravujícím rozpočtová pravidla územních rozpočtů13),
+>
+> - d) veřejné instituce, na něž se nevztahují písmena a) až c), nesmí po období, v němž výše dluhu činí nejméně 55 % hrubého domácího produktu, zřizovat nové závazky ze smluv, s výjimkou závazků týkajících se projektů spolufinancovaných z rozpočtu Evropské unie nebo závazků nezbytných k plnění rozhodnutí soudu nebo orgánu státní moci, vedoucí k navýšení dluhu sektoru veřejných institucí na dobu delší než jeden kalendářní rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ff684f83cda81c9f224 -->
 
 ### § 15 — Únikové klauzule
 
@@ -1482,6 +2320,62 @@ Logika: **stabilita finančního systému** je nadřazena cíli zastavení nový
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb7ce04f42a76d79bc91 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Opatření podle [[#§ 14|§ 14]] se neuplatní
+>
+> - a) v případě významného zhoršení ekonomického vývoje po dobu 24 měsíců od prvního dne kalendářního měsíce následujícího po kalendářním měsíci, v němž Český statistický úřad ve čtvrtletních národních účtech zveřejní mezičtvrtletní pokles hrubého domácího produktu upraveného o cenové a sezónní vlivy a počet pracovních dní za poslední čtvrtletí o nejméně 2 % nebo meziroční pokles hrubého domácího produktu upraveného o cenové vlivy za poslední čtvrtletí o nejméně 3 %,
+>
+> - b) v případě nouzového stavu, stavu ohrožení státu nebo válečného stavu,
+>
+> - c) po dobu mimořádných opatření vyhlášených vládou ke zvýšení obranyschopnosti státu v případě zhoršování bezpečnostní situace státu, nebo
+>
+> - d) po dobu 24 měsíců od prvního dne kalendářního měsíce následujícího po kalendářním měsíci, v němž ministerstvo zveřejní, že úhrn nezbytných výdajů státního rozpočtu spojených s odstraňováním následků živelních pohrom, které zasáhly území České republiky, a výdajů vyplývajících z plnění mezinárodních smluv a jiných mezinárodních závazků České republiky přesáhl 3 % nominálního hrubého domácího produktu.
+>
+> (2) Opatření omezující zřizování nových závazků ze smluv podle § 14 písm. d) se neuplatní pro veřejné instituce, které zřizují nové závazky související s plněním zákonných povinností Garančního systému finančního trhu, podle zákona upravujícího činnost bank14), zákona upravujícího činnost spořitelních a úvěrních družstev15) nebo zákona upravujícího ozdravné postupy a řešení krize na finančním trhu16).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb7ce04f42a76d79bc91 -->
+
 ### § 16 — Opatření při překročení 60 % HDP (maastrichtský strop)
 
 > **§ 16**
@@ -1548,6 +2442,52 @@ V praxi pokud by ČR překročila 60 % HDP, **EDP procedury** by se aktivovaly a
 **Typicky rozhodné důkazy / podklady:** vyhlášení výše dluhu, EDP notifikace ČSÚ, doporučení Rady EU, vládní konsolidační návrh, stanoviska NRR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=66f3cd968b3991bddbba generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Činí-li výše dluhu sektoru veřejných institucí více než 60 % nominálního hrubého domácího produktu, vláda navrhne opatření vedoucí ke snížení této výše17).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66f3cd968b3991bddbba -->
 
 ### Hospodaření územního samosprávného celku
 
@@ -1666,6 +2606,70 @@ Před přijetím ZRO existoval návrh **ústavního zákona o rozpočtové odpov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=76a415e47b4bea3f5af6 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Územní samosprávný celek hospodaří v zájmu zdravých a udržitelných veřejných financí tak, aby výše jeho dluhu nepřekročila k rozvahovému dni 60 % průměru jeho příjmů za poslední 4 rozpočtové roky.
+>
+> (2) Překročí-li dluh územního samosprávného celku k rozvahovému dni 60 % průměru jeho příjmů za poslední 4 rozpočtové roky, územní samosprávný celek je povinen jej v následujícím kalendářním roce snížit nejméně o 5 % z rozdílu mezi výší svého dluhu a 60 % průměru svých příjmů za poslední 4 rozpočtové roky.
+>
+> (3) Nesníží-li územní samosprávný celek svůj dluh a jeho dluh k následujícímu rozvahovému dni převyšuje 60 % průměru jeho příjmů za poslední 4 rozpočtové roky, ministerstvo v následujícím kalendářním roce rozhodne podle zákona [[o rozpočtovém určení daní|o rozpočtovém určení daní]] o pozastavení převodu jeho podílu na výnosu daní.
+>
+> (4) Příjmy územního samosprávného celku se pro účely tohoto zákona rozumí souhrn všech peněžitých plnění přijatých do rozpočtu13) v průběhu rozpočtového roku, konsolidovaných podle jiného právního předpisu18).
+>
+> (5) Dluhem územního samosprávného celku se pro účely tohoto zákona rozumí hodnota nesplacených závazků z
+>
+> - a) vydaných dluhopisů,
+>
+> - b) přijatých úvěrů, zápůjček a návratných finančních výpomocí,
+>
+> - c) realizace plnění ze záruk,
+>
+> - d) vystavených směnek,
+>
+> - e) veřejnoprávních a soukromoprávních vztahů s dobou splatnosti delší než 1 rok, s výjimkou závazků z transferů a závazků, jejichž cílem nebylo odložení splácení dluhů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=76a415e47b4bea3f5af6 -->
+
 ### § 18 — Vyhodnocování ÚSC ministerstvem
 
 > **§ 18**
@@ -1723,6 +2727,52 @@ Zveřejnění je provedeno na webu MF (mfcr.cz) v sekci „Územní samosprávn�
 **Typicky rozhodné důkazy / podklady:** zveřejněná tabulka MF, výkaz FIN 2-12 M a rozvaha, konsolidovaná data dle vyhlášky č. 5/2014 Sb., korespondence s MF a bankou.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a6d52cf715a12c2d32c2 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Ministerstvo každý rok vyhodnocuje údaje o příjmech a dluzích územních samosprávných celků a ministr financí informuje o výsledcích hodnocení vládu. Současně ministerstvo uveřejňuje za každý územní samosprávný celek poměr výše dluhu k průměru jeho příjmů za poslední 4 rozpočtové roky a případnou výši povinného snížení dluhu podle § 17 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6d52cf715a12c2d32c2 -->
 
 ## ČÁST TŘETÍ — VÝBOR PRO ROZPOČTOVÉ PROGNÓZY (§§ 19–20)
 
@@ -1801,6 +2851,56 @@ Důležitá norma: **většina veřejných institucí** (mimo ÚSC, DSO, přísp
 **Typicky rozhodné důkazy / podklady:** prognóza MF a doklad o předložení Výboru, zveřejněné posouzení Výboru, rozpočet dotčené VI a jím použité makropředpoklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d419d1c0f34dd751b46f generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Výbor pro rozpočtové prognózy (dále jen „Výbor“).
+>
+> (2) Výbor pro účely přípravy státního rozpočtu, rozpočtu státního fondu a rozpočtu zdravotní pojišťovny a jejich střednědobých výhledů pravidelně a souhrnně předem posuzuje makroekonomické a fiskální prognózy sektoru veřejných institucí zpracované ministerstvem, zejména z hlediska pravděpodobnosti jejich naplnění. Výsledek posouzení ministerstvo zveřejní a zohlední při svých prognózách.
+>
+> (3) Veřejné instituce s výjimkou veřejných institucí uvedených v § 3 písm. h) až l) použijí pro přípravu svého rozpočtu a střednědobého výhledu rozpočtu makroekonomickou a fiskální prognózu zpracovanou ministerstvem na základě nejnovějších informací, naposledy zveřejněnou ministerstvem a posouzenou Výborem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d419d1c0f34dd751b46f -->
 
 ### § 20 — Složení Výboru
 
@@ -1884,6 +2984,62 @@ Výbor má mít nejméně 7 členů (předseda + místopředseda + ≥ 5), jmeno
 **Typicky rozhodné důkazy / podklady:** jmenovací akt a jeho návrh (původce), statut a jednací řád Výboru, doklady o odměnách/náhradách, prezenční listiny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8380b6f7507d8c79fcb6 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Výbor se skládá z předsedy Výboru, místopředsedy Výboru a nejméně dalších 5 členů.
+>
+> (2) Předsedu Výboru a členy Výboru jmenuje vláda na návrh Rady na dobu 3 let.
+>
+> (3) Členství ve Výboru je čestnou funkcí.
+>
+> (4) Předpoklady pro funkci předsedy Výboru a členů Výboru, volba místopředsedy Výboru, jednání Výboru, práva a povinnosti členů Výboru, stanovení kritérií pro posuzování makroekonomických a fiskálních prognóz a vnitřní organizace Výboru se řídí statutem a jednacím řádem Výboru schváleným vládou na základě společného návrhu ministerstva a Rady.
+>
+> (5) Ministerstvo poskytuje Výboru nezbytné informace pro hodnocení prognóz a věcné podmínky pro jeho činnost.
+>
+> (6) Výdaje na činnost Výboru jsou hrazeny z rozpočtu ministerstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8380b6f7507d8c79fcb6 -->
 
 ## ČÁST ČTVRTÁ — RADA (§§ 21–33)
 
@@ -1989,6 +3145,68 @@ NRR **publikuje** všechny své zprávy a stanoviska na webu **rozpoctovarada.cz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=49c8ab134ba0b1beaddb generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Rada je nezávislý odborný orgán, který působí v oblasti fiskální a rozpočtové politiky.
+>
+> (2) Rada
+>
+> - a) hodnotí plnění číselných fiskálních pravidel, kterými jsou zejména pravidlo limitu výše dluhu, stanovení celkových výdajů sektoru veřejných institucí podle [[#§ 10|§ 10]], odvození výdajového rámce státního rozpočtu a státních fondů podle [[#§ 12|§ 12]] a hospodaření územního samosprávného celku, a vypracovává a předkládá Poslanecké sněmovně zprávu o jejich plnění,
+>
+> - b) zjišťuje výši dluhu a vyhlašuje ji ve Sbírce zákonů a mezinárodních smluv do 1 měsíce ode dne prvního zveřejnění výše dluhu sektoru veřejných institucí za předchozí kalendářní rok Českým statistickým úřadem,
+>
+> - c) sleduje vývoj hospodaření sektoru veřejných institucí,
+>
+> - d) s přihlédnutím k hospodářskému a společenskému rozvoji, zaměstnanosti a mezigenerační soudržnosti vypracovává a předkládá Poslanecké sněmovně zprávu o dlouhodobé udržitelnosti veřejných financí, která obsahuje hodnocení, jakým způsobem mohou plánované vládní politiky svými přímými dlouhodobými dopady pravděpodobně ovlivnit udržitelnost veřejných financí,
+>
+> - e) vypracovává stanovisko k výpočtu hodnoty nápravné složky podle [[#§ 11|§ 11]],
+>
+> - f) vypracovává a vládě a Poslanecké sněmovně předkládá stanovisko k dopadu navrhovaných úprav v oblasti důchodového pojištění na udržitelnost veřejných financí, pokud tyto návrhy podle vyhodnocení Rady významně ovlivní dlouhodobou finanční udržitelnost veřejných financí.
+>
+> (3) Stanoviska a zprávy Rada zveřejní bez zbytečného odkladu na svých internetových stránkách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 12, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49c8ab134ba0b1beaddb -->
+
 ### § 22 — Informační oprávnění NRR
 
 > **§ 22**
@@ -2051,6 +3269,52 @@ V praxi všechny veřejné instituce **spolupracují** — odmítnutí by bylo p
 **Typicky rozhodné důkazy / podklady:** žádost NRR s vymezením účelu, výpis z RES (S.13), odmítavá/vyhovující odpověď, případné posouzení režimu utajení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9f2cc2bdd6f78453653e generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Rada si může vyžádat informace a součinnost veřejných institucí související s plněním činností v rámci její působnosti a ty jsou v mezích své působnosti povinny součinnost a informace Radě poskytnout.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f2cc2bdd6f78453653e -->
 
 ### § 23 — Funkce člena Rady
 
@@ -2140,6 +3404,60 @@ NRR si schvaluje **vlastní jednací řád** — bez schválení vládou nebo pa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d6b21ce6774bd5eeb29b generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Funkce člena Rady je veřejnou funkcí.
+>
+> (2) Členové Rady vykonávají své funkce osobně a pro jejich výkon nesmějí přijímat ani vyžadovat pokyny od jiného orgánu nebo osoby.
+>
+> (3) Rada každoročně zpracuje a zveřejní plán své činnosti na svých internetových stránkách.
+>
+> (4) Rada schvaluje návrh rozpočtu Úřadu Rady, včetně jeho změn, střednědobý výhled rozpočtu na 2 další následující rozpočtové roky a závěrečný účet kapitoly státního rozpočtu.
+>
+> (5) Rada schvaluje jednací řád Rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d6b21ce6774bd5eeb29b -->
+
 ### § 24 — Složení Rady
 
 > **§ 24**
@@ -2216,6 +3534,58 @@ Předseda NRR se účastní schůzí Poslanecké sněmovny, Senátu a jejich org
 **Typicky rozhodné důkazy / podklady:** program a zápis jednání vlády/výboru, žádost předsedy NRR o slovo, audiozáznam, projednávaná zpráva/stanovisko NRR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=49e52135cfd36f81de3f generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Rada se skládá z předsedy a 2 dalších členů.
+>
+> (2) Předseda Rady jedná jménem Rady navenek.
+>
+> (3) Předseda Rady je oprávněn zúčastnit se s hlasem poradním schůze vlády a jednání Výboru. Požádá-li předseda Rady o slovo, musí mu být uděleno.
+>
+> (4) Předseda Rady se účastní schůzí Poslanecké sněmovny, Senátu nebo jejich orgánů, pokud jsou projednávány zprávy nebo stanoviska Rady. Požádá-li předseda Rady o slovo, musí mu být uděleno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49e52135cfd36f81de3f -->
 
 ### § 25 — Volba členů Rady
 
@@ -2294,6 +3664,58 @@ Klíčová **prokativní klauzule** — pokud Poslanecká sněmovna nehlasuje **
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=978d63fe501c5b5b1d41 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Předsedu Rady volí Poslanecká sněmovna na návrh vlády.
+>
+> (2) Další 2 členy volí Poslanecká sněmovna, po jednom na návrh Senátu a na návrh České národní banky.
+>
+> (3) Není-li člen Rady navržen tím, kdo je oprávněn jej navrhnout do 6 měsíců ode dne zániku nebo skončení funkce člena Rady, může být navržen jednou pětinou všech poslanců Poslanecké sněmovny.
+>
+> (4) Není-li člen Rady zvolen podle odstavců 1 a [[#§ 2|2]] do 60 dnů ode dne předložení návrhu Poslanecké sněmovně jen proto, že Poslanecká sněmovna v uvedené lhůtě o této věci nehlasovala, platí, že Poslanecká sněmovna s návrhem souhlasí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=978d63fe501c5b5b1d41 -->
+
 ### § 26 — Předpoklady člena Rady
 
 > **§ 26**
@@ -2370,6 +3792,62 @@ Maximálně **2× za sebou** (resp. „více než dvakrát"). Toto omezení brá
 **Typicky rozhodné důkazy / podklady:** vysokoškolské diplomy, výpis z Rejstříku trestů, doklady o oboru a délce praxe, odborné reference a publikace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2a445d61371317bf7f0 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Členem Rady může být zvolena pouze fyzická osoba, která
+>
+> - a) je plně svéprávná,
+>
+> - b) nebyla pravomocně odsouzena pro úmyslný trestný čin,
+>
+> - c) má ukončené vysokoškolské vzdělání v magisterském studijním programu a
+>
+> - d) je v oboru financí či makroekonomie uznávanou a zkušenou osobností s praxí v oboru v délce nejméně 10 let.
+>
+> (2) Nikdo nemůže být zvolen do funkce člena Rady více než dvakrát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2a445d61371317bf7f0 -->
 
 ### § 27 — Neslučitelnosti
 
@@ -2487,6 +3965,80 @@ Odkaz na **zákon č. 451/1991 Sb., lustrační zákon** — žadatel nesmí bý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0208197e9ce1d79d89c2 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) S funkcí člena Rady je neslučitelná
+>
+> - a) funkce v politické straně nebo v politickém hnutí,
+>
+> - b) členství v řídících, dozorčích a kontrolních orgánech podnikající právnické osoby,
+>
+> - c) funkce poslance, nebo senátora Parlamentu České republiky,
+>
+> - d) funkce člena vlády,
+>
+> - e) funkce soudce,
+>
+> - f) funkce soudce Ústavního soudu,
+>
+> - g) funkce státního zástupce,
+>
+> - h) funkce poslance Evropského parlamentu,
+>
+> - i) funkce člena Evropské komise,
+>
+> - j) funkce uvolněného člena zastupitelstva územního samosprávného celku,
+>
+> - k) funkce člena bankovní rady České národní banky,
+>
+> - l) výdělečná činnost s výjimkou činnosti vědecké, literární, publicistické, umělecké a pedagogické a s výjimkou správy vlastního majetku,
+>
+> - m) jakákoliv jiná činnost, která může způsobit střet zájmů mezi prováděním této činnosti a činností člena Rady.
+>
+> (2) Členem Rady nesmí být zvolena osoba, která nesplňuje předpoklady podle zákona stanovujícího předpoklady pro výkon některých funkcí ve státních orgánech a organizacích19) nebo která v předchozích 3 letech vykonávala funkci prezidenta republiky, člena vlády, člena bankovní rady České národní banky, poslance či senátora Parlamentu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0208197e9ce1d79d89c2 -->
+
 ### § 28 — Funkční období
 
 > **§ 28**
@@ -2559,6 +4111,56 @@ Po skončení funkčního období člen Rady **vykonává funkci dále** až do 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8ab208c5e836ac38813e generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Funkční období člena Rady je 6 let.
+>
+> (2) Funkční období počíná dnem zvolení, je-li funkce člena Rady neobsazena, jinak dnem následujícím po dni skončení funkčního období dosavadního člena Rady, za něhož je nový člen Rady zvolen. Nový člen Rady se volí nejpozději 2 měsíce před řádným uplynutím funkčního období člena Rady. V ostatních případech je člen Rady do funkce navržen tak, aby období ode dne zániku funkce člena Rady do dne zvolení nového člena Rady nebylo delší než 90 dní.
+>
+> (3) Člen Rady, jehož funkční období skončilo, vykonává svou funkci do dne složení slibu nově zvoleného člena Rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8ab208c5e836ac38813e -->
+
 ### § 29 — Slib člena Rady
 
 > **§ 29**
@@ -2626,6 +4228,56 @@ Pokud člen Rady **odmítne** složit slib nebo ho složí **s výhradou** („s
 **Typicky rozhodné důkazy / podklady:** zápis a audiozáznam o složení slibu, datum zániku funkce předchůdce, text slibu dle odst. 2.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f3e363d6145fcda7b981 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Člen Rady se ujímá výkonu funkce složením slibu do rukou předsedy Poslanecké sněmovny, ne však dříve než dnem následujícím po dni, kdy zanikla funkce dosavadního člena Rady.
+>
+> (2) Slib člena Rady zní: „Slibuji na svou čest a svědomí, že funkci člena Národní rozpočtové rady budu vykonávat nezávisle a nestranně, v souladu s právním řádem České republiky.“
+>
+> (3) Odmítne-li člen Rady složit slib nebo složí-li slib s výhradou, hledí se na něj, jako by nebyl zvolen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3e363d6145fcda7b981 -->
 
 ### § 30 — Zánik funkce
 
@@ -2710,6 +4362,66 @@ PS **může** (nikoli musí) odvolat člena Rady, který nevykonává funkci **v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=63495df09291e0d49c50 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Funkce člena Rady zaniká
+>
+> - a) uplynutím funkčního období,
+>
+> - b) dnem bezprostředně následujícím po dni doručení písemně učiněného vzdání se funkce předsedovi Poslanecké sněmovny, anebo pozdějším dnem uvedeným v doručeném vzdání se funkce,
+>
+> - c) dnem nabytí právní moci rozsudku, jímž byla omezena jeho svéprávnost,
+>
+> - d) dnem nabytí právní moci rozsudku, jímž byl odsouzen pro úmyslný trestný čin, nebo
+>
+> - e) smrtí, prohlášením za nezvěstného nebo prohlášením za mrtvého.
+>
+> (2) Poslanecká sněmovna odvolá člena Rady, začal-li vykonávat funkci nebo činnost neslučitelnou s funkcí člena Rady podle § 27 odst. 1.
+>
+> (3) Člen Rady může být Poslaneckou sněmovnou odvolán ze své funkce, nevykonává-li funkci po dobu delší než 6 měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63495df09291e0d49c50 -->
+
 ### § 31 — Jednání Rady
 
 > **§ 31**
@@ -2775,6 +4487,58 @@ Sídlo NRR je v Praze — fyzicky **ulice Holečkova 31, Praha 5** (aktuální s
 **Typicky rozhodné důkazy / podklady:** prezenční listiny a hlasovací záznamy, žádost o svolání mimořádného zasedání, zápisy ze zasedání, jednací řád NRR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e730ce38b9b985574539 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Rada zasedá nejméně dvakrát za kalendářní měsíc. Zasedání Rady svolává předseda Rady nebo jiný člen Rady, nebyl-li její předseda dosud zvolen. Požádá-li písemně některý z členů Rady o svolání mimořádného zasedání, svolá předseda Rady toto zasedání bezodkladně.
+>
+> (2) Rada je usnášeníschopná, je-li přítomna většina členů Rady. Rada přijímá svá rozhodnutí většinou hlasů členů Rady.
+>
+> (3) Jednání Rady se řídí jednacím řádem Rady.
+>
+> (4) Sídlem Rady je Praha.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e730ce38b9b985574539 -->
 
 ### § 32 — Úřad Rady
 
@@ -2846,6 +4610,56 @@ Vedoucího Úřadu Rady **jmenuje a odvolává Rada** (kolektivně). Vedoucí je
 **Typicky rozhodné důkazy / podklady:** pracovní smlouvy a výpovědi, vnitřní organizační a jednací řád, usnesení Rady o (od)volání vedoucího, doklady o postavení Úřadu jako OSS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bac05d65b8f93fa20fec generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Úřad Rady, který zajišťuje úkoly spojené s odborným, organizačním, administrativním, personálním a technickým zabezpečením činnosti Rady. V čele Úřadu Rady stojí vedoucí Úřadu Rady.
+>
+> (2) Úřad Rady je organizační složkou státu a účetní jednotkou. V pracovněprávních vztazích jedná jménem státu vedoucí Úřadu Rady.
+>
+> (3) Vedoucího Úřadu Rady jmenuje a odvolává Rada. Vedoucí Úřadu Rady je podřízen předsedovi Rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bac05d65b8f93fa20fec -->
 
 ### § 33 — Financování NRR
 
@@ -2926,6 +4740,58 @@ Adresáti: MF + Rozpočtový výbor PS + zveřejnění na webu NRR.
 **Typicky rozhodné důkazy / podklady:** návrh rozpočtu kapitoly NRR schválený Radou, doklady o předložení MF i Rozpočtovému výboru PS, výroční zpráva a zpráva o plnění rozpočtu, zpráva auditora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d280ca12ac7cf986ec88 generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Výdaje na činnost Rady a Úřadu Rady jsou hrazeny ze samostatné kapitoly státního rozpočtu.
+>
+> (2) Rada předkládá návrh rozpočtu a střednědobý výhled rozpočtu Úřadu Rady na 2 další roky ministerstvu a Rozpočtovému výboru Poslanecké sněmovny.
+>
+> (3) Výroční zprávu podle zákona [[o účetnictví|o účetnictví]] a zprávu o plnění rozpočtu Rada předkládá nejpozději do 3 měsíců po skončení kalendářního roku ministerstvu a Rozpočtovému výboru Poslanecké sněmovny. Výroční zprávu Rada zveřejní na svých internetových stránkách.
+>
+> (4) Účetní závěrka Úřadu Rady je ověřována auditorem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d280ca12ac7cf986ec88 -->
 
 ## ČÁST PÁTÁ — PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ (§§ 34–35)
 
@@ -3024,6 +4890,68 @@ Historicky:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c58806050a3a1b7548cb generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 34 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> (1) Veřejná instituce, která přede dnem nabytí účinnosti tohoto zákona neměla povinnost sestavit rozpočet, přiloží k návrhu rozpočtu podle § 5 odst. 3 informace o schváleném rozpočtu na běžný rok, údaje o očekávaných skutečnostech běžného roku a údaje o skutečném plnění rozpočtu za předcházející rok poprvé v roce 2019.
+>
+> (2) Ministerstvo navyšuje částku stanovenou podle § 10 odst. 1 pro rok
+>
+> - a) 2018 až o výši 0,5 % ministerstvem prognózovaného nominálního hrubého domácího produktu na rok 2018,
+>
+> - b) 2019 až o výši 0,25 % ministerstvem prognózovaného nominálního hrubého domácího produktu na rok 2019.
+>
+> (3) Pro účely [[#§ 11|§ 11]] se částka celkových výdajů sektoru veřejných institucí za rok
+>
+> - a) 2018 vypočtená zpětně v roce 2019 navyšuje o částku použitou ministerstvem v roce 2018 podle odstavce 2 písm. a),
+>
+> - b) 2019 vypočtená zpětně v roce 2020 navyšuje o částku použitou ministerstvem v roce 2019 podle odstavce 2 písm. b).
+>
+> (4) Postup podle [[#§ 11|§ 11]] se uplatní poprvé v roce 2019. Výše nápravné složky z předchozího roku podle § 11 odst. 1 se v roce 2019 stanoví jako nulová hodnota.
+>
+> (5) Při první volbě členů Rady podle [[#§ 25|§ 25]] po nabytí účinnosti tohoto zákona je funkční období předsedy Rady 6 let, člena navrženého Senátem 4 roky a člena navrženého Českou národní bankou 2 roky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 10, § 11, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c58806050a3a1b7548cb -->
+
 ### § 35 — Účinnost
 
 > **§ 35**
@@ -3092,6 +5020,52 @@ ZRO byl tedy přijat za vlády **B. Sobotky** (ČSSD–KDU-ČSL–ANO) jako sně
 **Typicky rozhodné důkazy / podklady:** text § 35, údaj o vyhlášení ve Sbírce (částka 5/2017 Sb.), datum sankčního úkonu, doklady o dluhu ÚSC za rozhodné období.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4d2f993064509761721f generator=2026-07-17.4 source_sha256=eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70 -->
+#### Revizní doplnění k § 35 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/23-2017 Zákon o pravidlech rozpočtové odpovědnosti.md`; identifikátor verze: `SB-2017-00023_2025-01-01`; SHA-256: `eec0efc98db692ffe981a55241aa2b1e28e2599f1058cb3f31cc98e64dc2da70`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2017, s výjimkou § 17 odst. 3, který nabývá účinnosti dnem 1. ledna 2018.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d2f993064509761721f -->
 
 ## Závěrečná shrnující tabulka — fiskální architektura ZRO
 
